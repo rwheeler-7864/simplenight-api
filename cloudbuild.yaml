@@ -1,0 +1,51 @@
+timeout: 20m
+
+steps:
+- name: 'gcr.io/cloud-builders/kubectl'
+  id: 'Code'
+  entrypoint: '/bin/bash'
+  args:
+  - '-xc'
+  - echo 'Code analysis'
+- name: 'gcr.io/cloud-builders/gcloud'
+  id: 'AppEngineDeploy'
+  entrypoint: 'bash'
+  args:
+  - '-xc'
+  - if [ $BRANCH_NAME = develop -a $PROJECT_ID = simplenight-api-278418 ]; then mv /workspace/cloudbuild.yaml /tmp/ && gcloud app deploy && mv /tmp/cloudbuild.yaml /workspace/ ; else echo "Not a develop branch commit, skipping QA deployment." ; fi
+- name: 'docker'
+  id: 'Build'
+  args: [ 'build', '-t', 'gcr.io/$PROJECT_ID/bog.simplenight-api', '.', '-f', 'Dockerfile-prod']
+- name: 'docker'
+  id: 'TagWithBuildId'
+  args: [ 'tag', 'gcr.io/$PROJECT_ID/bog.simplenight-api', 'gcr.io/$PROJECT_ID/bog.simplenight-api:$BUILD_ID' ]
+- name: 'docker'
+  id: 'TagWithCommitSHA'
+  args: [ 'tag', 'gcr.io/$PROJECT_ID/bog.simplenight-api', 'gcr.io/$PROJECT_ID/bog.simplenight-api:$COMMIT_SHA' ]
+- name: 'docker'
+  id: 'TagWithShortSHA'
+  args: [ 'tag', 'gcr.io/$PROJECT_ID/bog.simplenight-api', 'gcr.io/$PROJECT_ID/bog.simplenight-api:$SHORT_SHA' ]
+- name: 'gcr.io/cloud-builders/kubectl'
+  id: 'UnitTest'
+  entrypoint: '/bin/bash'
+  args:
+  - '-xc'
+  - echo 'Unit test execution'
+- name: 'gcr.io/cloud-builders/kubectl'
+  id: 'ProdDeploy'
+  entrypoint: '/bin/bash'
+  args:
+  - '-xc'
+  - if [ $BRANCH_NAME = master -a $PROJECT_ID = sn-prod ]; then /builder/kubectl.bash set image deployment/simplenight-api simplenight-api=gcr.io/$PROJECT_ID/bog.simplenight-api:$COMMIT_SHA ; else echo "Not a master branch commit, skipping production deployment." ; fi
+  env:
+  - 'CLOUDSDK_COMPUTE_ZONE=us-central1-a'
+  - 'CLOUDSDK_CONTAINER_CLUSTER=bog-cluster01'
+- name: 'gcr.io/cloud-builders/kubectl'
+  id: 'RegressionTest'
+  entrypoint: '/bin/bash'
+  args:
+  - '-xc'
+  - echo 'Regression test execution'
+
+images:
+- 'gcr.io/$PROJECT_ID/bog.simplenight-api'

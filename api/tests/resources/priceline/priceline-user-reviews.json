@@ -1,0 +1,75 @@
+{
+  "getHotelReviews": {
+    "results": {
+      "status": "Success",
+      "status_code": 100,
+      "hotel_name": "Best Western Plus Bayside Hotel",
+      "review_rating": 9.4,
+      "review_count": 5,
+      "rating_count": 5,
+      "review_page": 1,
+      "review_page_total": 1,
+      "review_count_per_page": 20,
+      "id": "700363264",
+      "id_t": "31710305",
+      "review_data": [
+        {
+          "inventory": "tweb",
+          "user_name": "Gregory",
+          "good_description": "Big clean room with a view of the estuary.",
+          "bad_description": "They charge 15 bucks for parking",
+          "review_text": "",
+          "average_rating": "10",
+          "average_rating_description": "Exceptional",
+          "traveller_type_name": "Solo Traveler",
+          "creation_date": "2020-09-02"
+        },
+        {
+          "inventory": "tweb",
+          "user_name": "Verified Hotel Guest",
+          "good_description": "",
+          "bad_description": "Breakfast option could be slightly better",
+          "review_text": "",
+          "average_rating": "10",
+          "average_rating_description": "Exceptional",
+          "traveller_type_name": "Family with Young Children",
+          "creation_date": "2019-03-27"
+        },
+        {
+          "inventory": "tweb",
+          "user_name": "Jamie",
+          "good_description": "EverythingÂ¸Â Room,pier, hotel bar\/pool,staff, location(Embarcadero cove). This is one of the best hotels I've ever stayed in.",
+          "bad_description": "Our shower knobs we're strip a bit but they came to fix it. Being from TX breakfast is usually a big meal. Their were a lot of simple healthy choices at this hotel.",
+          "review_text": "",
+          "average_rating": "10",
+          "average_rating_description": "Exceptional",
+          "traveller_type_name": "Traveling as Couple",
+          "creation_date": "2019-01-16"
+        },
+        {
+          "inventory": "tweb",
+          "user_name": "Verified Hotel Guest",
+          "good_description": "Waterfront View and front desk staff.  He was friendly and my check in process was fast.",
+          "bad_description": "I'm tall (6 feet). I would not have chosen to stay here had I known the bed would be almost on the floor.  It was difficult getting up from the bed because it was so low to the ground. My room also smelled funny.",
+          "review_text": "",
+          "average_rating": "7",
+          "average_rating_description": "Good",
+          "traveller_type_name": "Business Traveler",
+          "creation_date": "2018-12-10"
+        },
+        {
+          "inventory": "tweb",
+          "user_name": "Allan",
+          "good_description": "Very comfortable room. Good breakfast. Free parking.",
+          "bad_description": "",
+          "review_text": "",
+          "average_rating": "10",
+          "average_rating_description": "Exceptional",
+          "traveller_type_name": "Business Traveler",
+          "creation_date": "2018-12-08"
+        }
+      ],
+      "time": "0.0527"
+    }
+  }
+}

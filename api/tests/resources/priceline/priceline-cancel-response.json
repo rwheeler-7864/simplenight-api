@@ -1,0 +1,10 @@
+{
+    "getHotelExpress.Cancel": {
+        "results": {
+            "status": "Success",
+            "status_code": 100,
+            "result": {"status": "Cancelled", "tracking_id": "5f8fd64fd5ffe3.74638205", "cancellation_id": "CANCEL123"},
+            "time": 0.2972
+        }
+    }
+}

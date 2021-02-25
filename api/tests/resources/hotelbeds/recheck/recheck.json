@@ -1,0 +1,1010 @@
+{
+  "auditData": {
+    "processTime": "298",
+    "timestamp": "2020-07-23 10:01:39.750",
+    "requestHost": "66.201.49.52, 70.132.18.137, 10.185.83.105, 10.185.88.177",
+    "serverId": "ip-10-185-89-85.eu-west-1.compute.internal.node.int-hbg-aws-eu-west-1.discovery",
+    "environment": "[awseuwest1, awseuwest1a, ip_10_185_89_85]",
+    "release": "a2d7820563b169331a1bba791968035ca78bb5c5",
+    "token": "346D713D03B24390A9C376F853FFEC84",
+    "internal": "0|03~~25495~-669769985~N~362BAC763480427159549129792800AAUK0000027002500080125495,03~~25963~-639849234~N~362BAC763480427159549129792800AAUK0000027002500080125963|UK|01|27|37|||||||||||R|1|10|~2~2~0|0|25||8|ba99fa9f7b504eae563b35b294ef2dcc||||"
+  },
+  "hotel": {
+    "checkOut": "2020-08-27",
+    "checkIn": "2020-08-22",
+    "code": 349168,
+    "name": "Grand Residences - Lake Tahoe",
+    "categoryCode": "3EST",
+    "categoryName": "3 STARS",
+    "destinationCode": "TVL",
+    "destinationName": "Lake Tahoe - CA/NV",
+    "zoneCode": 1,
+    "zoneName": "South Lake Tahoe",
+    "latitude": "38.955487637106742",
+    "longitude": "-119.94413940701634",
+    "rooms": [
+      {
+        "code": "DBL.QN",
+        "name": "DOUBLE QUEEN SIZE BED",
+        "rates": [
+          {
+            "rateKey": "20200822|20200827|W|256|349168|DBL.QN|ID_B2B_19|BB|RATE1|1~1~0||N@03~~25495~-669769985~N~362BAC763480427159549129792800AAUK0000027002500080125495",
+            "rateClass": "NOR",
+            "rateType": "BOOKABLE",
+            "net": "149.84",
+            "rateComments": "Car park NO.As a result of local government measures and guidelines put in place by services providers – including hotels and ancillaries – guests may find that some facilities or services are not available.Please visit https://static-sources.s3-eu-west-1.amazonaws.com/policy/index.html for further information. (15/05/2020-31/12/2020) ",
+            "paymentType": "AT_WEB",
+            "packaging": false,
+            "boardCode": "BB",
+            "boardName": "BED AND BREAKFAST",
+            "cancellationPolicies": [
+              {
+                "amount": "149.84",
+                "from": "2020-08-14T23:59:00-07:00"
+              }
+            ],
+            "rooms": 1,
+            "adults": 1,
+            "children": 0
+          },
+          {
+            "rateKey": "20200822|20200827|W|256|349168|DBL.QN|ID_B2B_19|RO|RATE1|1~1~0||N@03~~25963~-639849234~N~362BAC763480427159549129792800AAUK0000027002500080125963",
+            "rateClass": "NOR",
+            "rateType": "BOOKABLE",
+            "net": "99.89",
+            "rateComments": "Car park NO.As a result of local government measures and guidelines put in place by services providers – including hotels and ancillaries – guests may find that some facilities or services are not available.Please visit https://static-sources.s3-eu-west-1.amazonaws.com/policy/index.html for further information. (15/05/2020-31/12/2020) ",
+            "paymentType": "AT_WEB",
+            "packaging": false,
+            "boardCode": "RO",
+            "boardName": "ROOM ONLY",
+            "cancellationPolicies": [
+              {
+                "amount": "99.89",
+                "from": "2020-08-14T23:59:00-07:00"
+              }
+            ],
+            "rooms": 1,
+            "adults": 1,
+            "children": 0
+          }
+        ]
+      }
+    ],
+    "totalNet": "249.73",
+    "currency": "EUR",
+    "upselling": {
+      "rooms": [
+        {
+          "code": "QUA.B2",
+          "name": "QUADRUPLE TWO BEDROOMS",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.B2|ID_B2B_19|HB|RATE1|1~1~0||N@03~~25d3cd~-1109355307~N~3A105E6CD869401159549129967300AAUK0000001000100010525d3cd",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "973.93",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "486.97",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "973.93",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "824.09"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.B2|ID_B2B_19|FB|RATE1|1~1~0||N@03~~25b3e6~-1808258029~N~3A105E6CD869401159549129967300AAUK0000001000100010525b3e6",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "998.91",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "499.45",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "998.91",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "849.07"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.B2|ID_B2B_19|RO|RATE1|1~1~0||N@03~~202383~1259310482~N~3A105E6CD869401159549129967300AAUK00000010001000105202383",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "899.02",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "449.51",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "899.02",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "749.18"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.B2|ID_B2B_19|BB|RATE1|1~1~0||N@03~~2613b4~1970212079~N~3A105E6CD869401159549129967300AAUK000000100010001052613b4",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "948.97",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "474.48",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "948.96",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "799.13"
+            }
+          ]
+        },
+        {
+          "code": "DBL.QN",
+          "name": "DOUBLE QUEEN SIZE BED",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.QN|ID_B2B_19|HB|RATE1|1~1~0||N@03~~251ae~-573706047~N~3A105E6CD869401159549129967300AAUK00000010001000105251ae",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "174.81",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "87.41",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "174.81",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "24.97"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.QN|ID_B2B_19|FB|RATE1|1~1~0||N@03~~24ec7~-1562378615~N~3A105E6CD869401159549129967300AAUK0000001000100010524ec7",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "199.78",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "99.89",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "199.78",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "49.94"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.QN|ID_B2B_19|BB|RATE1|1~1~0||N@03~~25495~25334577~N~3A105E6CD869401159549129967300AAUK0000001000100010525495",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "149.84",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "74.92",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "149.84",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "49.95"
+            }
+          ]
+        },
+        {
+          "code": "DBL.ST",
+          "name": "DOUBLE STANDARD",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.ST|ID_B2B_19|RO|RATE1|1~1~0||N@03~~24ec7~-2082734356~N~3A105E6CD869401159549129967300AAUK0000001000100010524ec7",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "199.78",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "99.89",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "199.78",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "49.94"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.ST|ID_B2B_19|FB|RATE1|1~1~0||N@03~~24312b~-205792365~N~3A105E6CD869401159549129967300AAUK0000001000100010524312b",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "299.67",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "149.84",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "299.67",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "149.83"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.ST|ID_B2B_19|HB|RATE1|1~1~0||N@03~~246112~-272189355~N~3A105E6CD869401159549129967300AAUK00000010001000105246112",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "274.70",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "137.35",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "274.70",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "124.86"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.ST|ID_B2B_19|BB|RATE1|1~1~0||N@03~~249f9~1731573935~N~3A105E6CD869401159549129967300AAUK00000010001000105249f9",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "249.73",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "124.87",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "249.73",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "99.89"
+            }
+          ]
+        },
+        {
+          "code": "TPL.QN",
+          "name": "TRIPLE QUEEN SIZE BED",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.QN|ID_B2B_19|HB|RATE1|1~1~0||N@03~~21a2a2~1254823151~N~3A105E6CD869401159549129967300AAUK0000001000100010521a2a2",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "674.26",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "337.13",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "674.26",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "524.42"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.QN|ID_B2B_19|RO|RATE1|1~1~0||N@03~~223257~-569932724~N~3A105E6CD869401159549129967300AAUK00000010001000105223257",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "599.35",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "299.67",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "599.35",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "449.51"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.QN|ID_B2B_19|BB|RATE1|1~1~0||N@03~~21e289~391447145~N~3A105E6CD869401159549129967300AAUK0000001000100010521e289",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "649.30",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "324.65",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "649.29",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "499.46"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.QN|ID_B2B_19|FB|RATE1|1~1~0||N@03~~2182bb~-1002233363~N~3A105E6CD869401159549129967300AAUK000000100010001052182bb",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "699.24",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "349.62",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "699.24",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "549.40"
+            }
+          ]
+        },
+        {
+          "code": "QUA.QN",
+          "name": "QUADRUPLE QUEEN SIZE BED",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.QN|ID_B2B_19|RO|RATE1|1~1~0||N@03~~21e289~-1470152225~N~3A105E6CD869401159549129967300AAUK0000001000100010521e289",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "649.30",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "324.65",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "649.29",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "499.46"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.QN|ID_B2B_19|FB|RATE1|1~1~0||N@03~~2132ed~1151121024~N~3A105E6CD869401159549129967300AAUK000000100010001052132ed",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "749.19",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "374.59",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "749.18",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "599.35"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.QN|ID_B2B_19|BB|RATE1|1~1~0||N@03~~2182bb~571593724~N~3A105E6CD869401159549129967300AAUK000000100010001052182bb",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "699.24",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "349.62",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "699.24",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "549.40"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.QN|ID_B2B_19|HB|RATE1|1~1~0||N@03~~2152d4~-219699486~N~3A105E6CD869401159549129967300AAUK000000100010001052152d4",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "724.21",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "362.11",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "724.21",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "574.37"
+            }
+          ]
+        },
+        {
+          "code": "DBL.B2",
+          "name": "DOUBLE TWO BEDROOMS",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.B2|ID_B2B_19|BB|RATE1|1~1~0||N@03~~2132ed~462993662~N~3A105E6CD869401159549129967300AAUK000000100010001052132ed",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "749.19",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "374.59",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "749.18",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "599.35"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.B2|ID_B2B_19|HB|RATE1|1~1~0||N@03~~20f306~322461572~N~3A105E6CD869401159549129967300AAUK0000001000100010520f306",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "774.15",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "387.08",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "774.15",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "624.31"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.B2|ID_B2B_19|RO|RATE1|1~1~0||N@03~~2182bb~743007201~N~3A105E6CD869401159549129967300AAUK000000100010001052182bb",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "699.24",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "349.62",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "699.24",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "549.40"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|DBL.B2|ID_B2B_19|FB|RATE1|1~1~0||N@03~~20d31f~1693282082~N~3A105E6CD869401159549129967300AAUK0000001000100010520d31f",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "799.13",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "399.56",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "799.13",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "649.29"
+            }
+          ]
+        },
+        {
+          "code": "TPL.B2",
+          "name": "TRIPLE TWO BEDROOMS",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.B2|ID_B2B_19|BB|RATE1|1~1~0||N@03~~202383~-1174057444~N~3A105E6CD869401159549129967300AAUK00000010001000105202383",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "899.02",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "449.51",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "899.02",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "749.18"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.B2|ID_B2B_19|HB|RATE1|1~1~0||N@03~~26339b~644585730~N~3A105E6CD869401159549129967300AAUK0000001000100010526339b",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "923.99",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "462.00",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "923.99",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "774.15"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.B2|ID_B2B_19|FB|RATE1|1~1~0||N@03~~2613b4~396384992~N~3A105E6CD869401159549129967300AAUK000000100010001052613b4",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "948.97",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "474.48",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "948.96",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "799.13"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.B2|ID_B2B_19|RO|RATE1|1~1~0||N@03~~208351~410379615~N~3A105E6CD869401159549129967300AAUK00000010001000105208351",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "849.08",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "424.54",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "849.07",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "699.24"
+            }
+          ]
+        },
+        {
+          "code": "QUA.ST",
+          "name": "QUADRUPLE STANDARD",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.ST|ID_B2B_19|BB|RATE1|1~1~0||N@03~~2331c1~772317888~N~3A105E6CD869401159549129967300AAUK000000100010001052331c1",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "449.51",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "224.76",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "449.51",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "299.67"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.ST|ID_B2B_19|FB|RATE1|1~1~0||N@03~~22d1f3~1288815076~N~3A105E6CD869401159549129967300AAUK0000001000100010522d1f3",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "499.45",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "249.73",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "499.45",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "349.61"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.ST|ID_B2B_19|RO|RATE1|1~1~0||N@03~~23818f~162961923~N~3A105E6CD869401159549129967300AAUK0000001000100010523818f",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "399.56",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "199.78",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "399.56",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "249.72"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|QUA.ST|ID_B2B_19|HB|RATE1|1~1~0||N@03~~2301da~2050747910~N~3A105E6CD869401159549129967300AAUK000000100010001052301da",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "474.48",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "237.24",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "474.48",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "324.64"
+            }
+          ]
+        },
+        {
+          "code": "TPL.ST",
+          "name": "TRIPLE STANDARD",
+          "rates": [
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.ST|ID_B2B_19|BB|RATE1|1~1~0||N@03~~23818f~2024561293~N~3A105E6CD869401159549129967300AAUK0000001000100010523818f",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "399.56",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "199.78",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "399.56",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "249.72"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.ST|ID_B2B_19|FB|RATE1|1~1~0||N@03~~2331c1~-801509199~N~3A105E6CD869401159549129967300AAUK000000100010001052331c1",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "449.51",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "FB",
+              "boardName": "FULL BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "224.76",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "449.51",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "299.67"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.ST|ID_B2B_19|RO|RATE1|1~1~0||N@03~~23e15d~-1353059216~N~3A105E6CD869401159549129967300AAUK0000001000100010523e15d",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "349.62",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "RO",
+              "boardName": "ROOM ONLY",
+              "cancellationPolicies": [
+                {
+                  "amount": "174.81",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "349.62",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "199.78"
+            },
+            {
+              "rateKey": "20200822|20200827|W|256|349168|TPL.ST|ID_B2B_19|HB|RATE1|1~1~0||N@03~~2361a8~-1306573709~N~3A105E6CD869401159549129967300AAUK000000100010001052361a8",
+              "rateClass": "NOR",
+              "rateType": "RECHECK",
+              "net": "424.54",
+              "allotment": 9,
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "HB",
+              "boardName": "HALF BOARD",
+              "cancellationPolicies": [
+                {
+                  "amount": "212.26",
+                  "from": "2020-08-14T23:59:00-07:00"
+                },
+                {
+                  "amount": "424.54",
+                  "from": "2020-08-19T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0,
+              "rateup": "274.70"
+            }
+          ]
+        }
+      ]
+    },
+    "paymentDataRequired": false
+  }
+}

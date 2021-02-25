@@ -1,0 +1,206 @@
+{
+  "code": "974626",
+  "type": "TOUR",
+  "categories": [
+    "ATTRACTION"
+  ],
+  "timezone": "America/Los_Angeles",
+  "images": [
+    {
+      "url": "https://ucarecdn.com/18dc345d-65f4-413d-91cd-f71159d55d04/1.jpeg",
+      "name": {
+        "en": "Attraction Image"
+      },
+      "description": {
+        "en": "Attraction Large Image"
+      }
+    },
+    {
+      "url": "https://ucarecdn.com/c7145ada-7576-4a21-8420-76d2ceba30d4/3.jpeg",
+      "name": {
+        "en": "Attraction Image"
+      },
+      "description": {
+        "en": "Attraction Large Image"
+      }
+    },
+    {
+      "url": "https://ucarecdn.com/6b40ecd2-6f15-4892-9818-282bd00688cd/2.jpeg",
+      "name": {
+        "en": "Attraction Image"
+      },
+      "description": {
+        "en": "Attraction Large Image"
+      }
+    },
+    {
+      "url": "https://ucarecdn.com/05ad4395-a557-4fff-be21-4e4b14bcdda1/5.jpeg",
+      "name": {
+        "en": "Attraction Image"
+      },
+      "description": {
+        "en": "Attraction Large Image"
+      }
+    },
+    {
+      "url": "https://ucarecdn.com/65595cad-c7de-44a4-9b02-4ed74efb8ffb/4.jpeg",
+      "name": {
+        "en": "Attraction Image"
+      },
+      "description": {
+        "en": "Attraction Large Image"
+      }
+    }
+  ],
+  "contact": {
+    "name": "Tiqets",
+    "email": "info@tiqets.com",
+    "website": "https://www.tiqets.com",
+    "address": "James Wattstraat 77 1097 DL, Amsterdam, Netherlands",
+    "phones": []
+  },
+  "locations": [
+    {
+      "latitude": 37.7857182,
+      "longitude": -122.40105080000001,
+      "address": "151, 3rd Street"
+    }
+  ],
+  "availabilities": [
+    "2021-02-15",
+    "2021-02-16",
+    "2021-02-18",
+    "2021-02-19",
+    "2021-02-20",
+    "2021-02-21",
+    "2021-02-22",
+    "2021-02-23",
+    "2021-02-25",
+    "2021-02-26",
+    "2021-02-27",
+    "2021-02-28",
+    "2021-03-01",
+    "2021-03-02",
+    "2021-03-04",
+    "2021-03-05",
+    "2021-03-06",
+    "2021-03-07",
+    "2021-03-08",
+    "2021-03-09",
+    "2021-03-11",
+    "2021-03-12",
+    "2021-03-13",
+    "2021-03-14",
+    "2021-03-15",
+    "2021-03-16",
+    "2021-03-18",
+    "2021-03-19",
+    "2021-03-20",
+    "2021-03-21",
+    "2021-03-22",
+    "2021-03-23",
+    "2021-03-25",
+    "2021-03-26",
+    "2021-03-27",
+    "2021-03-28",
+    "2021-03-29",
+    "2021-03-30",
+    "2021-04-01",
+    "2021-04-02",
+    "2021-04-03",
+    "2021-04-04",
+    "2021-04-05",
+    "2021-04-06",
+    "2021-04-08",
+    "2021-04-09",
+    "2021-04-10",
+    "2021-04-11",
+    "2021-04-12",
+    "2021-04-13",
+    "2021-04-15",
+    "2021-04-16",
+    "2021-04-17",
+    "2021-04-18",
+    "2021-04-19",
+    "2021-04-20",
+    "2021-04-22",
+    "2021-04-23",
+    "2021-04-24",
+    "2021-04-25",
+    "2021-04-26",
+    "2021-04-27",
+    "2021-04-29",
+    "2021-04-30",
+    "2021-05-01",
+    "2021-05-02",
+    "2021-05-03",
+    "2021-05-04",
+    "2021-05-06",
+    "2021-05-07",
+    "2021-05-08",
+    "2021-05-09",
+    "2021-05-10",
+    "2021-05-11",
+    "2021-05-13",
+    "2021-05-14",
+    "2021-05-15",
+    "2021-05-16",
+    "2021-05-17",
+    "2021-05-18",
+    "2021-05-20",
+    "2021-05-21",
+    "2021-05-22",
+    "2021-05-23",
+    "2021-05-24",
+    "2021-05-25",
+    "2021-05-27",
+    "2021-05-28",
+    "2021-05-29",
+    "2021-05-30",
+    "2021-05-31",
+    "2021-06-01",
+    "2021-06-03",
+    "2021-06-04",
+    "2021-06-05",
+    "2021-06-06",
+    "2021-06-07",
+    "2021-06-08",
+    "2021-06-10",
+    "2021-06-11",
+    "2021-06-12",
+    "2021-06-13",
+    "2021-06-14",
+    "2021-06-15"
+  ],
+  "policies": [],
+  "cancellations": [
+    {
+      "type": "NO_REFUND",
+      "label": "This product is not refundable",
+      "policy": {
+        "en": "This product is not refundable"
+      },
+      "rules": [],
+      "uuid": "e45b200f-cb19-384f-88e4-e8f071ed65d8"
+    }
+  ],
+  "details": {
+    "name": {
+      "en": "San Francisco Museum of Modern Art (SFMOMA)"
+    },
+    "description": {
+      "en": "Not just one of the largest museums in the US, SFMOMA is also one of its finest. Regularly rotating exhibits plus a hefty permanent collection, displayed on the seven floors of the striking SnÃ¸hetta expansion make this a museum well worth your time in San Francisco."
+    },
+    "hours_operation": {
+      "en": null
+    },
+    "languages": {
+      "en": "Dutch, Spanish, Italian, German, English, Portuguese, French"
+    },
+    "duration": {
+      "en": null
+    },
+    "reviews": 50,
+    "rating": 4.8
+  }
+}

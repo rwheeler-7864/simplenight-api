@@ -1,0 +1,96 @@
+{
+  "auditData": {
+    "processTime": "6114",
+    "timestamp": "2020-07-13 09:18:27.351",
+    "requestHost": "66.201.49.52, 70.132.61.139, 10.185.80.230, 10.185.88.177",
+    "serverId": "ip-10-185-88-156.eu-west-1.compute.internal.node.int-hbg-aws-eu-west-1.discovery#A+",
+    "environment": "[awseuwest1, awseuwest1a, ip_10_185_88_156]",
+    "release": "5da0cee368425a2193c33bbe58a690800850e165",
+    "token": "EEE429DE11F14C22AB7FBF351030A8E6",
+    "internal": "0|03~~258d5~38516307~N~A54220C7D5764CE159462469934400AAUK00000260024000801258d5|UK|01|26|1|||||||||||R|1|5|~1~1~0|0|24|BONOTEL|8|ba99fa9f7b504eae563b35b294ef2dcc||||"
+  },
+  "booking": {
+    "reference": "256-5189272",
+    "clientReference": "FB767882",
+    "creationDate": "2020-07-13",
+    "status": "CONFIRMED",
+    "modificationPolicies": {
+      "cancellation": true,
+      "modification": false
+    },
+    "creationUser": "ba99fa9f7b504eae563b35b294ef2dcc",
+    "holder": {
+      "name": "JOHN",
+      "surname": "SMITH"
+    },
+    "hotel": {
+      "checkOut": "2020-08-17",
+      "checkIn": "2020-08-12",
+      "code": 133382,
+      "name": "Northstar California",
+      "categoryCode": "3EST",
+      "categoryName": "3 STARS",
+      "destinationCode": "TVL",
+      "destinationName": "Lake Tahoe - CA/NV",
+      "zoneCode": 3,
+      "zoneName": "Northstar",
+      "latitude": "39.287383",
+      "longitude": "-120.10425",
+      "rooms": [
+        {
+          "status": "CONFIRMED",
+          "id": 1,
+          "code": "ROO.RO",
+          "name": "Room RUN OF HOUSE",
+          "paxes": [
+            {
+              "roomId": 1,
+              "type": "AD",
+              "name": "John",
+              "surname": "Smith"
+            }
+          ],
+          "rates": [
+            {
+              "rateClass": "NOR",
+              "net": "216.43",
+              "rateComments": "Car park NO. Check-in hour 18:00 - . As a result of local government measures and guidelines put in place by services providers – including hotels and ancillaries – guests may find that some facilities or services are not available.Please visit https://static-sources.s3-eu-west-1.amazonaws.com/policy/index.html for further information. (15/05/2020-31/12/2020).",
+              "paymentType": "AT_WEB",
+              "packaging": false,
+              "boardCode": "BB",
+              "boardName": "BED AND BREAKFAST",
+              "cancellationPolicies": [
+                {
+                  "amount": "90.90",
+                  "from": "2020-08-04T23:59:00-07:00"
+                },
+                {
+                  "amount": "216.43",
+                  "from": "2020-08-09T23:59:00-07:00"
+                }
+              ],
+              "rooms": 1,
+              "adults": 1,
+              "children": 0
+            }
+          ]
+        }
+      ],
+      "totalNet": "216.43",
+      "currency": "EUR",
+      "supplier": {
+        "name": "Bonotel Exclusive Travel",
+        "vatNumber": "592952685"
+      }
+    },
+    "remark": "Test booking",
+    "invoiceCompany": {
+      "code": "E14",
+      "company": "HOTELBEDS S.L.U.",
+      "registrationNumber": "ESB57218372"
+    },
+    "totalNet": 216.43,
+    "pendingAmount": 216.43,
+    "currency": "EUR"
+  }
+}

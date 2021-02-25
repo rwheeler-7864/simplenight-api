@@ -1,0 +1,397 @@
+{
+  "getHotelExpress.Results": {
+    "results": {
+      "status": "Success",
+      "status_code": 100,
+      "results_data": {
+        "rate_count": 1,
+        "nearby_rate_count": 0
+      },
+      "sort_data": {
+        "sort_by": "popular_city"
+      },
+      "hotel_data": [
+        {
+          "id": "700363264",
+          "id_t": "31710305",
+          "name": "Best Western Plus Bayside Hotel",
+          "hotel_zone": "Oakland - Alameda",
+          "zone_rank": 0,
+          "hotel_description": "This bay front Oakland hotel offers Free WiFi and a hot full breakfast. A cable/satellite TV, microwave and small refrigerator are featured in each room at the 100% non-smoking Best Western Plus Bayside Hotel. A private bathroom with soaking tub, glass-enclosed shower, bathrobe and hairdryer is provided. A 24-hour front desk with multilingual staff and business center are available for guest convenience. A fitness center is located on site. The Oakland-Alameda County Coliseum and Oakland Arena are 5 miles away. Oakland International Airport is 8 miles away. Union Square in San Francisco is 13 miles away.",
+          "star_rating": 3,
+          "review_rating": 10,
+          "review_rating_desc": "Exceptional",
+          "thumbnail": "//mobileimg.priceline.com/htlimg/31/31710305/thumbnail-150-square.jpg",
+          "thumbnail_hq": {
+            "hundred_fifty_square": "//mobileimg.priceline.com/htlimg/31710/31710305/thumbnail-150.jpg",
+            "three_hundred_square": "//mobileimg.priceline.com/htlimg/31710/31710305/thumbnail-300.jpg"
+          },
+          "city": {
+            "id": "800046911",
+            "name": "Oakland"
+          },
+          "address": {
+            "city_name": "Oakland",
+            "address_line_one": "1717 Embarcadero",
+            "state_code": "CA",
+            "state_name": "California",
+            "country_code": "US",
+            "country_name": "United States",
+            "zip": "CA 94606"
+          },
+          "geo": {
+            "latitude": "37.78488457",
+            "longitude": "-122.24411465"
+          },
+          "neighborhood": {
+            "id": "7117",
+            "name": "Oakland - Alameda"
+          },
+          "hotel_chain": {
+            "id": 62,
+            "group_id": 1100,
+            "name": "Best Western International",
+            "code": 62,
+            "chain_codes_b": "1719^1029^6740^1750^1045^1851^1072^1079^2188^2301^1120^2320^2418^2422^1122^1123^2807^2932^2983^1179^1207^1398^1434^1654^4444^4445^1709",
+            "chain_codes_t": "BW"
+          },
+          "amenity_data": [
+            {
+              "id": 2,
+              "name": "Business Center"
+            },
+            {
+              "id": 5,
+              "name": "Free Breakfast"
+            },
+            {
+              "id": 7,
+              "name": "Free Internet Access"
+            },
+            {
+              "id": 9,
+              "name": "Fitness Center or Spa"
+            },
+            {
+              "id": 12,
+              "name": "No Smoking Rooms/Facilities"
+            },
+            {
+              "id": 14,
+              "name": "Restaurant"
+            },
+            {
+              "id": 15,
+              "name": "Swimming Pool"
+            }
+          ],
+          "room_data": [
+            {
+              "id": "8qJgpBN4M9htbX00RAAmhlGt4vL5QM2kEibAktNLe3M",
+              "rate_data": [
+                {
+                  "source": "PPN",
+                  "rate_type": "MER",
+                  "commission_type": "NET",
+                  "distribution_type": "FLEXIBLE_BENCHMARK",
+                  "payment_type": "PREPAID",
+                  "board_type": "BREAKFAST",
+                  "inventory_type": "PCLN",
+                  "program_types": [],
+                  "title": "2 Queen Beds - Non-Smoking",
+                  "description": "2 Queen Beds - Non-Smoking.",
+                  "occupancy_limit": 2,
+                  "available_rooms": 1,
+                  "room_sq_footage": null,
+                  "ppn_bundle": "HER_DWawgwFUfFHCXVEwOGkBPRa1Q_aaD_Kq2K9Dex76tRAy8b_6K3Cvfi41Ch6xIGyMjpzzNtCWlZ3RoBfxpyoJG4ofJ2cSLGReXC7Qc-UUvCeCLSJDnlAg1EayoB4UQNJ9KLku-SnjXXAaP9HJSM864ebCEpAaiAjn4Hg0UCx8fiMPYv0z0mWsXY1H78UnAwobbJYL9H23UrUPtm3wn12C-zlAg_TdIpQc96x2EmGrU8keSMRmQARO-CdLSD45203OLoB6f7yrpsWLH3xmlBnbT4-nF1Gbb_778urEX2nnl3kxJ1pHy6lwmvblvoP006aXP4K7VJbld4u-fSNAluxnMWqIhSp5q_Mw9qlhDkEl6nOPkfN0jlgZRucwpFrZOrX8Wuv3WMMDWvFioiDfxB3O3asPm9WAA-nLmJc0ckcjTugzdHsRFXGB2B_-dOEUpuiqeZUT3nRqGa4_I1rMzIcg4UKUPMFoyLFJdC8bSnNqASeNXC-Gu5oPCSauUL0olte8RzYEsS9KK4vHz_sFboMimsp7Xlepq66CM3TzgSKSRwLKXIARs4nS6mW-tMkBfIb2s9Yc-D5G11mahcDYy--Di6G67iGTlX2BCXLsVScE33K9ZD2rACjbZAQH92FOTMGRn4jb4ycgEYf1dD3ayOAO9bq28csO5Ucqb4CfU5SiPp8uBW3yKo25LVzTykRYX1W9G0uPy_SEVVeTtrgtAuRVDUrBIn6qu99yNP1SWxYnYQ1dXDv4mUNljTqlygMDDtGocGRcuAXSpJgk-ZiECAUntb46Kif50DacxYWhCzcSN5ZA4QFrfM7vxCuR19CNLrk_BETpyM4AFYE8x4gGFFM9YVs8lk6WdNXLFlxkyxckg8H_pqv5ZqiLO3N28X9rLxpwkn4DxTb_jG8W_YuTlrBKRpf_NGP7KRepp5j4tEthymcdLKyqJhuf0t9Oms96zvBFOvW8j2lCCf62u5f7MPpBpoXf9ZYQp1th6L87siEZyIVx6xu-j0XPfyrLE0FQVnzyZ__RVaEwd1u9VLtwqYaAf1fAtrXvWhvjivxEeYIHptoAx1H6Uu9oOIcD-NGa_gqomypSfQ7YCr8kuhyJaltMcKf0n-Tg9xn4OLc2MhxJTsYN3rCcft8pMlVXvmdFo2d0UZCdbh6lfWKdppdK8b-d-f1l0BcoGVCdmeXvOhNzaEHIDql8SoTEiNAo0ZRcVXWhEuwCUMyGOvu05chbt65IGYu63KwiLaZMUjw5L3rzaCcF8XaPuNOzzBGwCPMbx0c-",
+                  "rate_plan_code": "870435_MERCHANT_MERCHANT__6cb77a8f-8a7f-bd7c-b3a2-3c95ed080bc6",
+                  "rate_tracking_id": "5541D25001F424B99634974360D173F05A80D0023BB928F703139EE8DF8839CA8D2087F9E4585E1A",
+                  "all_inclusive": "false",
+                  "bed_choice_available": false,
+                  "rate_source_code": 4,
+                  "bedding_data": null,
+                  "benchmark_price_details": {
+                    "saving_percentage": 0,
+                    "baseline_currency": "USD",
+                    "baseline_price": 140.34,
+                    "source_currency": "USD",
+                    "source_price": 140.34,
+                    "display_currency": "USD",
+                    "display_price": 140.34
+                  },
+                  "property_fee_details": null,
+                  "price_details": {
+                    "booked_currency": "USD",
+                    "baseline_currency": "USD",
+                    "baseline_symbol": "$",
+                    "baseline_price": 140.34,
+                    "baseline_processing_fee": 0,
+                    "baseline_property_fee": 0,
+                    "baseline_insurance_fee": 0,
+                    "baseline_sub_total": 701.7,
+                    "baseline_taxes": 102.6,
+                    "baseline_total": 804.3,
+                    "source_currency": "USD",
+                    "source_symbol": "$",
+                    "source_price": 140.34,
+                    "source_processing_fee": 0,
+                    "source_property_fee": 0,
+                    "source_insurance_fee": 0,
+                    "source_sub_total": 701.7,
+                    "source_taxes": 102.6,
+                    "source_total": 804.3,
+                    "display_currency": "USD",
+                    "display_symbol": "$",
+                    "display_price": 140.34,
+                    "display_processing_fee": 0,
+                    "display_property_fee": 0,
+                    "display_insurance_fee": 0,
+                    "display_sub_total": 701.7,
+                    "display_taxes": 102.6,
+                    "display_total": 804.3,
+                    "mandatory_fee_details": null,
+                    "attribute_data": {
+                      "tax_data": [
+                        {
+                          "name": "Tax",
+                          "type": "TAX",
+                          "source_currency": "USD",
+                          "source_amount": 102.6,
+                          "display_currency": "USD",
+                          "display_amount": 102.6,
+                          "attribute": "Exclusive"
+                        }
+                      ]
+                    },
+                    "night_price_data": [
+                      {
+                        "baseline_night_price": 140.34,
+                        "source_night_price": 152.15,
+                        "display_night_price": 152.15
+                      },
+                      {
+                        "baseline_night_price": 140.34,
+                        "source_night_price": 160.65,
+                        "display_night_price": 160.65
+                      },
+                      {
+                        "baseline_night_price": 140.34,
+                        "source_night_price": 160.65,
+                        "display_night_price": 160.65
+                      },
+                      {
+                        "baseline_night_price": 140.34,
+                        "source_night_price": 160.65,
+                        "display_night_price": 160.65
+                      },
+                      {
+                        "baseline_night_price": 140.34,
+                        "source_night_price": 152.15,
+                        "display_night_price": 152.15
+                      }
+                    ],
+                    "nightly_rate_changes": false,
+                    "promo": {
+                      "title": null,
+                      "description": null,
+                      "type": null,
+                      "terms": null,
+                      "strikeout_price": 140.34,
+                      "source_strikeout_price": 140.34,
+                      "display_strikeout_price": 140.34,
+                      "required": 0
+                    }
+                  },
+                  "cancellation_details": [
+                    {
+                      "description": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount.",
+                      "date_after": "2017-01-07T17:00:00-08:00",
+                      "date_before": "2024-06-30T07:00:00-07:00",
+                      "penalty_nights": 5,
+                      "source_currency": "USD",
+                      "source_amount": 804.3,
+                      "source_tax": 0,
+                      "source_processing_fee": 0,
+                      "source_cancellation_fee": 0,
+                      "source_refund": 0,
+                      "source_total_charges": 804.3,
+                      "display_currency": "USD",
+                      "display_amount": 804.3,
+                      "display_tax": 0,
+                      "display_processing_fee": 0,
+                      "display_cancellation_fee": 0,
+                      "display_refund": 0,
+                      "display_total_charges": 804.3
+                    }
+                  ],
+                  "policy_data": {
+                    "cancel_policy_description": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount.",
+                    "is_cancellable": "false"
+                  },
+                  "plugin_data": null,
+                  "upsell_data": null,
+                  "is_cancellable": "false",
+                  "cvc_required": true,
+                  "promo_data": [],
+                  "rate_amenity_data": null
+                }
+              ]
+            },
+            {
+              "id": "aegX0kwNX7eiz0edy9ZfyPybvIZufdHBuNZBBPy5lsQ",
+              "rate_data": [
+                {
+                  "source": "PPN",
+                  "rate_type": "MER",
+                  "commission_type": "NET",
+                  "distribution_type": "FLEXIBLE_BENCHMARK",
+                  "payment_type": "PREPAID",
+                  "board_type": "BREAKFAST",
+                  "inventory_type": "PCLN",
+                  "program_types": [],
+                  "title": "2 Queen City View Non-Smoking",
+                  "description": "2 Queen City View Non-Smoking.",
+                  "occupancy_limit": 4,
+                  "available_rooms": 4,
+                  "room_sq_footage": null,
+                  "ppn_bundle": "HER_50PpKyg_1ai27Fj5VitjR5Jc6PMo0Q1xssBAE-DHZbOZUKXaUYHFyxfcelepR0GZzT7tc4g9SoianX-5aUth1LZ9kgQQ-U3b0hFvXB1H0AyO5CleMuk6NgoS1LXUUheZOtp2ajcmv_yQfKU8qMaUo60Z4cd6Zt62-6Axp6HpPgFQsqLY1lhCvDomdqrlCRZe0VTJfTUdnKKKNZ7LsOa6soxrQz-MH8BTAC7ghFtEme2xriubxy5OuQhgMUH3CHSm1zA6waF-gVCrN0Nv5UDDU4GSL03SP9FqLANEsF4T28iSr-CZ9OIh96AAl448lcnoAvXvCSJh0pn4WAjV1Z8X0NdH_kvjsILm51mm6t9gzWXSiYp-3hOeWcuHocXgjGY1ymlApn7VFpQV7JIkAYmD43BpDE9uN6Y14U59WV54kkh2FSLjvjJPUS9IGvo63HCZATogWVQDWpjjJ0zUN-cf9NShxgivEsdv-7XgEZeWiWsTc81rxpI2Mx2pPf_13LrsjNr7LbuPP5aO3cEZ0L1AfDKJvS-7Hs-MNjoZSrBuIBFSJsdnfeuFjgKDGEdS8nPwKKQm1-aBBfzYpdsGpqkmOT0cWXpu4WgleZLmcF2qOmdsSHmNW-mbes_9FuPzqt-CkqTM189X_UjNv8qQi8_kjkgCZnOmWqGUiU_I79jRdK0-UPEt-9_VtY2zeG3X_H0rp2x_nEAAiCDyM1KJj8RBpEYF5ZTRFU3KuncTWToqQ-6_AXsKsCx6GgkznNdX4hQtTElU5YfHjqPuTz60lWvISvppaWQYB9ivcB9y8x4aOM7YVE8jUkQ0ns0r01JWXJ0aHvOkQ_-66DxagSugs965zUGYhT1AVzm0hn8bdk_4zxVrwFSaRpW2O3F_Q29MoDIA9OEB0UCy2rR_f_Z90RJ9tw2swEECSwjnpQGZDERJjrPc7XsjjRGhw6Octk1s-HhC5vQlE3i3SMapmQeN4yFhQG43sOMw6OoLdCQqg45sMIa7J8fIMxVDTENfE4IRsP2_aSIUi3T75z_qMji_y1od7n2pqimW-vKpteZantNhRk8RkwBOEG7ikewKROjO8cVLQT-P-WGRB8gIacZP8SqzQA25DOFOcSRjC3P68gQVk1t52fVHwbV_f_lC6JunFQZSGylOlllrl7pgvzcKSqSDm8RSX0XdPU29ADt7GIxQVGw0057HGSClPJziHFR4EdtaUJvDTCw0OLsAgz8m6pHfOQ",
+                  "rate_plan_code": "870435_MERCHANT_MERCHANT__020cea07-f545-0447-3ce1-a117efa65d6c",
+                  "rate_tracking_id": "FFFE7957E80CD3EDA416B61EE279EEB67174A44CFBB3949903139EE8DF8839CAAC342E65B1358A88",
+                  "all_inclusive": "false",
+                  "bed_choice_available": false,
+                  "rate_source_code": 4,
+                  "bedding_data": null,
+                  "benchmark_price_details": {
+                    "saving_percentage": 0,
+                    "baseline_currency": "USD",
+                    "baseline_price": 155.52,
+                    "source_currency": "USD",
+                    "source_price": 155.52,
+                    "display_currency": "USD",
+                    "display_price": 155.52
+                  },
+                  "property_fee_details": null,
+                  "price_details": {
+                    "booked_currency": "USD",
+                    "baseline_currency": "USD",
+                    "baseline_symbol": "$",
+                    "baseline_price": 155.52,
+                    "baseline_processing_fee": 0,
+                    "baseline_property_fee": 0,
+                    "baseline_insurance_fee": 0,
+                    "baseline_sub_total": 777.6,
+                    "baseline_taxes": 112.85,
+                    "baseline_total": 890.45,
+                    "source_currency": "USD",
+                    "source_symbol": "$",
+                    "source_price": 155.52,
+                    "source_processing_fee": 0,
+                    "source_property_fee": 0,
+                    "source_insurance_fee": 0,
+                    "source_sub_total": 777.6,
+                    "source_taxes": 112.85,
+                    "source_total": 890.45,
+                    "display_currency": "USD",
+                    "display_symbol": "$",
+                    "display_price": 155.52,
+                    "display_processing_fee": 0,
+                    "display_property_fee": 0,
+                    "display_insurance_fee": 0,
+                    "display_sub_total": 777.6,
+                    "display_taxes": 112.85,
+                    "display_total": 890.45,
+                    "mandatory_fee_details": null,
+                    "attribute_data": {
+                      "tax_data": [
+                        {
+                          "name": "Tax",
+                          "type": "TAX",
+                          "source_currency": "USD",
+                          "source_amount": 112.85,
+                          "display_currency": "USD",
+                          "display_amount": 112.85,
+                          "attribute": "Exclusive"
+                        }
+                      ]
+                    },
+                    "night_price_data": [
+                      {
+                        "baseline_night_price": 155.52,
+                        "source_night_price": 169.15,
+                        "display_night_price": 169.15
+                      },
+                      {
+                        "baseline_night_price": 155.52,
+                        "source_night_price": 177.65,
+                        "display_night_price": 177.65
+                      },
+                      {
+                        "baseline_night_price": 155.52,
+                        "source_night_price": 177.65,
+                        "display_night_price": 177.65
+                      },
+                      {
+                        "baseline_night_price": 155.52,
+                        "source_night_price": 177.65,
+                        "display_night_price": 177.65
+                      },
+                      {
+                        "baseline_night_price": 155.52,
+                        "source_night_price": 169.15,
+                        "display_night_price": 169.15
+                      }
+                    ],
+                    "nightly_rate_changes": false,
+                    "promo": {
+                      "title": null,
+                      "description": null,
+                      "type": null,
+                      "terms": null,
+                      "strikeout_price": 155.52,
+                      "source_strikeout_price": 155.52,
+                      "display_strikeout_price": 155.52,
+                      "required": 0
+                    }
+                  },
+                  "cancellation_details": [
+                    {
+                      "description": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount.",
+                      "date_after": "2017-01-07T17:00:00-08:00",
+                      "date_before": "2024-06-30T07:00:00-07:00",
+                      "penalty_nights": 5,
+                      "source_currency": "USD",
+                      "source_amount": 890.45,
+                      "source_tax": 0,
+                      "source_processing_fee": 0,
+                      "source_cancellation_fee": 0,
+                      "source_refund": 0,
+                      "source_total_charges": 890.45,
+                      "display_currency": "USD",
+                      "display_amount": 890.45,
+                      "display_tax": 0,
+                      "display_processing_fee": 0,
+                      "display_cancellation_fee": 0,
+                      "display_refund": 0,
+                      "display_total_charges": 890.45
+                    }
+                  ],
+                  "policy_data": {
+                    "cancel_policy_description": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount.",
+                    "is_cancellable": "false"
+                  },
+                  "plugin_data": null,
+                  "upsell_data": null,
+                  "is_cancellable": "false",
+                  "cvc_required": true,
+                  "promo_data": [],
+                  "rate_amenity_data": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "time": 0.3021
+    }
+  }
+}

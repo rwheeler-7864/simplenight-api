@@ -1,0 +1,309 @@
+{
+  "getHotelExpress.LookUp": {
+    "results": {
+      "status": "Success",
+      "status_code": 100,
+      "result": {
+        "itinerary": {
+          "id": "98984249943",
+          "code": 1120,
+          "status": "Confirmed",
+          "check_in": "2020-11-20",
+          "check_out": "2020-11-21",
+          "occupancy_limit": 1,
+          "total_room_occupancy": 1,
+          "customer_service_override": false
+        },
+        "itinerary_details": {
+          "rate_plan_code": "978080_MERCHANT_MERCHANT__0ad29888-4cc4-7ccf-de6b-a195d0b05dc6",
+          "room_data": [
+            {
+              "confirmation_code": "CONF0",
+              "code": 1120,
+              "name": "JOHN SIMPLENIGHT",
+              "loyalty_status": "We were unable to transmit your loyalty number at this time. Please contact the hotel to ensure you receive credit.",
+              "policy_data": [
+                {
+                  "type": "CancelPolicyDescription",
+                  "text": "Any cancellation received within 1 day prior to the arrival date will incur the first night's charge. Failure to arrive at your hotel or property will be treated as a No-Show and will incur the first night's charge (Hotel policy)."
+                },
+                {
+                  "type": "IsCancelable",
+                  "text": "true"
+                }
+              ]
+            }
+          ],
+          "num_adults": 1,
+          "num_children": 0,
+          "num_nights": 1,
+          "num_rooms": 1,
+          "payment_type": "PREPAID",
+          "room_title": "Standard Queen Bed",
+          "pre_paid": 1,
+          "prepaid_property_fees": 0,
+          "customer": {
+            "phone_number": "5558675309",
+            "email": "john.simp@simplenight.com",
+            "card_type": "Visa",
+            "card_last_four": "1120",
+            "name": "Simplenight  Test",
+            "address": {
+              "address_line_one": "123 Simplenight Way",
+              "address_line_two": null,
+              "city_name": "Miami",
+              "state_code": "FL",
+              "zip": "94111",
+              "country_code": "US"
+            },
+            "phone": "5558675309"
+          },
+          "user_display_currency": "USD",
+          "promo_data": [],
+          "board_type": "NONE",
+          "refund": null,
+          "rate_inventory": "MER",
+          "commission_type": "NET",
+          "distribution_type": "FLEXIBLE_BENCHMARK",
+          "description": "Standard Queen Bed",
+          "program_types": [],
+          "inventory_type": "PCLN",
+          "cancellation_id": null
+        },
+        "benchmark_price": null,
+        "saving_percentage": null,
+        "price_details": {
+          "booked_currency": "USD",
+          "baseline_currency": "USD",
+          "baseline_symbol": "$",
+          "baseline_price": 170.67,
+          "baseline_processing_fee": 0,
+          "baseline_property_fee": 0,
+          "baseline_insurance_fee": 0,
+          "baseline_sub_total": 170.67,
+          "baseline_taxes": 26.74,
+          "baseline_total": 197.41,
+          "source_currency": "USD",
+          "source_symbol": "$",
+          "source_price": 170.67,
+          "source_processing_fee": 0,
+          "source_property_fee": 0,
+          "source_insurance_fee": 0,
+          "source_sub_total": 170.67,
+          "source_taxes": 26.74,
+          "source_total": 197.41,
+          "display_currency": "USD",
+          "display_symbol": "$",
+          "display_price": 170.67,
+          "display_processing_fee": 0,
+          "display_property_fee": 0,
+          "display_insurance_fee": 0,
+          "display_sub_total": 170.67,
+          "display_taxes": 26.74,
+          "display_total": 197.41,
+          "mandatory_fee_details": null,
+          "attribute_data": {
+            "tax_data": [
+              {
+                "name": "Tax",
+                "type": "TAX",
+                "source_currency": "USD",
+                "source_amount": 26.74,
+                "display_currency": "USD",
+                "display_amount": 26.74,
+                "attribute": "Exclusive"
+              }
+            ]
+          },
+          "night_price_data": [
+            {
+              "baseline_night_price": 170.67,
+              "source_night_price": 170.67,
+              "display_night_price": 170.67
+            }
+          ],
+          "nightly_rate_changes": false,
+          "promo": {
+            "title": null,
+            "description": null,
+            "type": null,
+            "terms": null,
+            "strikeout_price": 0,
+            "source_strikeout_price": 0,
+            "display_strikeout_price": 0,
+            "required": null
+          }
+        },
+        "cancellation_details": [
+          {
+            "description": "Any cancellation received within 1 day prior to the arrival date will incur the first night's charge.Failure to arrive at your hotel or property will be treated as a No-Show and will incur the first night's charge (Hotel policy).",
+            "date_after": "2017-02-23T20:00:00-05:00",
+            "date_before": "2020-11-19T03:00:00-05:00",
+            "penalty_nights": 0,
+            "source_currency": "USD",
+            "source_amount": 0,
+            "source_tax": 0,
+            "source_processing_fee": 0,
+            "source_cancellation_fee": 0,
+            "source_refund": 197.41,
+            "source_total_charges": 0,
+            "display_currency": "USD",
+            "display_amount": 0,
+            "display_tax": 0,
+            "display_processing_fee": 0,
+            "display_cancellation_fee": 0,
+            "display_refund": 197.41,
+            "display_total_charges": 0
+          },
+          {
+            "description": "Any cancellation received within 1 day prior to the arrival date will incur the first night's charge.Failure to arrive at your hotel or property will be treated as a No-Show and will incur the first night's charge (Hotel policy).",
+            "date_after": "2020-11-19T03:00:00-05:00",
+            "date_before": "2020-11-20T03:00:00-05:00",
+            "penalty_nights": 1,
+            "source_currency": "USD",
+            "source_amount": 197.41,
+            "source_tax": 0,
+            "source_processing_fee": 0,
+            "source_cancellation_fee": 0,
+            "source_refund": 0,
+            "source_total_charges": 197.41,
+            "display_currency": "USD",
+            "display_amount": 197.41,
+            "display_tax": 0,
+            "display_processing_fee": 0,
+            "display_cancellation_fee": 0,
+            "display_refund": 0,
+            "display_total_charges": 197.41
+          },
+          {
+            "description": "Any cancellation received within 1 day prior to the arrival date will incur the first night's charge.Failure to arrive at your hotel or property will be treated as a No-Show and will incur the first night's charge (Hotel policy).",
+            "date_after": "2020-11-20T03:00:00-05:00",
+            "date_before": "2024-07-17T06:33:51-07:00",
+            "penalty_nights": 1,
+            "source_currency": "USD",
+            "source_amount": 197.41,
+            "source_tax": 0,
+            "source_processing_fee": 0,
+            "source_cancellation_fee": 0,
+            "source_refund": 0,
+            "source_total_charges": 197.41,
+            "display_currency": "USD",
+            "display_amount": 197.41,
+            "display_tax": 0,
+            "display_processing_fee": 0,
+            "display_cancellation_fee": 0,
+            "display_refund": 0,
+            "display_total_charges": 197.41
+          }
+        ],
+        "hotel": {
+          "hotel_id": "700243838",
+          "hotel_id_t": "40416",
+          "hotel_name": "Hyatt Centric Fisherman's Wharf San Francisco",
+          "star_rating": 4,
+          "check_in_time": "15:00",
+          "check_out_time": "12:00",
+          "phone_number": "415-563-1234",
+          "phone": "415-563-1234",
+          "city": {
+            "id": "800046992",
+            "name": "San Francisco"
+          },
+          "address": {
+            "address_line_one": "555 North Point Street",
+            "city_name": "San Francisco",
+            "state_code": "CA",
+            "zip": "CA 94133",
+            "country_code": "US"
+          },
+          "geo": {
+            "latitude": "37.806322",
+            "longitude": "-122.416125"
+          },
+          "hotel_chain": {
+            "id": "269",
+            "name": "Hyatt Hotels and Resorts"
+          }
+        },
+        "actions": {
+          "cancel": "HBDRQ2C--_7iRSEi9YjLZEBQeGZ1La1c5JxRsYHaWzRzeJw8aenZkwUaSXrZsQYQ0jpxI-QjcQJyULzbw0kKA59TEHqfxXKAIBMHLoerC99_WL3qxYmVXz3IUIhQTNIL6_3a8veWJLNx-CPO183n75quCdFO8Xxpk-9KL8JAtzYuyEpkGRa9OBAbYLe1Or8tfocVeH3VEmTEIfPsf766Ubpn7r4F7OES8DGMd-UXJpLjd2V0Uix73BLT8fAMZIhqUAy_ZYgmlHPk2kvZnY-wOO9VrCGMPyJqbw8BuapBdoKwMid2F_i8F6ttCtj9RB-HEHm0gLu4IT6gWA5JPtlLX4bWt9TZW_SpiY_7bYWZeuCIjI2LkCoO0ouaevHUM9R8WasM7gpIJNF9-hflf28D_vof0DHTodpQ",
+          "resend_itinerary": "HBDRQ2R--_-7l5nbT2VtcreQ5JRacRFp3-VpU4G_95az6wecH7ycCP7WNL1rmx7ytYwzdMZECOLQbczYqN0eRSoItTyEyFRSHI_Pf32typux69NG9KA9x1MufhcwP3PHEC03qnoUoO67-o62Gi0MD95jazkiuZu8FjlSZlqkCypSTn-TZIofJFQs1WH5NVZUKNQzk2Z3xKOcF7CTDEDUe1WdOnx4QIqlffa3v5Kd0WorYOWGUueO7UdS_NOblod1yyIpebA5JuYPJk1l_qqF702lqUYbWKh-lGMdCU8iXyxWhzKdvkfidVOI1yzU-3adMg_-hlOG6x"
+        },
+        "plugin_data": null,
+        "important_information": {
+          "policy_data": [
+            {
+              "title": "Hotel Customer Service",
+              "paragraph_data": [
+                "If you have already booked a hotel reservation and need assistance, you can contact our Customer Service at 1-877-477-7441. If you call this number please have your Trip Number and the phone number you entered while making your reservation available.",
+                "#startFaqLink#Frequently Asked Questions#endFaqLink#"
+              ]
+            },
+            {
+              "title": "Pre-pay Policy",
+              "paragraph_data": [
+                "197.41 USD will be charged to your credit card."
+              ]
+            },
+            {
+              "title": "Cancellation Policy",
+              "paragraph_data": [
+                "Any cancellation received within 1 day prior to the arrival date will incur the first night's charge. Failure to arrive at your hotel or property will be treated as a No-Show and will incur the first night's charge (Hotel policy)."
+              ]
+            },
+            {
+              "title": "Guarantee Policy",
+              "paragraph_data": [
+                "Reservation is guaranteed for arrival on the confirmed check-in date only. If you don't check-in to the hotel on the first day of your reservation and you do not alert the hotel in advance, the remaining portion of your reservation will be canceled and you will not be entitled to a refund.#br##br#All rooms are booked for double occupancy (i.e. 2 adults) and accommodations for more than two adults are not guaranteed.#br##br#The reservation holder must be 21 years of age or older."
+              ]
+            },
+            {
+              "title": "Notice",
+              "paragraph_data": [
+                "We are experiencing a very high call volume due to the Coronavirus\u2019 impact and are prioritizing customers who are traveling within the next 72 hours. If your travel arrangements are not within 72 hours, we recommend contacting us closer to your travel date."
+              ]
+            }
+          ]
+        },
+        "taxes_and_fees": {
+          "policy_data": [
+            {
+              "title": "Taxes and Fees",
+              "paragraph_data": [
+                "In connection with facilitating your hotel transaction the charge to your debit or credit card will include a charge for Taxes and Fees.\n                            This charge includes an estimated amount to recover the amount we pay to the hotel in connection with your reservation for taxes owed by the hotel including,\n                            without limitation, sales and use tax, occupancy tax, room tax, excise tax, value added tax and/or other similar taxes.\n                            In certain locations, the tax amount may also include government imposed service fees or other fees not paid directly to the taxing authorities but required by law to be collected by the hotel.\n                            The amount paid to the hotel in connection with your reservation for taxes may vary from the amount we estimate and include in the charge to you.\n                            The balance of the charge for Taxes and Fees is a fee we retain as part of the compensation for our services and to cover the costs of your reservation, including, for example, customer service costs.\n                            The charge for Taxes and Fees varies based on a number of factors including, without limitation, the amount we pay the hotel and the location of the hotel where you will be staying, and may include profit that we retain.",
+                "Except as described below, we are not the vendor collecting and remitting taxes to the applicable taxing authorities. Our hotel suppliers, as vendors, include all applicable taxes in the amount billed to us and we pay over such amounts directly to the vendors.\n                            We are not a co-vendor associated with the vendor with whom we book or reserve our customer's travel arrangements.\n                            Taxability and the appropriate tax rate and the type of applicable taxes vary greatly by location.",
+                "For transactions involving hotels located within certain jurisdictions, the charge to your debit or credit card for Taxes and Fees includes a payment of tax that we are required to collect and remit to the jurisdiction for tax owed on amounts we retain as compensation for our services.",
+                "Please note that we are unable to facilitate a rebate of Canadian Goods and Services Tax (GST) for customers booking Canadian hotel accommodations utilizing our services.",
+                "For this transaction, the amount you were charged relating to Taxes was 26.74 USD",
+                "For this transaction, the amount you were charged for Service Fees was 0.00 USD"
+              ]
+            }
+          ]
+        },
+        "package": {
+          "children": [],
+          "parent": {
+            "product": "",
+            "tripid": "",
+            "email": ""
+          }
+        },
+        "source": "Net",
+        "tracking_id": "5f8fd64f1356f",
+        "insurance_details": {
+          "status": "INSURANCE NOT PURCHASED",
+          "status_code": "1.8587.4",
+          "error": "Hotel.Insurance.Details: Insurance was not purchased",
+          "details": "Insurance not purchased",
+          "insurance_type": {
+            "com_rate": "50.00",
+            "type": "ALLIANZ"
+          },
+          "url": null
+        },
+        "request_key": "9e2e91cf5529bde71844187d3c455188"
+      },
+      "time": "0.2508"
+    }
+  }
+}

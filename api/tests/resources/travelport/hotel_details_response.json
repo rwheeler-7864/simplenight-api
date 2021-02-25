@@ -1,0 +1,3583 @@
+{
+  "ResponseMessage": [],
+  "NextResultReference": null,
+  "HostToken": null,
+  "RequestedHotelDetails": {
+    "HotelProperty": {
+      "PropertyAddress": {
+        "Address": [
+          "20 Airport Blvd ",
+          "South San Francisco",
+          "CA",
+          "94108",
+          "US"
+        ]
+      },
+      "PhoneNumber": [
+        {
+          "ProviderReservationInfoRef": [],
+          "Key": null,
+          "Type": "Business",
+          "Location": null,
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": "1-650-583-2223",
+          "Extension": null,
+          "Text": null,
+          "ElStat": null,
+          "KeyOverride": null
+        },
+        {
+          "ProviderReservationInfoRef": [],
+          "Key": null,
+          "Type": "Fax",
+          "Location": null,
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": "1-650-589-6770",
+          "Extension": null,
+          "Text": null,
+          "ElStat": null,
+          "KeyOverride": null
+        }
+      ],
+      "CoordinateLocation": null,
+      "Distance": {
+        "Units": "MI",
+        "Value": 3,
+        "Direction": "NW"
+      },
+      "HotelRating": [
+        {
+          "RatingProvider": "AAA",
+          "Rating": [
+            3
+          ],
+          "RatingRange": null
+        }
+      ],
+      "Amenities": null,
+      "MarketingMessage": {
+        "Text": [
+          "COVID19 INFO WWW.WYNDHAMHOTELS.COM"
+        ]
+      },
+      "HotelChain": "LQ",
+      "HotelCode": "17352",
+      "HotelLocation": "SFO",
+      "Name": "LA QUINTA INN STE AIRPORT NORTH",
+      "VendorLocationKey": null,
+      "HotelTransportation": null,
+      "ReserveRequirement": null,
+      "ParticipationLevel": "4",
+      "Availability": null,
+      "Key": null,
+      "PreferredOption": null,
+      "MoreRates": null,
+      "MoreRatesToken": null,
+      "NetTransCommissionInd": null,
+      "NumOfRatePlans": null
+    },
+    "HotelDetailItem": [
+      {
+        "Text": [
+          "3PM"
+        ],
+        "Name": "CheckInTime"
+      },
+      {
+        "Text": [
+          "12N"
+        ],
+        "Name": "CheckOutTime"
+      }
+    ],
+    "HotelRateDetail": [
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Pay Now  Save Non-cancelable"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "true",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": "2020-06-16T00:00:00+00:00",
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Prepayment",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DA01",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Nsmk With Free Wifi Free Breakfast"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Pay Now  Save Non-cancelable",
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "true",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": "2020-06-16T00:00:00+00:00",
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Prepayment",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KA01",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Accessible Room Nsmk With Free Wifi"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Pay Now  Save Non-cancelable",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "true",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": "2020-06-16T00:00:00+00:00",
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Prepayment",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DA01",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Accessible Room Nsmk With Free Wifi"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Pay Now  Save Non-cancelable",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "true",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": "2020-06-16T00:00:00+00:00",
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Prepayment",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KA01",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Wyndham Rewards Double Points",
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD121.90",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DSPC",
+        "Base": "USD895.70",
+        "Tax": "USD135.72",
+        "Total": "USD1031.42",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Wyndham Rewards Double Points",
+              "1 King Nsmk With Free Wifi Free Breakfast"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD121.90",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KSPC",
+        "Base": "USD895.70",
+        "Tax": "USD135.72",
+        "Total": "USD1031.42",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Wyndham Rewards Double Points",
+              "2 Queen Accessible Room Nsmk With Free Wifi"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD121.90",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DSPC",
+        "Base": "USD895.70",
+        "Tax": "USD135.72",
+        "Total": "USD1031.42",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Wyndham Rewards Double Points",
+              "1 King Accessible Room Nsmk With Free Wifi"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD121.90",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD132.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KSPC",
+        "Base": "USD895.70",
+        "Tax": "USD135.72",
+        "Total": "USD1031.42",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 12,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Best Available Rate Flexible"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD115.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DRAC",
+        "Base": "USD845.00",
+        "Tax": "USD129.10",
+        "Total": "USD974.10",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 13,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Best Available Rate Flexible"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD115.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KRAC",
+        "Base": "USD845.00",
+        "Tax": "USD129.10",
+        "Total": "USD974.10",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 13,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Best Available Rate Flexible"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD115.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DRAC",
+        "Base": "USD845.00",
+        "Tax": "USD129.10",
+        "Total": "USD974.10",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 13,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Best Available Rate Flexible"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD115.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD125.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": false,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KRAC",
+        "Base": "USD845.00",
+        "Tax": "USD129.10",
+        "Total": "USD974.10",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 13,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aaa Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DAAA",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 1,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aaa Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KAAA",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 1,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aaa Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DAAA",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 1,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aaa Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KAAA",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 1,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Senior Discount"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DARP",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Senior Discount"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KARP",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Senior Discount"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DARP",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Senior Discount"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD109.25",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD118.75",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KARP",
+        "Base": "USD802.75",
+        "Tax": "USD123.61",
+        "Total": "USD926.36",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Bathtub/shower"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aarp Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1DSNR",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Nsmk With Free Wifi Free Breakfast",
+              "Mini-fridge Microwave Ac Shower Only Coffee"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aarp Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "C1KSNR",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aarp Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 86,
+              "Quantity": 2
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1DSNR",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Accessible Room Nsmk With Free Wifi",
+              "Free Breakfast Mini-fridge Accessible"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Aarp Rate"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-17",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-17",
+            "ExpireDate": "2020-07-20",
+            "Base": "USD103.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          },
+          {
+            "EffectiveDate": "2020-07-20",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD112.50",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [
+          {
+            "Type": "RoomCount",
+            "Status": "Available",
+            "Value": null
+          },
+          {
+            "Type": "AdultCount",
+            "Status": "Available",
+            "Value": "1"
+          }
+        ],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "unknown",
+          "CancelDeadline": "2020-07-16T18:00:00-07:00",
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": true,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 58,
+              "Quantity": 1
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "false"
+        },
+        "RatePlanType": "H1KSNR",
+        "Base": "USD760.50",
+        "Tax": "USD118.15",
+        "Total": "USD878.65",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": 14,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "true",
+        "ExtraFeesIncluded": "false"
+      }
+    ],
+    "MediaItem": [],
+    "HotelType": {
+      "SourceLink": true
+    }
+  },
+  "HotelAlternateProperties": null,
+  "GuestReviews": null,
+  "TraceId": null,
+  "TransactionId": "BC3154A00A0E561B68297C2C6B6AEF05",
+  "ResponseTime": 749,
+  "CommandHistory": null
+}

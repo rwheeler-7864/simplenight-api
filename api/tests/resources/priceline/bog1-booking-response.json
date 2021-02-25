@@ -1,0 +1,2451 @@
+{
+  "getHotelExpress.Book": {
+    "results": {
+      "status": "Success",
+      "status_code": 100,
+      "book_data": {
+        "request_id": "PPN-BOOKREQUEST-1602481233-9591",
+        "session_id": null,
+        "baseline_est_commission": 63.41,
+        "est_commission": 63.41,
+        "ppn_baseline_est_commission": 0,
+        "ppn_est_commission": 0,
+        "hotel_data": {
+          "hotelid_ppn": "700363264",
+          "hotelid_pegasus": "05711"
+        },
+        "itinerary": {
+          "check_in": "2020-11-11",
+          "check_out": "2020-11-16",
+          "code": "4242",
+          "confirmation_number": "CONF0",
+          "id": "28954561478",
+          "occupancy_limit": 2,
+          "total_room_occupancy": 2,
+          "status": "Confirmed",
+          "request_key": "1daac3359352d2e95fc1304f38a261b9"
+        },
+        "itinerary_details": {
+          "room_data": [
+            {
+              "confirmation_code": "CONF0",
+              "code": "4242",
+              "name": "John Bog",
+              "loyalty_id": null,
+              "loyalty_status": null,
+              "policy_data": [
+                {
+                  "type": "CancelPolicyDescription",
+                  "text": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount."
+                },
+                {
+                  "type": "IsCancelable",
+                  "text": "false"
+                }
+              ]
+            }
+          ],
+          "customer": {
+            "address": {
+              "address_line_one": "123 Market Street",
+              "address_line_two": null,
+              "city_name": "San Francisco",
+              "country_code": "US",
+              "state_code": "CA",
+              "zip": "94111"
+            },
+            "card_last_four": "4242",
+            "card_type": "Visa",
+            "email": "johnbog@simplenight.com",
+            "name": "John Bog",
+            "phone_number": "5558675309"
+          }
+        },
+        "room_data": {
+          "code": "4242",
+          "confirmation_code": "CONF0",
+          "name": "John Bog",
+          "title": "2 Queen Beds - Non-Smoking"
+        },
+        "tracking_id": "PPN-BOOKREQUEST-1602481233-9591",
+        "insurance_details": {
+          "status": "USER SAID NO",
+          "status_code": "1.8586.32",
+          "error": "Hotel.Insurance.Purchase: User declined insurance.",
+          "details": "User declined insurance",
+          "insurance_type": "ALZ",
+          "insurance_policy_number": null,
+          "url": null
+        },
+        "guest_list": []
+      },
+      "contract_data": {
+        "input_data": {
+          "check_in": "2020-11-11",
+          "check_out": "2020-11-16",
+          "num_rooms": "1",
+          "num_adults": "1",
+          "num_children": "1",
+          "num_nights": "5"
+        },
+        "hotel_data": [
+          {
+            "id": 700363264,
+            "id_t": 31710305,
+            "name": "Best Western Plus Bayside Hotel",
+            "hotel_zone": "",
+            "zone_rank": "",
+            "hotel_description": "This bay front Oakland hotel offers Free WiFi and a hot full breakfast. A cable/satellite TV, microwave and small refrigerator are featured in each room at the 100% non-smoking Best Western Plus Bayside Hotel. A private bathroom with soaking tub, glass-enclosed shower, bathrobe and hairdryer is provided. A 24-hour front desk with multilingual staff and business center are available for guest convenience. A fitness center is located on site. The Oakland-Alameda County Coliseum and Oakland Arena are 5 miles away. Oakland International Airport is 8 miles away. Union Square in San Francisco is 13 miles away.",
+            "star_rating": 3,
+            "review_rating": 10,
+            "review_rating_desc": "Exceptional",
+            "thumbnail": "//mobileimg.priceline.com/htlimg/31/31710305/thumbnail-150-square.jpg",
+            "thumbnail_hq": {
+              "hundred_fifty_square": "//mobileimg.priceline.com/htlimg/31710/31710305/thumbnail-150.jpg",
+              "three_hundred_square": "//mobileimg.priceline.com/htlimg/31710/31710305/thumbnail-300.jpg"
+            },
+            "city": {
+              "id": "800046911",
+              "name": "Oakland"
+            },
+            "address": {
+              "city_name": "Oakland",
+              "address_line_one": "1717 Embarcadero",
+              "state_code": "CA",
+              "state_name": "California",
+              "country_code": "US",
+              "country_name": "United States",
+              "zip": "CA 94606"
+            },
+            "geo": {
+              "latitude": "37.78488457",
+              "longitude": "-122.24411465"
+            },
+            "neighborhood": null,
+            "hotel_chain": {
+              "id": 62,
+              "name": "Best Western International"
+            },
+            "hotel_score": {
+              "guest_score": "10",
+              "guest_score_count": "5",
+              "hmi_score": "1.1433",
+              "city_rank": "11",
+              "review_rating_desc": "Exceptional"
+            },
+            "photo_data": [
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575145.jpg?k=bb2478e1c4ba8710a4f731b0340ec49cf4be02f38378c762d546eb63cbde0aee&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/106132225.jpg?k=8650dc8a09843e4b34e06c5586b69c70f035815838b9c80f4a4f1e689db4e459&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/106132238.jpg?k=8bdcb08666f6a3f6968f6ffaeb0fc9bf46ff12ff9b6f419606c2676ec2b233e5&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/121784023.jpg?k=86a63c09a3514c33b7ba931f0f159d3c83075647fc43d6fb3940d5adec6b5b4a&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124785.jpg?k=d820b89daf104ecb046d13c792d157f654c025761da1bccc3e37727a31c3cc10&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124787.jpg?k=d1fa8293807dcfce3e4f934d7e4354372197f335bedd242e8acc8f1aaf0b6ba1&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124789.jpg?k=7cb5d56d0cf2de8f2ac795f9d6d74e2e2923d073be1aca02b46f5de0e2f7ae91&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124794.jpg?k=755800f6dd61ac975bde9b3d23b2e478e2504f025ee7a1ecfa126f61848935ee&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124801.jpg?k=94bae79601fe2a926e97447323c804930249344041427bcd7c3f547310125d72&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124809.jpg?k=dd44ce5261dc42a7ca057164da6a608fb61234051c3b4b954bc2a05721121147&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124812.jpg?k=cfb4207778ac79cd9433ad6539a9b553dd29b04c47d75f4c09f52f58d3aa0c34&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137124822.jpg?k=448eebdbf455ab53ecc08c3a1a5f195e9cfcb0c5c82833cc121cc18ffbfa1519&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125971.jpg?k=df96b5ab62a85d254c3c708b8beb4e9bc9dd152777821ee35c56ddfeb673d4cf&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125977.jpg?k=acbae96a83bb19c41cb3119321ea35cb94ccd49af49777d21a46e0489cb05e21&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125984.jpg?k=38f836f5608952ee9a862bde9625b436d6de3547361759085f142e6748121206&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125986.jpg?k=dc949f24985a885044df14efb3ad8d3f9deba47bc6778cb593d1df7f25123a2c&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125989.jpg?k=d86f7c4f6cbffd1a7cf6a2b29b41878b252dee6123be4726890df2b9f8a8eab0&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137125996.jpg?k=0c16c492bdcc5dfe64ed58346be1e643912e84c036171c55ec27fc80f3c85e4a&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137126019.jpg?k=ce879d87dc8de1adad73f7dcdb7e42fb6067b4f9e807188b47b571b7cda16cb5&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/137126023.jpg?k=c9b86cb52c3e502f81e78d2e6d24c8a79ac83c756760a61e858fb0ae4a3d4824&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/140300468.jpg?k=c2d4dd15674ea1511d14d3be1bcd3723a8399aec90639851e5dbb0837b7ab37a&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/77018049.jpg?k=b1f9d53f9df6c74d2cf8da2144d4a2ef5955d7e8f97917c53aed3a4986d8a964&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575176.jpg?k=aa13dc7c001dff1ac42577fb35942424c11f2e0d5b9411746e09c917bc000965&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575180.jpg?k=847fbfa12d13b886be5d0cf60a5604b4d62b6657f534bca9116a5a802eb8279d&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575189.jpg?k=34f0f5ae2865056142a6791e6acd923d9c4e0765af1015a5e63c4b6e21c52524&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575193.jpg?k=6967c797ceea4aa125a16765eb5e6625ac604bacd62865c83c91f0548049326f&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575199.jpg?k=163692ab96305b8e7f0ad4c684c8b29ee2bc68b5681a0f5c683e7b270926dfb1&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575202.jpg?k=5f156c0c719249da487362c472855506636529fca69d5ea2a2073e9fcac1118b&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575206.jpg?k=5823f109aea8ee0bd844ce13dfb7ce9a82709f0c27f0b396de5b626dcef450c7&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575210.jpg?k=2baee53eb780be23e65e17fa4ed92cc7050bc719140b1573aae5c561d462eaf4&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575273.jpg?k=a30f55dcec29ac73a8b82643e06845cc599e1d834ad3bef919f3e979de0db165&o=",
+              "https://q-xx.bstatic.com/xdata/images/hotel/max500/93575278.jpg?k=1c8b689fb74e39540e6fae0a5bd1b84c96ff96068e728f7e63106db320a474d4&o="
+            ],
+            "amenity_data": [
+              {
+                "id": "1",
+                "name": "Airport Shuttle"
+              },
+              {
+                "id": "2",
+                "name": "Business Center"
+              },
+              {
+                "id": "4",
+                "name": "Free Airport Shuttle"
+              },
+              {
+                "id": "6",
+                "name": "Free Internet Available"
+              },
+              {
+                "id": "8",
+                "name": "Free Internet In Public Areas"
+              },
+              {
+                "id": "9",
+                "name": "Fitness Center or Spa"
+              },
+              {
+                "id": "11",
+                "name": "Accessible"
+              },
+              {
+                "id": "12",
+                "name": "No Smoking Rooms/Facilities"
+              },
+              {
+                "id": "14",
+                "name": "Restaurant"
+              },
+              {
+                "id": "15",
+                "name": "Swimming Pool"
+              },
+              {
+                "id": "18",
+                "name": "Golf Course"
+              },
+              {
+                "id": "20",
+                "name": "Laundry"
+              },
+              {
+                "id": "21",
+                "name": "Meeting/Banquet Facilities"
+              },
+              {
+                "id": "22",
+                "name": "Newspapers"
+              },
+              {
+                "id": "24",
+                "name": "Parking"
+              },
+              {
+                "id": "26",
+                "name": "Room Service"
+              },
+              {
+                "id": "27",
+                "name": "Safety Deposit Box"
+              },
+              {
+                "id": "34",
+                "name": "Terrace"
+              },
+              {
+                "id": "36",
+                "name": "Vending Machines"
+              },
+              {
+                "id": "38",
+                "name": "Air Conditioning"
+              },
+              {
+                "id": "40",
+                "name": "Bar"
+              },
+              {
+                "id": "45",
+                "name": "Concierge Service"
+              },
+              {
+                "id": "47",
+                "name": "24-Hour Front Desk"
+              },
+              {
+                "id": "48",
+                "name": "Express Check-In/Check-Out"
+              },
+              {
+                "id": "51",
+                "name": "Elevator"
+              },
+              {
+                "id": "56",
+                "name": "Hair dryer"
+              },
+              {
+                "id": "59",
+                "name": "Microwave"
+              },
+              {
+                "id": "62",
+                "name": "Massage"
+              },
+              {
+                "id": "65",
+                "name": "Family room"
+              },
+              {
+                "id": "66",
+                "name": "Smoking area"
+              },
+              {
+                "id": "70",
+                "name": "Dry cleaning"
+              },
+              {
+                "id": "71",
+                "name": "Internet services"
+              },
+              {
+                "id": "77",
+                "name": "Non-smoking throughout"
+              },
+              {
+                "id": "78",
+                "name": "ATM/cash machine on site"
+              },
+              {
+                "id": "81",
+                "name": "Vending machine (snacks)"
+              },
+              {
+                "id": "83",
+                "name": "bathrobes"
+              },
+              {
+                "id": "87",
+                "name": "DVD/CD player"
+              },
+              {
+                "id": "88",
+                "name": "complimentary bottled water"
+              },
+              {
+                "id": "105",
+                "name": "Hot tub"
+              },
+              {
+                "id": "108",
+                "name": "Hiking"
+              },
+              {
+                "id": "113",
+                "name": "Heating"
+              },
+              {
+                "id": "114",
+                "name": "Fax/photocopying"
+              },
+              {
+                "id": "120",
+                "name": "Luggage storage"
+              },
+              {
+                "id": "121",
+                "name": "WiFi"
+              },
+              {
+                "id": "130",
+                "name": "Snack bar"
+              },
+              {
+                "id": "132",
+                "name": "Outdoor pool (all year)"
+              },
+              {
+                "id": "139",
+                "name": "Shuttle service (free)"
+              },
+              {
+                "id": "147",
+                "name": "Lockers"
+              },
+              {
+                "id": "148",
+                "name": "Shared lounge/TV area"
+              },
+              {
+                "id": "150",
+                "name": "Mini-market on site"
+              },
+              {
+                "id": "162",
+                "name": "Wheelchair accessible"
+              },
+              {
+                "id": "163",
+                "name": "Daily maid service"
+              },
+              {
+                "id": "164",
+                "name": "Grocery deliveries"
+              },
+              {
+                "id": "165",
+                "name": "On-site parking"
+              },
+              {
+                "id": "166",
+                "name": "Private parking"
+              },
+              {
+                "id": "168",
+                "name": "WiFi everywhere"
+              },
+              {
+                "id": "171",
+                "name": "ironing facilities"
+              },
+              {
+                "id": "173",
+                "name": "television LCD/plasma screen"
+              },
+              {
+                "id": "180",
+                "name": "fitness center"
+              },
+              {
+                "id": "187",
+                "name": "car park"
+              },
+              {
+                "id": "191",
+                "name": "seating area"
+              },
+              {
+                "id": "193",
+                "name": "laptop safe box"
+              },
+              {
+                "id": "196",
+                "name": "golf course (within 3 km)"
+              },
+              {
+                "id": "198",
+                "name": "vending machine"
+              },
+              {
+                "id": "199",
+                "name": "telephone"
+              },
+              {
+                "id": "200",
+                "name": "toiletries"
+              },
+              {
+                "id": "203",
+                "name": "alarm clock"
+              },
+              {
+                "id": "204",
+                "name": "iPod docking station"
+              },
+              {
+                "id": "223",
+                "name": "Accessible parking"
+              },
+              {
+                "id": "420",
+                "name": "Designated Smoking Area"
+              },
+              {
+                "id": "560",
+                "name": "Heated pool"
+              },
+              {
+                "id": "723",
+                "name": "Outdoor pool"
+              },
+              {
+                "id": "762",
+                "name": "Picnic Area"
+              },
+              {
+                "id": "981",
+                "name": "Wake-Up Service"
+              },
+              {
+                "id": "1002",
+                "name": "Wi-Fi In Public Areas"
+              },
+              {
+                "id": "1051",
+                "name": "Closet"
+              },
+              {
+                "id": "1062",
+                "name": "Daily Housekeeping"
+              },
+              {
+                "id": "1240",
+                "name": "WiFi available in all areas"
+              },
+              {
+                "id": "1244",
+                "name": "internet access \u2013 wireless (complimentary)"
+              },
+              {
+                "id": "1245",
+                "name": "internet access \u2013 LAN (complimentary)"
+              },
+              {
+                "id": "1246",
+                "name": "free Wi-Fi in all rooms"
+              },
+              {
+                "id": "1247",
+                "name": "English"
+              },
+              {
+                "id": "1277",
+                "name": "Spanish"
+              },
+              {
+                "id": "1499",
+                "name": "Convenience Store"
+              },
+              {
+                "id": "1514",
+                "name": "Happy Hour"
+              },
+              {
+                "id": "1588",
+                "name": "Slippers"
+              },
+              {
+                "id": "1691",
+                "name": "taxi service"
+              },
+              {
+                "id": "1697",
+                "name": "hiking trails"
+              },
+              {
+                "id": "1707",
+                "name": "Car Power Charging Station"
+              },
+              {
+                "id": "1714",
+                "name": "Laundromat"
+              },
+              {
+                "id": "1768",
+                "name": "Children television networks"
+              },
+              {
+                "id": "1841",
+                "name": "24-Hour Check-In"
+              },
+              {
+                "id": "1958",
+                "name": "Street parking"
+              },
+              {
+                "id": "1960",
+                "name": "Electric vehicle charging station"
+              },
+              {
+                "id": "1968",
+                "name": "Pool with view"
+              },
+              {
+                "id": "1974",
+                "name": "Wine/champagne"
+              },
+              {
+                "id": "1975",
+                "name": "Bottle of water"
+              },
+              {
+                "id": "1976",
+                "name": "Fruits"
+              },
+              {
+                "id": "1990",
+                "name": "Beach chairs / loungers"
+              },
+              {
+                "id": "1991",
+                "name": "Beach umbrellas"
+              },
+              {
+                "id": "1992",
+                "name": "Outdoor furniture"
+              },
+              {
+                "id": "1993",
+                "name": "Fence around pool"
+              },
+              {
+                "id": "2012",
+                "name": "Hot tub/jacuzzi"
+              },
+              {
+                "id": "2013",
+                "name": "Beauty Services"
+              },
+              {
+                "id": "2020",
+                "name": "Hair cut"
+              },
+              {
+                "id": "2030",
+                "name": "Back massage"
+              },
+              {
+                "id": "2031",
+                "name": "Neck massage"
+              },
+              {
+                "id": "2032",
+                "name": "Foot massage"
+              },
+              {
+                "id": "2033",
+                "name": "Couples massage"
+              },
+              {
+                "id": "2034",
+                "name": "Head massage"
+              },
+              {
+                "id": "2035",
+                "name": "Hand massage"
+              },
+              {
+                "id": "2036",
+                "name": "Full body massage"
+              },
+              {
+                "id": "2038",
+                "name": "Fitness"
+              },
+              {
+                "id": "2058",
+                "name": "Sun loungers or beach chairs"
+              },
+              {
+                "id": "2059",
+                "name": "Sun umbrellas"
+              },
+              {
+                "id": "2073",
+                "name": "Breakfast options"
+              },
+              {
+                "id": "2158",
+                "name": "car park onsite"
+              },
+              {
+                "id": "2162",
+                "name": "car park charges applied"
+              },
+              {
+                "id": "2168",
+                "name": "100% non-smoking"
+              },
+              {
+                "id": "2248",
+                "name": "Sofa"
+              },
+              {
+                "id": "2256",
+                "name": "smoke detector"
+              },
+              {
+                "id": "2258",
+                "name": "first aid kit"
+              },
+              {
+                "id": "2272",
+                "name": "Linens"
+              },
+              {
+                "id": "2277",
+                "name": "Towels"
+              },
+              {
+                "id": "2301",
+                "name": "clothes rack"
+              },
+              {
+                "id": "2390",
+                "name": "Smoke-Free Property"
+              },
+              {
+                "id": "2406",
+                "name": "Carpeting"
+              },
+              {
+                "id": "2442",
+                "name": "Live sport events (broadcast)"
+              },
+              {
+                "id": "2447",
+                "name": "Key card access"
+              },
+              {
+                "id": "2449",
+                "name": "Smoke alarms"
+              },
+              {
+                "id": "2450",
+                "name": "CCTV in common areas"
+              },
+              {
+                "id": "2451",
+                "name": "CCTV outside property"
+              },
+              {
+                "id": "2452",
+                "name": "Fire extinguishers"
+              },
+              {
+                "id": "2462",
+                "name": "No single-use plastics"
+              },
+              {
+                "id": "2464",
+                "name": "Towel change upon request"
+              },
+              {
+                "id": "2465",
+                "name": "Towels changed upon request"
+              },
+              {
+                "id": "2475",
+                "name": "Carbon monoxide source"
+              },
+              {
+                "id": "2492",
+                "name": "Guests have the option to reuse towels"
+              },
+              {
+                "id": "2502",
+                "name": "Use of cleaning chemicals that are effective against Coronavirus"
+              },
+              {
+                "id": "2512",
+                "name": "Linens, towels and laundry washed in accordance with WHO guidelines"
+              },
+              {
+                "id": "2522",
+                "name": "Room is disinfected daily"
+              },
+              {
+                "id": "2532",
+                "name": "Rooms sealed for guest after cleaning"
+              },
+              {
+                "id": "2542",
+                "name": "Social distancing in dining areas"
+              },
+              {
+                "id": "2552",
+                "name": "Food can be delivered to guests room"
+              },
+              {
+                "id": "2562",
+                "name": "Staff follow all safety protocols as directed by local authorities"
+              },
+              {
+                "id": "2572",
+                "name": "Shared stationery such as printed menus, magazines, pens, and paper removed"
+              },
+              {
+                "id": "2582",
+                "name": "Hand sanitizer in room and common areas"
+              },
+              {
+                "id": "2602",
+                "name": "First aid kit available"
+              },
+              {
+                "id": "2622",
+                "name": "Cashless payment available"
+              },
+              {
+                "id": "2632",
+                "name": "Social distancing rules"
+              },
+              {
+                "id": "2652",
+                "name": "Screens or physical barriers placed between staff and guests in appropriate areas"
+              },
+              {
+                "id": "2662",
+                "name": "Linens, towels and laundry washed in accordance with local authority guidelines"
+              },
+              {
+                "id": "2672",
+                "name": "Guest accommodation is disinfected between stays"
+              },
+              {
+                "id": "2682",
+                "name": "Guest accommodation sealed after cleaning"
+              },
+              {
+                "id": "2692",
+                "name": "Physical distancing in dining areas"
+              },
+              {
+                "id": "2702",
+                "name": "Food can be delivered to guest accommodation"
+              },
+              {
+                "id": "2712",
+                "name": "Hand sanitizer in guest accommodation and key areas"
+              },
+              {
+                "id": "2722",
+                "name": "Physical distancing rules"
+              },
+              {
+                "id": "2752",
+                "name": "All plates, cutlery, glasses and other tableware have been sanitized"
+              },
+              {
+                "id": "2762",
+                "name": "Guests can opt-out of accommodation cleaning service"
+              },
+              {
+                "id": "2922",
+                "name": "Physical distancing rules followed"
+              },
+              {
+                "id": "2932",
+                "name": "Guests have the option to cancel any cleaning services for their accommodation during their stay"
+              },
+              {
+                "id": "2942",
+                "name": "Breakfast takeaway containers"
+              },
+              {
+                "id": "2982",
+                "name": "Face masks for guests available"
+              },
+              {
+                "id": "2992",
+                "name": "Daily disinfection in common areas"
+              },
+              {
+                "id": "3012",
+                "name": "First aid kit"
+              },
+              {
+                "id": "3022",
+                "name": "Hand sanitizer"
+              },
+              {
+                "id": "3052",
+                "name": "Staff trained in safety protocol"
+              },
+              {
+                "id": "3092",
+                "name": "Daily disinfection in all rooms"
+              },
+              {
+                "id": "3102",
+                "name": "Protective screens in common areas"
+              },
+              {
+                "id": "3112",
+                "name": "Physical distancing of at least 1 meter"
+              },
+              {
+                "id": "3122",
+                "name": "Safe dining setup"
+              },
+              {
+                "id": "3162",
+                "name": "Satellite/cable channels"
+              },
+              {
+                "id": "3212",
+                "name": "Swimming pool [outdoor]"
+              },
+              {
+                "id": "3222",
+                "name": "Wi-Fi [free]"
+              },
+              {
+                "id": "3232",
+                "name": "LAN Internet in room [free]"
+              },
+              {
+                "id": "3262",
+                "name": "Free Wi-Fi in all rooms!"
+              },
+              {
+                "id": "3272",
+                "name": "Front desk [24-hour]"
+              },
+              {
+                "id": "3292",
+                "name": "Cash withdrawal"
+              },
+              {
+                "id": "3422",
+                "name": "Grocery delivery"
+              },
+              {
+                "id": "3472",
+                "name": "Check-in [24-hour]"
+              },
+              {
+                "id": "3522",
+                "name": "Breakfast [free]"
+              },
+              {
+                "id": "3532",
+                "name": "Car park [on-site]"
+              },
+              {
+                "id": "3562",
+                "name": "Car park [charges apply]"
+              },
+              {
+                "id": "3642",
+                "name": "Food delivery"
+              }
+            ],
+            "review_score_data": {
+              "cleanliness_score": "8.9"
+            },
+            "room_data": [
+              {
+                "id": "8qJgpBN4M9htbX00RAAmhlGt4vL5QM2kEibAktNLe3M",
+                "rate_data": [
+                  {
+                    "source": "PPN",
+                    "rate_type": "MER",
+                    "commission_type": "COMMISSION",
+                    "distribution_type": "PUBLIC",
+                    "payment_type": "PREPAID",
+                    "board_type": "BREAKFAST",
+                    "inventory_type": "PCLN",
+                    "program_types": [],
+                    "title": "2 Queen Beds - Non-Smoking",
+                    "description": "2 Queen Beds - Nonsmoking Room - Free WIFI, Free Breakfast, Fridge, and Microwave.",
+                    "occupancy_limit": 2,
+                    "available_rooms": null,
+                    "room_sq_footage": null,
+                    "ppn_bundle": "HEC_uHO7bwdHwcjVBuiNlmG2WtMNz7Hahczoh3el2xld1739X8iHFXpKBfEj2Dsykyg0gKNPiwdymslhUwQemwbTR3yl7db1sOY8bMkFEmg4zYTGlcTuPfnR7h_aNneMD-h_w2ameOTrczNuR1dy9SgENomAZI4ma0oXP_OoadcdLeZ_B98kz4bKzXiCfJeXfDwyTc9a3S0Bzwqhr0NvMxQXdCU0kWuzdRXKaqJPDdZNZHxig3vQJ_4pUwnCs70wVWtAbf8qP5FUVbW-JHvMAojuMt1XviPAzCeuD4YCmwhguUTafy6gj-8JmKpu5Ke46A-Pie4mZn6ffTa-gsu21B2Jhtxg5uVMEiHnrj0fk5Mu4lHucccnPBrU1U4vsWJziVEv39sjURRwnPOhJtbJ9lUAwOzU4vqnZZAE1HR3Egp9goWE2Tc-BT8CZHkC4kl0G3CrMPe-XT6FVBDDxbp_kTr6E1_J9HbMGInJYWejeuuFaqK3Uo3Cp_OmzGG-Ia9rli_j-6vrJlC4xCahbQooNjAHXWKBqaD5v8Knf4TSxC_-tnDl7uriPuf8olZDjXd2AlSs9goYajzef9RMywfrcvh5EKUi-Al3ZiwacQBfBViyXJTJvRXTLy736cZ7ZQBb-90OzMwMnKcS-yAJWjnkvEgkrv5DSYiBm6SlMwu5vWjmNK8xtS-SXT9x6JCuC1uUHSvi2hCOzStY5Bbd2YAv18xAFxZtFITvDtD7aMjjPEQpf6LBkdg4pd3BKol309zyWPGecMlZ_lE-Sucg56IL7HH1DthU-aNzAQiMP3W7ZW-x_36mflMa2u59kAIgwpPNov6bOLnfIUR6f_EMdaG8holcDOXCz_jUYQqecBstp5BzHqDBJirD599NXgARGe9123kb-XeZqgDPlC3jxo04KsnDaXkZtyB6ywBwLe4-5SuGJSDRIQgOoBHgy5pJvwF58Eb3xvZu0G27hzTCA0hG_WuiK2SRj4Nh2KndzsYembPnjf6CBuSOjgmvT62ify8491ie-lE9UbTFxMNKt0UJtirrSM4HUO2rB3e4AnVt22AeL-QQGN22RwQ4XBSXOITPoED-cwMMdidoEW1KA-s9Ak4-yGmWuTHcVMgBsLRnLtgLTXUm7m5aHiF8QOXsBCn_AmRbRXPAy984e5cT7e_ouBulPyavI5ntXIw64ovuiislgvwMpwiuPi2J43VoJv5FrE84MrS7d3pkIkFNeK_c1i0b5b5gVhgnuifINbVHfUKgd3KU8eM68OtFQ3v6EZavF0sXSq_JzmQCIeHtCRC948MwTIjLccck4UvHGfncft7ED41a-E_M-sgBqUlkZ4tVUYz3BwG7hllVFR8-_jaqej3TOFwWRFSbStQGu2qLiifc7-DX4-ffpmmrRWKk8SDEu17sFh_SQRFIDg5QsibKl3-ly4fltIf9er0VEer3-pijXUKL5eSpW6q4W6kJWM5hE1vmFo8GhWxPIA4hZM3BobIaLwqYiyR5smKSnZPCdXCoE5V_Id341yEQfK9pR3Fn2Gnrn0LBc3S2rK2gKNAgSzPwiXzETR8viHDK77jeGollFOiVZU0WTgJJcTB-_uyDn7ixgnP2XaWDvCFNQfnwsegH0FkYsckCci9sfpKmhvYxyaELfPs0BA9E8-XY1TakowEd_2U_tRFNjq2S1iJaw9ib2WowWj5D2mD45meyEPOMYGtJ8ybyEowxPqYSnu4T32bxeY1H8HEJuDh6CxRCu4DI0se1xmW-MSDJ7Yb3xWgdErGzYF5sQT9U4LLr92vV0g7MGndzRxfSt1PNN_sbg2-oNI05AkgVHH9sniPNiSkwnUcaatmYkMP_IT5WqIoi2QqO8bZ5eghwpflnxfrtyTzUw0cBPBC_QbYLpJpyBFtM-Q54qkw0mpsH2jjgYg4ctvb9hvsMA1AwdoE4pgoyT8SQgS4iRL7c_46U7wVUu0tOoMm8w6XxbhmYbYSgxK7p-Axj2dXGR4UaWksp-oUoEG9eY4emoZgT3gouvdcOwpZDV2i7UG3hfJHCW7HNbPnpZp8tjg1ND1ymH6YiTUZET7uGGiWyWn_SQaT-1pVxsGZ4dX8oPWYuvDYpJHO-bR4ndaDjtjAUQDpyOeHxKA3SKg_9Fji8Y3uX7loXAvrSeNVPyMZruGKbKIMCuvBn1Semy-6QSIUB24jxvp2Ob6yWkIcyUzXPNBDX819-VS1OS4L5AR4ytVVULwOxBQSlrMe_daAY0ZiP1AdgPaSTpSktYa67yCU1BL_GEQFoQgQfHTakJyywhx0GqNjgdsM6ri5fMuFkJkwS6vkBg5sBPXJVIXzKFPP4pZvKNgGdH9gSFR6A68UwqyMrYopRoK5hizLLtJJ4lP-1pscFHIpAP84tfcDnzLfXM0eexSqxSzYOUgmgSZMOGRojA7pKh64PJY13k5gVAPa5_k0yfjH7pxgLsj7EtywqlwN6BOn614CEgC8rMU5NLfYBDG73xmK4i4f9kouPKQJRnmtLGsgIEJjhPTw-j3C_Uf8VPKttv_w_awNW00-z69rU1QcjJhFO_nfgdyhHrM5NznmxtW6F6TR3gLdsG7k5s6rw_SWcFKoi57rtHOPBfFWBzN85embd4XEOvakI3VBenoLa0xTMCYYBZBiZP9D-noyRg5lVt8fKGKzdb1VJnXAfsRMZL5UzUZ_44ehfuOwLERFshMBTqjgRoQ0dxtdbLaNcyCNVier5XqJXgVoVKH9dvsIUcNEF_-Zw4JlfD8IpzDKDDSBq9SkJbe59tLtFoM5fYl53cg-gqA_YvN8CoDWRQ__LU0B7cHcJyBSwRjoe3EdF7Hwf9hYHibSPwF57KhdlSl4Yd1dCY369utyzTFCGn3fIwZVHJejj4XYeEErtdGsRefDFEdr7CsQ5Q7Lg2DWJoXcZfelGlX2X-iggFycw_KCGIHjGggxWwDY4r2vhqcbBuzClSVu8Zb4vn8VIZbSE_te3Zw3_I38quQ8QKZjSkBa0CDr_bK7CwTwIHXDRSkf1xxzNQlKD3tqYgAcmKC3x5L-PCReW9yc6PE9G3ia6SCGhg-9-gzIC6E951lHFK7HDYDhIgt3h_Rzjb7ejn-DcaQUh3gUaFGN_PlY5jlNVgpGwJ_KqzqA3lfPgTUREjdb1nstkkYjxU6DLJYOOWQm7Njc8XXL1l59I32ozuy5FzlCE3djb2NtgDPWXW-yCdAVRLgkFbByQZEjkN0gRccwjprLMnlLtPc1dCJN-5_GHj93Bawht6zE5SU4Zl4FbHxs7Kn3g3HXNln6Tswi1ktYC2cXjIS9u5ph6CbPtDebejC9uIIcs-votJB1pHN9bgICftZ-HSQU0NqVF5df7RLo5hEU_HekkYHiGdAcua_ommTJOxLYA7Fm2P4dC7OnX0vn-ovEiGzkdSo_6bjaZN_QMBIl5-zOd0Zq06rpJXvhBTUpddlfn_fh8R8YxOHhtx53XOPFvgf4Q1NHEPbV7cwx4597nAVawrC1VLCabgbevDhpqDaPcjv8iAGGzMAqJEz3pA-Tvu9MZqPgKv8XIpfUN4qKVNhVkFA1l0SIvMSo1zzgcEnJbMYsxiZ0ahKl6_LUikBDkerTLEeHW7L-31tjQEytvuAWh8W6XlREOaHlkHmY-bN3duoMNTlz2N97quFcn6pqpDtv45XYs7y1z4dRWg5mS2DKSXkhY0OxVvhqD0dM9fVyyqRjWbcfd-uV8ieqI4kCueXVld4-4LtHhz7xlWyhrp1LSDzl5XhEIJbC2cJglTMi84_UVVNpKBRo5Mq4eJm4v0yQQwUrj1JB5z_bdyBzdwJH8496eZmrwixBggeJJJVJxeiniiA7iZgqOJnbhJ18xW-DM0X0godI1pXkLh6zFj8IvUUppYWSmZAQeoJ_g45Sgm6i9P58PJNftREURkFurbR4WlezudZiWZsExK098S2lc3tm9Vt2pVuCMUN8D-U2rNFO16HkLJw0NPKdzmY8YB03liMSMdnKXrGw1zNOpOLfIfS-HEyUJYVXr6uHvpjQLYyOU7WWkUGNdR4xpWcbIQLrgvpEZeM9vbx5Gxpe-AdW2uU9TB7yRzJVgrTkXmCY0_htRryjR9q-kuDi2iIxFEVDEmt1nQScXBzEFurvRNfJi8iwcbsOQjqtUz-CMlC6DxtJ0ufp_kS6s4Yq7TUFf3XNZBZtU1ViZo0_kBff-45o2uEVOPiuIp10kg9YzMslmCasudjFKKwuNfu12gJrtoV6jhVtbaHI5MoPfsD_eYFYz7ogztZUHElEf5Pkgng0_PsopmseVyKl8xOnuFcGrjfSRef7PNnmLxOc12G1Kd72peRqtSyjsS4w26Eo5CREOnFBRKdav",
+                    "rate_plan_code": "870435_MERCHANT_MERCHANT__6cb77a8f-8a7f-bd7c-b3a2-3c95ed080bc6",
+                    "rate_tracking_id": null,
+                    "all_inclusive": null,
+                    "bed_choice_available": false,
+                    "rate_source_code": null,
+                    "bedding_data": [],
+                    "benchmark_price_details": {
+                      "saving_percentage": 0,
+                      "baseline_currency": "USD",
+                      "baseline_price": 141.95,
+                      "source_currency": "USD",
+                      "source_price": 141.95,
+                      "display_currency": "USD",
+                      "display_price": 141.95
+                    },
+                    "property_fee_details": null,
+                    "price_details": {
+                      "booked_currency": "USD",
+                      "baseline_currency": "USD",
+                      "baseline_symbol": "$",
+                      "baseline_price": 141.95,
+                      "baseline_processing_fee": 0,
+                      "baseline_property_fee": 0,
+                      "baseline_insurance_fee": 38.33,
+                      "baseline_sub_total": 709.75,
+                      "baseline_taxes": 141.95,
+                      "baseline_total": 851.7,
+                      "source_currency": "USD",
+                      "source_symbol": "$",
+                      "source_price": 141.95,
+                      "source_processing_fee": 0,
+                      "source_property_fee": 0,
+                      "source_insurance_fee": 38.33,
+                      "source_sub_total": 709.75,
+                      "source_taxes": 141.95,
+                      "source_total": 851.7,
+                      "display_currency": "USD",
+                      "display_symbol": "$",
+                      "display_price": 141.95,
+                      "display_processing_fee": 0,
+                      "display_property_fee": 0,
+                      "display_insurance_fee": 38.33,
+                      "display_sub_total": 709.75,
+                      "display_taxes": 141.95,
+                      "display_total": 851.7,
+                      "attribute_data": {
+                        "tax_data": [
+                          {
+                            "name": "Tax",
+                            "type": "TAX",
+                            "source_currency": "USD",
+                            "source_amount": 141.95,
+                            "display_currency": "USD",
+                            "display_amount": 141.95,
+                            "attribute": "Exclusive"
+                          }
+                        ]
+                      },
+                      "night_price_data": [
+                        {
+                          "baseline_night_price": 141.95,
+                          "source_night_price": 141.95,
+                          "display_night_price": 141.95
+                        },
+                        {
+                          "baseline_night_price": 141.95,
+                          "source_night_price": 141.95,
+                          "display_night_price": 141.95
+                        },
+                        {
+                          "baseline_night_price": 141.95,
+                          "source_night_price": 141.95,
+                          "display_night_price": 141.95
+                        },
+                        {
+                          "baseline_night_price": 141.95,
+                          "source_night_price": 141.95,
+                          "display_night_price": 141.95
+                        },
+                        {
+                          "baseline_night_price": 141.95,
+                          "source_night_price": 141.95,
+                          "display_night_price": 141.95
+                        }
+                      ],
+                      "nightly_rate_changes": false,
+                      "mandatory_fee_details": null,
+                      "promo": {
+                        "title": "Exclusive with this rate",
+                        "description": "Free Breakfast",
+                        "type": "VALUE_ADD",
+                        "terms": null,
+                        "strikeout_price": 141.95,
+                        "source_strikeout_price": 141.95,
+                        "display_strikeout_price": 141.95,
+                        "required": 0
+                      }
+                    },
+                    "cancellation_details": [
+                      {
+                        "description": "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount.",
+                        "date_after": "2017-02-14T17:00:00-08:00",
+                        "date_before": "2024-08-07T07:00:00-07:00",
+                        "penalty_nights": 5,
+                        "source_currency": "USD",
+                        "source_amount": 851.7,
+                        "source_tax": 0,
+                        "source_processing_fee": 0,
+                        "source_cancellation_fee": 0,
+                        "source_refund": 0,
+                        "source_total_charges": 851.7,
+                        "display_currency": "USD",
+                        "display_amount": 851.7,
+                        "display_tax": 0,
+                        "display_processing_fee": 0,
+                        "display_cancellation_fee": 0,
+                        "display_refund": 0,
+                        "display_total_charges": 851.7
+                      }
+                    ],
+                    "policy_data": [
+                      {
+                        "title": "Cancellation Policy",
+                        "paragraph_data": [
+                          "For the room type and rate that you've selected, you are not allowed to change or cancel your reservation. If you cancel your room, you will still be charged for the full reservation amount."
+                        ]
+                      },
+                      {
+                        "title": "Travel Insurance (Trip Protection)",
+                        "paragraph_data": [
+                          "You will receive a letter of Confirmation and Certificate of Insurance/Policy via separate e-mail.#br##br#For more Information, Please visit #faqs#. Or, to manage your policy online, #allianz_click_here#. If you prefer, you may also directly contact Allianz Global Assistance's #allianz_cust_support# or call at 1-888-799-3063.#br##br#If you cancel your reservation, please call Allianz Global Assistance at 1-888-799-3063 to request a travel insurance refund or report a claim if cancelling for a covered reason."
+                        ]
+                      },
+                      {
+                        "title": "Photo Policy",
+                        "paragraph_data": [
+                          "The reservation holder must present a valid photo ID and credit card at check-in. The credit card is required for any additional hotel specific service fees or incidental charges or fees that may be charged by the hotel to the customer at checkout. These #START_PHOTO#charges#END_PHOTO# may be mandatory (e.g., resort fees) or optional (parking, phone calls or minibar charges) and are not included in the room rate."
+                        ]
+                      },
+                      {
+                        "title": "Promo has been applied",
+                        "paragraph_data": [
+                          "<b>Negotiated Special Details:</b><li><em>Early Booking Saver.</em>&nbsp;&#151;&nbsp;null</li><li>Offer Details:&nbsp;Negotiated Specials may be limited to certain dates and subject to availability.</li>"
+                        ]
+                      },
+                      {
+                        "title": "Rate Description",
+                        "paragraph_data": [
+                          "Special Rate"
+                        ]
+                      },
+                      {
+                        "title": "Hotel Occupancy Policy",
+                        "paragraph_data": [
+                          "All rooms booked for double occupancy (i.e. 2 adults). Accommodations for more than this are not guaranteed."
+                        ]
+                      },
+                      {
+                        "title": "Room Charge Disclosure",
+                        "paragraph_data": [
+                          "Your credit card is charged the total cost at time of purchase. Prices and room availability are not guaranteed until full payment is received."
+                        ]
+                      },
+                      {
+                        "title": "Hotel Pet Policy",
+                        "paragraph_data": [
+                          "Pets are not allowed.\n"
+                        ]
+                      }
+                    ],
+                    "plugin_data": null,
+                    "upsell_data": {
+                      "travel_insurance": {
+                        "default": {
+                          "display_price": "38.33",
+                          "display_currency": "USD",
+                          "display_symbol": "$",
+                          "source_price": "38.33",
+                          "source_currency": "USD",
+                          "source_symbol": "$",
+                          "baseline_price": "38.33",
+                          "baseline_currency": "USD",
+                          "baseline_symbol": "$"
+                        },
+                        "important_information": {
+                          "paragraph_data": [
+                            "Your credit card will be charged $38.33 for Hotel Insurance",
+                            "Within 10 days, depending on your state of residence, you can receive a full refund on your premium if you're not satisfied and you haven't filed a claim or departed for your trip/event."
+                          ]
+                        },
+                        "ti_html": "<div id=\"agaInsuranceOffer\" class=\"agaInsuranceOffer\" style=\"border:1px solid #1B549B;margin:0;padding:0;font-family:Helvetica, arial, sans-serif;\">  \n\t<div id=\"agaInsuranceHeader\" style=\"color:white;background:#1B549B;font-size:21px;line-height:38px;padding-left: 15px;font-size: 1.4285em;\">\n\t\t<strong>Add Hotel Cancellation Protection</strong>\n\t</div>\n\t<div style=\"padding:10px;font-size:14px;\" id=\"agaInsuranceBody\" class=\"agaInsuranceBody\">\n\t\t<div id=\"agaInsuranceIntro\" class=\"agaInsuranceIntro\" style=\"margin: 10px 0;padding-left: 5px;\">\n\t\t\t\n\t\t</div>\n\t\t<div>\n\t\t\t<ul style=\"margin: 20px 0;\"><li style=\"list-style-image: url(&quot;https://gateway.americas.allianz-assistance.com/images/a-bluecheckmark_22x18.png&quot;); list-style-position: outside; text-indent: 0px; line-height: 18px; margin-bottom: 10px;margin-left: 39px;\">Get reimbursed <span style=\"font-weight:bold !important;\">up to 100&#37;</span> for covered trip cancellation</li><li style=\"list-style-image: url(&quot;https://gateway.americas.allianz-assistance.com/images/a-bluecheckmark_22x18.png&quot;); list-style-position: outside; text-indent: 0px; line-height: 18px; margin-bottom: 10px;margin-left: 39px;\">Reimburses unexpected, eligible costs associated with trip interruption</li><li style=\"list-style-image: url(&quot;https://gateway.americas.allianz-assistance.com/images/a-bluecheckmark_22x18.png&quot;); list-style-position: outside; text-indent: 0px; line-height: 18px; margin-bottom: 10px;margin-left: 39px;\">24-hour award-winning assistance hotline</li></ul><br />\n\t\t</div>\n\t\t<div id=\"agaInsuranceOptions\" class=\"agaInsuranceOptions\">\n\t\t\t<div>\n                        <label>\n\t\t\t    <input type=\"radio\" id=\"js_ins--yes\" name=\"add_insurance\" value=\"on\" style=\"margin-left:15px;margin-bottom:10px; vertical-align: top; margin-top: 2px;\"/>\n\t\t\t    <div style=\"display:inline-block;margin-left:6px;margin-bottom:10px;width:85%;\">\n\t\t\t        <span style=\"font-weight:bold !important;\">Yes,</span> add cancellation protection for a total price of $38.33\n\t\t\t    </div>\n                        </label>\n\t\t\t</div>\n\t\t\t<div>\n                        <label>\n\t\t\t    <input type=\"radio\" id=\"js_ins--no\" name=\"add_insurance\" value=\"off\" style=\"margin-left:15px;margin-bottom:10px; vertical-align: top; margin-top: 2px;\"/>\n\t\t\t    <div style=\"display:inline-block;margin-left:6px;margin-bottom:10px;width:85%;\">\n\t\t\t        No, decline coverage.\n\t\t\t    </div>\n                        </label>\n\t\t\t</div>\n\t\t</div>\n\t\t<div id=\"agaInsuranceFooter\" class=\"agaInsuranceFooter\" style=\"margin-left: 41px; margin-top: 5px;\">\n\t\t\t\n\t\t</div>\n\t\t<div id=\"agaInsuranceDisclaimer\" class=\"agaInsuranceDisclaimer\" style=\"margin-left: 38px; margin-top: 5px;margin-bottom:10px;font-size: 12px;\">\n\t\t\t<span style='display:block;margin-bottom:5px;'><img src='https://gateway.americas.allianz-assistance.com/images/advisory-icon.png' alt='Alert Icon' width='18' height='18' style='vertical-align:baseline;margin-right:5px;position:relative;top:3px;'/><a href='https://azcontent.us/alert/2019-novel-coronavirus?utm_source=PPN&utm_medium=referral-link&utm_campaign=coverage-alert&utm_content=booking-path&utm_term=2841204311251489123' target='_blank'>COVID-19: <span class='agaHidden-accessible'> Learn more about the coverage alert information for Novel Coronavirus. Link opens in a new window</span></a>COVERAGE LIMITATIONS AND SPECIAL ACCOMMODATIONS</span>Recommended/offered/sold by Allianz Global Assistance. Underwriter: Jefferson Insurance Company or BCS Insurance Company. Plan incl. insurance & assistance services. Terms & exclusions (incl. for pre-existing conditions) apply. <a href='https://www.allianzworldwidepartners.com/usa/terms-and-conditions/001004597' target='_blank' onClick='window.open('https://www.allianzworldwidepartners.com/usa/terms-and-conditions/001004597','OPTION','width=600,height=600,resizable=yes,menubar=no,status=no,scrollbars=yes,toolbar=no,directories=no,location=no'); return false;'>Plan & Pricing details, disclosures<span class='agaHidden-accessible'> Learn more about terms and conditions. Link opens in a new window.</span></a> <style>.agaHidden-accessible {border: 0 none;clip: rect(0px,0px,0px,0px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}</style>\n\t\t</div>\n\t</div>\n</div>\n<div style=\"display:none;\">\n    <input type=\"hidden\" value=10720 id=\"agaTreatmentID\" />\n    <input type=\"hidden\" value=Baseline id=\"agaOfferType\" />\n    <input type=\"hidden\" value=SGMT_22931 id=\"agaSegmentCode\" />\n</div>\n<style>\n  #agaInsuranceOptions input {\n  \tvertical-align:top !important;\n  }\n</style>",
+                        "text_block": [
+                          "Add Hotel Cancellation Protection",
+                          "Get reimbursed up to 100&#37; for covered trip cancellationReimburses unexpected, eligible costs associated with trip interruption24-hour award-winning assistance hotline",
+                          "Yes, add cancellation protection for a total price of $38.33",
+                          "No, decline coverage.",
+                          "COVID-19:  Learn more about the coverage alert information for Novel Coronavirus. Link opens in a new windowCOVERAGE LIMITATIONS AND SPECIAL ACCOMMODATIONSRecommended/offered/sold by Allianz Global Assistance. Underwriter: Jefferson Insurance Company or BCS Insurance Company. Plan incl. insurance & assistance services. Terms & exclusions (incl. for pre-existing conditions) apply. Plan & Pricing details, disclosures Learn more about terms and conditions. Link opens in a new window. .agaHidden-accessible {border: 0 none;clip: rect(0px,0px,0px,0px);height: 1px;margin: -1px;overflow: hidden;padding: 0;position: absolute;width: 1px;}",
+                          "#agaInsuranceOptions input {",
+                          "vertical-align:top !important;",
+                          "}"
+                        ],
+                        "insurance_bundle": "_3kHoS5xvRyEKLB_TcmE3rx9bqD8V-lGpJmSAenUiYdgfEZC1y-zvjqEMvou5YCaZCtBaBeJwMH6Uxj7jlKOdvqaanFVstNeSpuqF5DTVSrMlEqy8mR70s4owQd-Nmj5qL0p-OfN1oOiIQIpvM5df1ssrETlRt14nd1dS8SB-vIyPcN6QWG5z-vXjYANJEHOA3oCdUxXaPnn1w1ouZWcCFIucEmLmoi-wxiITLRRmJRdIgfZjv8odyrj31hEI21_X2rxOBPduoyUM9Xu9D63ADLiAmiG5tUVtqIekDHobQ14VB0SJEFt622aZiWT3_4d0A5ZZUajUi9SpiUc8tPm7EpTHjT23nP9pQJaZwpD2BMVkD4WSychxhAW6kM2aFhxWf5p6wZ3PYaBAUvSW9HckxA",
+                        "insurance_type": "ALLIANZ",
+                        "insurance_available": "1"
+                      }
+                    },
+                    "is_cancellable": "false",
+                    "cvc_required": true,
+                    "promo_data": [
+                      {
+                        "hotel_id": "700363264",
+                        "promo_desc": "Free Breakfast",
+                        "terms": null,
+                        "source_currency": "USD",
+                        "source_strikeout_price": "141.95",
+                        "source_symbol": "$",
+                        "source_discount_rate": "141.95",
+                        "display_currency": "USD",
+                        "display_strikeout_price": "141.95",
+                        "display_symbol": "$",
+                        "display_price": "141.95",
+                        "required": 0,
+                        "discount_type": "VALUE_ADD",
+                        "promo_discount_amt": 0
+                      }
+                    ],
+                    "rate_amenity_data": null
+                  }
+                ]
+              }
+            ],
+            "phone": "510-356-2450",
+            "check_in_time": "15:00",
+            "check_out_time": "11:00"
+          }
+        ],
+        "taxes_and_fees": [
+          "In connection with facilitating your hotel transaction, the charge to your method of payment will include a charge for Taxes and Fees. This charge includes an estimated amount to recover the amount we pay to the hotel in connection with your reservation for taxes owed by the hotel including, without limitation, sales and use tax, occupancy tax, room tax, excise tax, value added tax and/or other similar taxes. In certain locations, the tax amount may also include government imposed service fees or other fees not paid directly to the taxing authorities but required by law to be collected by the hotel. The amount paid to the hotel in connection with your reservation for taxes may vary from the amount we estimate and include in the charge to you. The balance of the charge for Taxes and Fees is a fee we retain as part of the compensation for our services and to cover the costs of your reservation, including, for example, customer service costs. The charge for Taxes and Fees varies based on a number of factors including, without limitation, the amount we pay the hotel and the location of the hotel where you will be staying, and may include profit that we retain. Except as described below, we are not the vendor collecting and remitting taxes to the applicable taxing authorities. Our hotel suppliers, as vendors, include all applicable taxes in the amount billed to us and we pay over such amounts directly to the vendors. We are not a co-vendor associated with the vendor with whom we book or reserve our customer's travel arrangements. Taxability and the appropriate tax rate and the type of applicable taxes vary greatly by location.",
+          "For transactions involving hotels located within certain jurisdictions, the charge to your method of payment for Taxes and Fees includes a payment of tax that we are required to collect and remit to the jurisdiction for tax owed on amounts we retain as compensation for our services.",
+          "Depending on the property you stay at you may also be charged (i) certain mandatory hotel specific service fees, for example, resort fees (which typically apply to resort type destinations and, if applicable, may range from $10 to $40 per day), energy surcharges, newspaper delivery fees, in-room safe fees, tourism fees, or housekeeping fees and/or (ii) certain optional incidental fees, for example, parking charges, minibar charges, phone calls, room service and movie rentals, etc. These charges, if applicable, will be payable by you to the hotel directly at checkout. When you check in, a credit card or, in the hotel's discretion, a debit card, will be required to secure these charges and fees that you may incur during your stay. Please contact the hotel directly as to whether and which charges or service fees apply.",
+          "Please note that we are unable to facilitate a rebate of Canadian Goods and Services Tax ('GST') for customers booking Canadian hotel accommodations utilizing our services. For bookings in Canada, the charges may also include destination marketing fees collected by the hotel and passed along to tourist bureaus."
+        ],
+        "allowed_cards_data": [
+          {
+            "card_type": "VI",
+            "name": "Visa"
+          },
+          {
+            "card_type": "MC",
+            "name": "Master Card"
+          },
+          {
+            "card_type": "AX",
+            "name": "American Express"
+          },
+          {
+            "card_type": "DS",
+            "name": "Discover"
+          }
+        ],
+        "allowed_countries_data": [
+          {
+            "code": "US",
+            "name": "United States",
+            "region_data": [
+              {
+                "name": "Armed Forces Americas",
+                "code": "AA"
+              },
+              {
+                "name": "Armed Forces Elsewhere",
+                "code": "AE"
+              },
+              {
+                "name": "Armed Forces Pacific",
+                "code": "AP"
+              },
+              {
+                "name": "Alabama",
+                "code": "AL"
+              },
+              {
+                "name": "Alaska",
+                "code": "AK"
+              },
+              {
+                "name": "Arizona",
+                "code": "AZ"
+              },
+              {
+                "name": "Arkansas",
+                "code": "AR"
+              },
+              {
+                "name": "California",
+                "code": "CA"
+              },
+              {
+                "name": "Colorado",
+                "code": "CO"
+              },
+              {
+                "name": "Connecticut",
+                "code": "CT"
+              },
+              {
+                "name": "Delaware",
+                "code": "DE"
+              },
+              {
+                "name": "District of Columbia",
+                "code": "DC"
+              },
+              {
+                "name": "Florida",
+                "code": "FL"
+              },
+              {
+                "name": "Georgia",
+                "code": "GA"
+              },
+              {
+                "name": "Hawaii",
+                "code": "HI"
+              },
+              {
+                "name": "Idaho",
+                "code": "ID"
+              },
+              {
+                "name": "Illinois",
+                "code": "IL"
+              },
+              {
+                "name": "Indiana",
+                "code": "IN"
+              },
+              {
+                "name": "Iowa",
+                "code": "IA"
+              },
+              {
+                "name": "Kansas",
+                "code": "KS"
+              },
+              {
+                "name": "Kentucky",
+                "code": "KY"
+              },
+              {
+                "name": "Louisiana",
+                "code": "LA"
+              },
+              {
+                "name": "Maine",
+                "code": "ME"
+              },
+              {
+                "name": "Maryland",
+                "code": "MD"
+              },
+              {
+                "name": "Massachusetts",
+                "code": "MA"
+              },
+              {
+                "name": "Michigan",
+                "code": "MI"
+              },
+              {
+                "name": "Minnesota",
+                "code": "MN"
+              },
+              {
+                "name": "Mississippi",
+                "code": "MS"
+              },
+              {
+                "name": "Missouri",
+                "code": "MO"
+              },
+              {
+                "name": "Montana",
+                "code": "MT"
+              },
+              {
+                "name": "Nebraska",
+                "code": "NE"
+              },
+              {
+                "name": "Nevada",
+                "code": "NV"
+              },
+              {
+                "name": "New Hampshire",
+                "code": "NH"
+              },
+              {
+                "name": "New Jersey",
+                "code": "NJ"
+              },
+              {
+                "name": "New Mexico",
+                "code": "NM"
+              },
+              {
+                "name": "New York",
+                "code": "NY"
+              },
+              {
+                "name": "North Carolina",
+                "code": "NC"
+              },
+              {
+                "name": "North Dakota",
+                "code": "ND"
+              },
+              {
+                "name": "Ohio",
+                "code": "OH"
+              },
+              {
+                "name": "Oklahoma",
+                "code": "OK"
+              },
+              {
+                "name": "Oregon",
+                "code": "OR"
+              },
+              {
+                "name": "Pennsylvania",
+                "code": "PA"
+              },
+              {
+                "name": "Rhode Island",
+                "code": "RI"
+              },
+              {
+                "name": "South Carolina",
+                "code": "SC"
+              },
+              {
+                "name": "South Dakota",
+                "code": "SD"
+              },
+              {
+                "name": "Tennessee",
+                "code": "TN"
+              },
+              {
+                "name": "Texas",
+                "code": "TX"
+              },
+              {
+                "name": "Utah",
+                "code": "UT"
+              },
+              {
+                "name": "Vermont",
+                "code": "VT"
+              },
+              {
+                "name": "Virginia",
+                "code": "VA"
+              },
+              {
+                "name": "Washington",
+                "code": "WA"
+              },
+              {
+                "name": "West Virginia",
+                "code": "WV"
+              },
+              {
+                "name": "Wisconsin",
+                "code": "WI"
+              },
+              {
+                "name": "Wyoming",
+                "code": "WY"
+              }
+            ]
+          },
+          {
+            "code": "CA",
+            "name": "Canada",
+            "region_data": [
+              {
+                "name": "Alberta",
+                "code": "AB"
+              },
+              {
+                "name": "British Columbia",
+                "code": "BC"
+              },
+              {
+                "name": "Manitoba",
+                "code": "MB"
+              },
+              {
+                "name": "New Brunswick",
+                "code": "NB"
+              },
+              {
+                "name": "Newfoundland",
+                "code": "NL"
+              },
+              {
+                "name": "Northwest Territories",
+                "code": "NT"
+              },
+              {
+                "name": "Nova Scotia",
+                "code": "NS"
+              },
+              {
+                "name": "Nunavut",
+                "code": "NU"
+              },
+              {
+                "name": "Ontario",
+                "code": "ON"
+              },
+              {
+                "name": "Prince Edward Island",
+                "code": "PE"
+              },
+              {
+                "name": "Quebec",
+                "code": "QC"
+              },
+              {
+                "name": "Saskatchewan",
+                "code": "SK"
+              },
+              {
+                "name": "Yukon",
+                "code": "YT"
+              }
+            ]
+          },
+          {
+            "code": "GB",
+            "name": "United Kingdom"
+          },
+          {
+            "code": "AF",
+            "name": "Afghanistan"
+          },
+          {
+            "code": "AL",
+            "name": "Albania"
+          },
+          {
+            "code": "DZ",
+            "name": "Algeria"
+          },
+          {
+            "code": "AS",
+            "name": "American Samoa"
+          },
+          {
+            "code": "AD",
+            "name": "Andorra"
+          },
+          {
+            "code": "AO",
+            "name": "Angola"
+          },
+          {
+            "code": "AI",
+            "name": "Anguilla"
+          },
+          {
+            "code": "AQ",
+            "name": "Antarctica"
+          },
+          {
+            "code": "AG",
+            "name": "Antigua And Barbuda"
+          },
+          {
+            "code": "AR",
+            "name": "Argentina"
+          },
+          {
+            "code": "AM",
+            "name": "Armenia"
+          },
+          {
+            "code": "AW",
+            "name": "Aruba"
+          },
+          {
+            "code": "AU",
+            "name": "Australia"
+          },
+          {
+            "code": "AT",
+            "name": "Austria"
+          },
+          {
+            "code": "AZ",
+            "name": "Azerbaijan"
+          },
+          {
+            "code": "BS",
+            "name": "Bahamas"
+          },
+          {
+            "code": "BH",
+            "name": "Bahrain"
+          },
+          {
+            "code": "BD",
+            "name": "Bangladesh"
+          },
+          {
+            "code": "BB",
+            "name": "Barbados"
+          },
+          {
+            "code": "BY",
+            "name": "Belarus"
+          },
+          {
+            "code": "BE",
+            "name": "Belgium"
+          },
+          {
+            "code": "BZ",
+            "name": "Belize"
+          },
+          {
+            "code": "BJ",
+            "name": "Benin"
+          },
+          {
+            "code": "BM",
+            "name": "Bermuda"
+          },
+          {
+            "code": "BT",
+            "name": "Bhutan"
+          },
+          {
+            "code": "BO",
+            "name": "Bolivia"
+          },
+          {
+            "code": "BQ",
+            "name": "Bonaire, Sint Eustatius And Saba"
+          },
+          {
+            "code": "BA",
+            "name": "Bosnia And Herzegovina"
+          },
+          {
+            "code": "BW",
+            "name": "Botswana"
+          },
+          {
+            "code": "BV",
+            "name": "Bouvet Island"
+          },
+          {
+            "code": "BR",
+            "name": "Brazil"
+          },
+          {
+            "code": "IO",
+            "name": "British Indian Ocean Territory"
+          },
+          {
+            "code": "VG",
+            "name": "British Virgin Islands"
+          },
+          {
+            "code": "BN",
+            "name": "Brunei"
+          },
+          {
+            "code": "BG",
+            "name": "Bulgaria"
+          },
+          {
+            "code": "BF",
+            "name": "Burkina Faso"
+          },
+          {
+            "code": "BI",
+            "name": "Burundi"
+          },
+          {
+            "code": "KH",
+            "name": "Cambodia"
+          },
+          {
+            "code": "CM",
+            "name": "Cameroon"
+          },
+          {
+            "code": "CV",
+            "name": "Cape Verde"
+          },
+          {
+            "code": "KY",
+            "name": "Cayman Islands"
+          },
+          {
+            "code": "CF",
+            "name": "Central African Republic"
+          },
+          {
+            "code": "TD",
+            "name": "Chad"
+          },
+          {
+            "code": "CL",
+            "name": "Chile"
+          },
+          {
+            "code": "CN",
+            "name": "China"
+          },
+          {
+            "code": "CX",
+            "name": "Christmas Island"
+          },
+          {
+            "code": "CC",
+            "name": "Cocos (Keeling) Islands"
+          },
+          {
+            "code": "CO",
+            "name": "Colombia"
+          },
+          {
+            "code": "KM",
+            "name": "Comoros"
+          },
+          {
+            "code": "CG",
+            "name": "Congo"
+          },
+          {
+            "code": "CK",
+            "name": "Cook Islands"
+          },
+          {
+            "code": "CR",
+            "name": "Costa Rica"
+          },
+          {
+            "code": "HR",
+            "name": "Croatia"
+          },
+          {
+            "code": "CW",
+            "name": "Curacao"
+          },
+          {
+            "code": "CY",
+            "name": "Cyprus"
+          },
+          {
+            "code": "CZ",
+            "name": "Czech Republic"
+          },
+          {
+            "code": "CD",
+            "name": "Dem Rep Of The Congo (Zaire)"
+          },
+          {
+            "code": "DK",
+            "name": "Denmark"
+          },
+          {
+            "code": "DJ",
+            "name": "Djibouti"
+          },
+          {
+            "code": "DM",
+            "name": "Dominica"
+          },
+          {
+            "code": "DO",
+            "name": "Dominican Republic"
+          },
+          {
+            "code": "EC",
+            "name": "Ecuador"
+          },
+          {
+            "code": "EG",
+            "name": "Egypt"
+          },
+          {
+            "code": "SV",
+            "name": "El Salvador"
+          },
+          {
+            "code": "GQ",
+            "name": "Equatorial Guinea"
+          },
+          {
+            "code": "ER",
+            "name": "Eritrea"
+          },
+          {
+            "code": "EE",
+            "name": "Estonia"
+          },
+          {
+            "code": "ET",
+            "name": "Ethiopia"
+          },
+          {
+            "code": "FK",
+            "name": "Falkland Islands (Islas Malvinas)"
+          },
+          {
+            "code": "FO",
+            "name": "Faroe Islands"
+          },
+          {
+            "code": "FM",
+            "name": "Federated States Of Micronesia"
+          },
+          {
+            "code": "FJ",
+            "name": "Fiji"
+          },
+          {
+            "code": "FI",
+            "name": "Finland"
+          },
+          {
+            "code": "FR",
+            "name": "France"
+          },
+          {
+            "code": "GF",
+            "name": "French Guiana"
+          },
+          {
+            "code": "PF",
+            "name": "French Polynesia"
+          },
+          {
+            "code": "TF",
+            "name": "French Southern And Antarctic Lands"
+          },
+          {
+            "code": "GA",
+            "name": "Gabon"
+          },
+          {
+            "code": "GM",
+            "name": "Gambia"
+          },
+          {
+            "code": "GE",
+            "name": "Georgia"
+          },
+          {
+            "code": "DE",
+            "name": "Germany"
+          },
+          {
+            "code": "GH",
+            "name": "Ghana"
+          },
+          {
+            "code": "GI",
+            "name": "Gibraltar"
+          },
+          {
+            "code": "GR",
+            "name": "Greece"
+          },
+          {
+            "code": "GL",
+            "name": "Greenland"
+          },
+          {
+            "code": "GD",
+            "name": "Grenada"
+          },
+          {
+            "code": "GP",
+            "name": "Guadeloupe"
+          },
+          {
+            "code": "GU",
+            "name": "Guam"
+          },
+          {
+            "code": "GT",
+            "name": "Guatemala"
+          },
+          {
+            "code": "GG",
+            "name": "Guernsey"
+          },
+          {
+            "code": "GN",
+            "name": "Guinea"
+          },
+          {
+            "code": "GW",
+            "name": "Guinea-Bissau"
+          },
+          {
+            "code": "GY",
+            "name": "Guyana"
+          },
+          {
+            "code": "HT",
+            "name": "Haiti"
+          },
+          {
+            "code": "HM",
+            "name": "Heard Island And Mcdonald Islands"
+          },
+          {
+            "code": "VA",
+            "name": "Holy See (Vatican City)"
+          },
+          {
+            "code": "HN",
+            "name": "Honduras"
+          },
+          {
+            "code": "HK",
+            "name": "Hong Kong"
+          },
+          {
+            "code": "HU",
+            "name": "Hungary"
+          },
+          {
+            "code": "IS",
+            "name": "Iceland"
+          },
+          {
+            "code": "IN",
+            "name": "India"
+          },
+          {
+            "code": "ID",
+            "name": "Indonesia"
+          },
+          {
+            "code": "IQ",
+            "name": "Iraq"
+          },
+          {
+            "code": "IE",
+            "name": "Ireland"
+          },
+          {
+            "code": "IM",
+            "name": "Isle Of Man"
+          },
+          {
+            "code": "IL",
+            "name": "Israel"
+          },
+          {
+            "code": "IT",
+            "name": "Italy"
+          },
+          {
+            "code": "CI",
+            "name": "Ivory Coast"
+          },
+          {
+            "code": "JM",
+            "name": "Jamaica"
+          },
+          {
+            "code": "JP",
+            "name": "Japan"
+          },
+          {
+            "code": "JE",
+            "name": "Jersey"
+          },
+          {
+            "code": "JO",
+            "name": "Jordan"
+          },
+          {
+            "code": "KZ",
+            "name": "Kazakhstan"
+          },
+          {
+            "code": "KE",
+            "name": "Kenya"
+          },
+          {
+            "code": "KI",
+            "name": "Kiribati"
+          },
+          {
+            "code": "XK",
+            "name": "Kosovo"
+          },
+          {
+            "code": "KW",
+            "name": "Kuwait"
+          },
+          {
+            "code": "KG",
+            "name": "Kyrgyzstan"
+          },
+          {
+            "code": "LA",
+            "name": "Laos"
+          },
+          {
+            "code": "LV",
+            "name": "Latvia"
+          },
+          {
+            "code": "LB",
+            "name": "Lebanon"
+          },
+          {
+            "code": "LS",
+            "name": "Lesotho"
+          },
+          {
+            "code": "LR",
+            "name": "Liberia"
+          },
+          {
+            "code": "LY",
+            "name": "Libya"
+          },
+          {
+            "code": "LI",
+            "name": "Liechtenstein"
+          },
+          {
+            "code": "LT",
+            "name": "Lithuania"
+          },
+          {
+            "code": "LU",
+            "name": "Luxembourg"
+          },
+          {
+            "code": "MO",
+            "name": "Macau"
+          },
+          {
+            "code": "MK",
+            "name": "Macedonia"
+          },
+          {
+            "code": "MG",
+            "name": "Madagascar"
+          },
+          {
+            "code": "MW",
+            "name": "Malawi"
+          },
+          {
+            "code": "MY",
+            "name": "Malaysia"
+          },
+          {
+            "code": "MV",
+            "name": "Maldives"
+          },
+          {
+            "code": "ML",
+            "name": "Mali"
+          },
+          {
+            "code": "MT",
+            "name": "Malta"
+          },
+          {
+            "code": "MH",
+            "name": "Marshall Islands"
+          },
+          {
+            "code": "MQ",
+            "name": "Martinique"
+          },
+          {
+            "code": "MR",
+            "name": "Mauritania"
+          },
+          {
+            "code": "MU",
+            "name": "Mauritius"
+          },
+          {
+            "code": "YT",
+            "name": "Mayotte"
+          },
+          {
+            "code": "MX",
+            "name": "Mexico"
+          },
+          {
+            "code": "MD",
+            "name": "Moldova"
+          },
+          {
+            "code": "MC",
+            "name": "Monaco"
+          },
+          {
+            "code": "MN",
+            "name": "Mongolia"
+          },
+          {
+            "code": "ME",
+            "name": "Montenegro"
+          },
+          {
+            "code": "MS",
+            "name": "Montserrat"
+          },
+          {
+            "code": "MA",
+            "name": "Morocco"
+          },
+          {
+            "code": "MZ",
+            "name": "Mozambique"
+          },
+          {
+            "code": "MM",
+            "name": "Myanmar"
+          },
+          {
+            "code": "NA",
+            "name": "Namibia"
+          },
+          {
+            "code": "NR",
+            "name": "Nauru"
+          },
+          {
+            "code": "NP",
+            "name": "Nepal"
+          },
+          {
+            "code": "NL",
+            "name": "Netherlands"
+          },
+          {
+            "code": "NC",
+            "name": "New Caledonia"
+          },
+          {
+            "code": "NZ",
+            "name": "New Zealand"
+          },
+          {
+            "code": "NI",
+            "name": "Nicaragua"
+          },
+          {
+            "code": "NE",
+            "name": "Niger"
+          },
+          {
+            "code": "NG",
+            "name": "Nigeria"
+          },
+          {
+            "code": "NU",
+            "name": "Niue"
+          },
+          {
+            "code": "NF",
+            "name": "Norfolk Island"
+          },
+          {
+            "code": "MP",
+            "name": "Northern Mariana Islands"
+          },
+          {
+            "code": "NO",
+            "name": "Norway"
+          },
+          {
+            "code": "OM",
+            "name": "Oman"
+          },
+          {
+            "code": "PK",
+            "name": "Pakistan"
+          },
+          {
+            "code": "PW",
+            "name": "Palau"
+          },
+          {
+            "code": "PA",
+            "name": "Panama"
+          },
+          {
+            "code": "PG",
+            "name": "Papua New Guinea"
+          },
+          {
+            "code": "PY",
+            "name": "Paraguay"
+          },
+          {
+            "code": "PE",
+            "name": "Peru"
+          },
+          {
+            "code": "PH",
+            "name": "Philippines"
+          },
+          {
+            "code": "PN",
+            "name": "Pitcairn Islands"
+          },
+          {
+            "code": "PL",
+            "name": "Poland"
+          },
+          {
+            "code": "PT",
+            "name": "Portugal"
+          },
+          {
+            "code": "PR",
+            "name": "Puerto Rico"
+          },
+          {
+            "code": "QA",
+            "name": "Qatar"
+          },
+          {
+            "code": "KR",
+            "name": "Republic Of Korea"
+          },
+          {
+            "code": "RE",
+            "name": "Reunion"
+          },
+          {
+            "code": "RO",
+            "name": "Romania"
+          },
+          {
+            "code": "RU",
+            "name": "Russia"
+          },
+          {
+            "code": "RW",
+            "name": "Rwanda"
+          },
+          {
+            "code": "BL",
+            "name": "Saint Barthelemy"
+          },
+          {
+            "code": "MF",
+            "name": "Saint Martin (French Part)"
+          },
+          {
+            "code": "PM",
+            "name": "Saint Pierre And Miquelon"
+          },
+          {
+            "code": "VC",
+            "name": "Saint Vincent And The Grenadines"
+          },
+          {
+            "code": "WS",
+            "name": "Samoa"
+          },
+          {
+            "code": "SM",
+            "name": "San Marino"
+          },
+          {
+            "code": "ST",
+            "name": "Sao Tome And Principe"
+          },
+          {
+            "code": "SA",
+            "name": "Saudi Arabia"
+          },
+          {
+            "code": "SN",
+            "name": "Senegal"
+          },
+          {
+            "code": "RS",
+            "name": "Serbia"
+          },
+          {
+            "code": "SC",
+            "name": "Seychelles"
+          },
+          {
+            "code": "SL",
+            "name": "Sierra Leone"
+          },
+          {
+            "code": "SG",
+            "name": "Singapore"
+          },
+          {
+            "code": "SX",
+            "name": "Sint Maarten (Dutch Part)"
+          },
+          {
+            "code": "SK",
+            "name": "Slovakia"
+          },
+          {
+            "code": "SI",
+            "name": "Slovenia"
+          },
+          {
+            "code": "SB",
+            "name": "Solomon Islands"
+          },
+          {
+            "code": "SO",
+            "name": "Somalia"
+          },
+          {
+            "code": "ZA",
+            "name": "South Africa"
+          },
+          {
+            "code": "ES",
+            "name": "Spain"
+          },
+          {
+            "code": "LK",
+            "name": "Sri Lanka"
+          },
+          {
+            "code": "SH",
+            "name": "St Helena"
+          },
+          {
+            "code": "LC",
+            "name": "St Lucia"
+          },
+          {
+            "code": "KN",
+            "name": "St. Kitts And Nevis"
+          },
+          {
+            "code": "SR",
+            "name": "Suriname"
+          },
+          {
+            "code": "SJ",
+            "name": "Svalbard"
+          },
+          {
+            "code": "SZ",
+            "name": "Swaziland"
+          },
+          {
+            "code": "SE",
+            "name": "Sweden"
+          },
+          {
+            "code": "CH",
+            "name": "Switzerland"
+          },
+          {
+            "code": "TW",
+            "name": "Taiwan"
+          },
+          {
+            "code": "TJ",
+            "name": "Tajikistan"
+          },
+          {
+            "code": "TZ",
+            "name": "Tanzania"
+          },
+          {
+            "code": "TH",
+            "name": "Thailand"
+          },
+          {
+            "code": "TL",
+            "name": "Timor-Leste"
+          },
+          {
+            "code": "TG",
+            "name": "Togo"
+          },
+          {
+            "code": "TK",
+            "name": "Tokelau"
+          },
+          {
+            "code": "TO",
+            "name": "Tonga"
+          },
+          {
+            "code": "TT",
+            "name": "Trinidad And Tobago"
+          },
+          {
+            "code": "TN",
+            "name": "Tunisia"
+          },
+          {
+            "code": "TR",
+            "name": "Turkey"
+          },
+          {
+            "code": "TM",
+            "name": "Turkmenistan"
+          },
+          {
+            "code": "TC",
+            "name": "Turks And Caicos Islands"
+          },
+          {
+            "code": "TV",
+            "name": "Tuvalu"
+          },
+          {
+            "code": "UG",
+            "name": "Uganda"
+          },
+          {
+            "code": "UA",
+            "name": "Ukraine"
+          },
+          {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          {
+            "code": "UY",
+            "name": "Uruguay"
+          },
+          {
+            "code": "UZ",
+            "name": "Uzbekistan"
+          },
+          {
+            "code": "VU",
+            "name": "Vanuatu"
+          },
+          {
+            "code": "VE",
+            "name": "Venezuela"
+          },
+          {
+            "code": "VN",
+            "name": "Vietnam"
+          },
+          {
+            "code": "VI",
+            "name": "Virgin Islands"
+          },
+          {
+            "code": "WF",
+            "name": "Wallis And Futuna"
+          },
+          {
+            "code": "YE",
+            "name": "Yemen"
+          },
+          {
+            "code": "ZM",
+            "name": "Zambia"
+          },
+          {
+            "code": "ZW",
+            "name": "Zimbabwe"
+          }
+        ],
+        "book_form_details": {
+          "inventory": "MER",
+          "name_first": 1,
+          "name_last": 1,
+          "email": 1,
+          "phone_number": 1,
+          "card_type": 1,
+          "card_number": 1,
+          "expires": 1,
+          "cvc_code": 1,
+          "card_holder": 1,
+          "add_insurance": 1,
+          "address_line_one": 1,
+          "address_city": 1,
+          "address_postal_code": 1,
+          "address_state_code": 1,
+          "country_code": 1,
+          "initials": 1,
+          "contract_response": 1,
+          "loyalty_points": 0
+        },
+        "status_code": 100
+      },
+      "request_key": "c4418875d10545006334037770855480",
+      "time": "2.857"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "whole_day": [
+    {
+      "code": 2636,
+      "name": "Adult",
+      "description": "Age: 25 - 64",
+      "price": 16.66,
+      "capacity": 20,
+      "questions": []
+    },
+    {
+      "code": 2637,
+      "name": "Youth",
+      "description": "Age: 19 - 24 (with valid ID)",
+      "price": 12.36,
+      "capacity": 20,
+      "questions": []
+    },
+    {
+      "code": 2638,
+      "name": "Senior",
+      "description": "Age: 65+ (with ID)",
+      "price": 14.9,
+      "capacity": 20,
+      "questions": []
+    },
+    {
+      "code": 2639,
+      "name": "Child",
+      "description": "Age: 0 - 18 (with valid ID)",
+      "price": 0.0,
+      "capacity": 20,
+      "questions": []
+    }
+  ]
+}

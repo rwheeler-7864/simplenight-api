@@ -1,0 +1,22 @@
+<soap-env:Envelope xmlns:soap-env="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap-env:Body>
+        <ns0:HotelSuperShopperReq xmlns:ns0="http://www.travelport.com/schema/hotel_v50_0" TargetBranch="P3081850"
+                                  RetrieveProviderReservationDetails="false">
+            <ns1:BillingPointOfSaleInfo xmlns:ns1="http://www.travelport.com/schema/common_v50_0"
+                                        OriginApplication="uAPI"/>
+            <ns0:HotelSearchLocation>
+                <ns0:HotelLocation Location="SFO" LocationType="Airport"/>
+            </ns0:HotelSearchLocation>
+            <ns0:HotelSearchModifiers NumberOfAdults="1" AggregateResults="false" ReturnPropertyDescription="false"
+                                      ReturnAmenities="false">
+                <ns2:PermittedProviders xmlns:ns2="http://www.travelport.com/schema/common_v50_0">
+                    <ns2:Provider Code="1V"/>
+                </ns2:PermittedProviders>
+            </ns0:HotelSearchModifiers>
+            <ns0:HotelStay>
+                <ns0:CheckinDate>2020-12-15</ns0:CheckinDate>
+                <ns0:CheckoutDate>2020-12-28</ns0:CheckoutDate>
+            </ns0:HotelStay>
+        </ns0:HotelSuperShopperReq>
+    </soap-env:Body>
+</soap-env:Envelope>

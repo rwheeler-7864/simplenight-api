@@ -1,0 +1,3413 @@
+{
+  "ResponseMessage": [],
+  "NextResultReference": {
+    "_value_1": "PRM4",
+    "ProviderCode": "1V"
+  },
+  "HostToken": null,
+  "RequestedHotelDetails": {
+    "HotelProperty": {
+      "PropertyAddress": {
+        "Address": [
+          "1333 Bayshore Hwy ",
+          "BURLINGAME CA 94010 US "
+        ]
+      },
+      "PhoneNumber": [
+        {
+          "ProviderReservationInfoRef": [],
+          "Key": null,
+          "Type": "Business",
+          "Location": null,
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": "1-650-3471234",
+          "Extension": null,
+          "Text": null,
+          "ElStat": null,
+          "KeyOverride": null
+        },
+        {
+          "ProviderReservationInfoRef": [],
+          "Key": null,
+          "Type": "Fax",
+          "Location": null,
+          "CountryCode": null,
+          "AreaCode": null,
+          "Number": "1-650-696-2605",
+          "Extension": null,
+          "Text": null,
+          "ElStat": null,
+          "KeyOverride": null
+        }
+      ],
+      "CoordinateLocation": null,
+      "Distance": {
+        "Units": "MI",
+        "Value": 2,
+        "Direction": "SE"
+      },
+      "HotelRating": [
+        {
+          "RatingProvider": "AAA",
+          "Rating": [
+            3
+          ],
+          "RatingRange": null
+        }
+      ],
+      "Amenities": null,
+      "MarketingMessage": {
+        "Text": [
+          "EARN AA MILES AT HYATT - HODHY/PART"
+        ]
+      },
+      "HotelChain": "HY",
+      "HotelCode": "09974",
+      "HotelLocation": "SFO",
+      "Name": "HYATT REGENCY SAN FRANCISCO AIRPORT",
+      "VendorLocationKey": null,
+      "HotelTransportation": null,
+      "ReserveRequirement": null,
+      "ParticipationLevel": "2",
+      "Availability": null,
+      "Key": null,
+      "PreferredOption": null,
+      "MoreRates": true,
+      "MoreRatesToken": null,
+      "NetTransCommissionInd": null,
+      "NumOfRatePlans": null
+    },
+    "HotelDetailItem": [
+      {
+        "Text": [
+          "3PM"
+        ],
+        "Name": "CheckInTime"
+      },
+      {
+        "Text": [
+          "12N"
+        ],
+        "Name": "CheckOutTime"
+      }
+    ],
+    "HotelRateDetail": [
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Beds",
+              "2 Queen Beds: Burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD129.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "DBLRACK",
+        "Base": "USD903.00",
+        "Tax": null,
+        "Total": "USD1020.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 Queen Bed",
+              "1 Queen Bed:burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD129.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "QENRACK",
+        "Base": "USD903.00",
+        "Tax": null,
+        "Total": "USD1020.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Bed:burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Ada King Tub"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD139.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AKTRACK",
+        "Base": "USD973.00",
+        "Tax": null,
+        "Total": "USD1098.51",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Beds: Burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Ada 2 Queens Tub"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD129.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AQTRACK",
+        "Base": "USD903.00",
+        "Tax": null,
+        "Total": "USD1020.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Bed:burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Ada King Shower"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD139.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AKSRACK",
+        "Base": "USD973.00",
+        "Tax": null,
+        "Total": "USD1098.51",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Ddbl Bed:burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Ada Ddbl Tub"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD129.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "ADTRACK",
+        "Base": "USD903.00",
+        "Tax": null,
+        "Total": "USD1020.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Ddbl Bed:burlingame Or Atrium View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Ada Ddbl Shower"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD129.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "ADSRACK",
+        "Base": "USD903.00",
+        "Tax": null,
+        "Total": "USD1020.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Bed:refrigerator:floors 6-8:360 Sq Ft"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "High Floor King"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD144.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V2KRACK",
+        "Base": "USD1008.00",
+        "Tax": null,
+        "Total": "USD1137.71",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Beds:atrium/mountain View: Floors 6-8"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "High Flr 2queens"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD139.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V2DRACK",
+        "Base": "USD973.00",
+        "Tax": null,
+        "Total": "USD1098.51",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Beds:san Francisco Bay View:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Bayview 2 Queens"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD169.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V1DRACK",
+        "Base": "USD1183.00",
+        "Tax": null,
+        "Total": "USD1333.71",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Bed:san Francisco Bay View:ihome Dock:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Bay View 1 King"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD169.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V1KRACK",
+        "Base": "USD1183.00",
+        "Tax": null,
+        "Total": "USD1333.71",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Hills Or Bay Views: Includes Breakfast For 1:"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Business Plan"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD159.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "BSKRACK",
+        "Base": "USD1113.00",
+        "Tax": null,
+        "Total": "USD1255.31",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "1 King Bed:burlingame Or Atrium View"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Reg Club 1kng"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD189.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "CLKRACK",
+        "Base": "USD1323.00",
+        "Tax": null,
+        "Total": "USD1490.51",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "2 Queen Beds:burlingame Or Atrium View"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Reg Club 2queens"
+            ],
+            "Name": "Description"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD189.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "CLDRACK",
+        "Base": "USD1323.00",
+        "Tax": null,
+        "Total": "USD1490.51",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Business Suite",
+              "1 Bedroom Suite:king Bed:sofa Sleeper:"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD229.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "BTERACK",
+        "Base": "USD160",
+        "Tax": null,
+        "Total": "USD1804.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Premier Suite",
+              "Suite Accommodations"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD629.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "PRMRACK",
+        "Base": "USD4403.00",
+        "Tax": null,
+        "Total": "USD4940.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Bayview Suite",
+              "Suite Accommodations"
+            ],
+            "Name": "Room"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD279.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "BYSRACK",
+        "Base": "USD1953.00",
+        "Tax": null,
+        "Total": "USD2196.11",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play 2 Queen Beds**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD152.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "DBLPRM4",
+        "Base": "USD1064.00",
+        "Tax": null,
+        "Total": "USD1200.43",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play 1 Queen Bed**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD152.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "QENPRM4",
+        "Base": "USD1064.00",
+        "Tax": null,
+        "Total": "USD1200.43",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Ada King Tub**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD162.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AKTPRM4",
+        "Base": "USD1134.00",
+        "Tax": null,
+        "Total": "USD1278.83",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Ada 2 Queens Tub**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD152.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AQTPRM4",
+        "Base": "USD1064.00",
+        "Tax": null,
+        "Total": "USD1200.43",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Ada King Shower**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD162.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "AKSPRM4",
+        "Base": "USD1134.00",
+        "Tax": null,
+        "Total": "USD1278.83",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Ada Ddbl Tub**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD152.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "ADTPRM4",
+        "Base": "USD1064.00",
+        "Tax": null,
+        "Total": "USD1200.43",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Ada Ddbl Shower**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD152.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "ADSPRM4",
+        "Base": "USD1064.00",
+        "Tax": null,
+        "Total": "USD1200.43",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play High Floor King**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD167.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V2KPRM4",
+        "Base": "USD1169.00",
+        "Tax": null,
+        "Total": "USD1318.03",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play High Flr 2queens**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD162.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V2DPRM4",
+        "Base": "USD1134.00",
+        "Tax": null,
+        "Total": "USD1278.83",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Bayview 2 Queens**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD192.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V1DPRM4",
+        "Base": "USD1344.00",
+        "Tax": null,
+        "Total": "USD1514.03",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Bay View 1 King**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD192.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "V1KPRM4",
+        "Base": "USD1344.00",
+        "Tax": null,
+        "Total": "USD1514.03",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Business Plan**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD182.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "BSKPRM4",
+        "Base": "USD1274.00",
+        "Tax": null,
+        "Total": "USD1435.63",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      },
+      {
+        "PolicyCodesList": null,
+        "RoomRateDescription": [
+          {
+            "Text": [
+              "Valet Parking For 1 Vehicle Per Night"
+            ],
+            "Name": "Room"
+          },
+          {
+            "Text": [
+              "Park And Play Reg Club 1kng**see Hov**"
+            ],
+            "Name": "Rate"
+          }
+        ],
+        "HotelRateByDate": [
+          {
+            "EffectiveDate": "2020-07-16",
+            "ExpireDate": "2020-07-23",
+            "Base": "USD212.00",
+            "Tax": null,
+            "Total": null,
+            "Surcharge": null,
+            "ApproximateBase": null,
+            "ApproximateTotal": null,
+            "Contents": null
+          }
+        ],
+        "CorporateDiscountID": [],
+        "AcceptedPayment": [],
+        "Commission": {
+          "Indicator": "true",
+          "Percent": "10",
+          "CommissionAmount": null,
+          "ApproxCommissionAmount": null,
+          "CommissionOnSurcharges": null,
+          "ApproxCommissionOnSurcharges": null
+        },
+        "RateMatchIndicator": [],
+        "TaxDetails": null,
+        "CancelInfo": {
+          "CancellationPolicy": null,
+          "Text": [],
+          "NonRefundableStayIndicator": "false",
+          "CancelDeadline": null,
+          "TaxInclusive": null,
+          "FeeInclusive": null,
+          "CancelPenaltyAmount": null,
+          "NumberOfNights": null,
+          "CancelPenaltyPercent": null,
+          "CancelPenaltyPercentAppliesTo": null,
+          "Method": null,
+          "Supported": null,
+          "URL": null,
+          "OffsetTimeUnit": "Hour",
+          "OffsetUnitMultiplier": 24,
+          "OffsetDropTime": "BeforeArrival"
+        },
+        "GuaranteeInfo": {
+          "DepositAmount": null,
+          "DepositNights": null,
+          "DepositPercent": null,
+          "GuaranteePaymentType": [],
+          "AbsoluteDeadline": null,
+          "CredentialsRequired": null,
+          "HoldTime": null,
+          "GuaranteeType": "Guarantee",
+          "OffsetTimeUnit": null,
+          "OffsetUnitMultiplier": null,
+          "OffsetDropTime": null
+        },
+        "SupplementalRateInfo": null,
+        "RoomCapacity": null,
+        "ExtraCharges": null,
+        "Inclusions": {
+          "BedTypes": [
+            {
+              "Code": 248,
+              "Quantity": null
+            }
+          ],
+          "MealPlans": {
+            "MealPlan": [],
+            "Breakfast": "unknown",
+            "Lunch": "unknown",
+            "Dinner": "unknown"
+          },
+          "RoomView": null,
+          "SmokingRoomIndicator": "unknown"
+        },
+        "RatePlanType": "CLKPRM4",
+        "Base": "USD1484.00",
+        "Tax": null,
+        "Total": "USD1670.83",
+        "Surcharge": null,
+        "ApproximateBase": null,
+        "ApproximateTax": null,
+        "ApproximateTotal": null,
+        "ApproximateSurcharge": null,
+        "RateGuaranteed": null,
+        "ApproximateRateGuaranteed": null,
+        "RateCategory": null,
+        "Key": null,
+        "RateSupplier": null,
+        "BookableQuantity": null,
+        "RateOfferId": null,
+        "InPolicy": null,
+        "RateChangeIndicator": "false",
+        "ExtraFeesIncluded": "false"
+      }
+    ],
+    "MediaItem": [],
+    "HotelType": {
+      "SourceLink": true
+    }
+  },
+  "HotelAlternateProperties": null,
+  "GuestReviews": null,
+  "TraceId": null,
+  "TransactionId": "C105D8620A07425CB77968B180718140",
+  "ResponseTime": 1487,
+  "CommandHistory": null
+}

@@ -1,0 +1,3685 @@
+{
+  "from": 1,
+  "to": 500,
+  "total": 459,
+  "auditData": {
+    "processTime": "169",
+    "timestamp": "2020-07-22 08:17:25.520",
+    "requestHost": "10.185.88.26",
+    "serverId": "ip-10-185-89-189.eu-west-1.compute.internal.node.int-hbg-aws-eu-west-1.discovery",
+    "environment": "[awseuwest1, awseuwest1a, ip_10_185_89_189]",
+    "release": "f639f4638c132d6d6c3470bfa32330d6870af62a",
+    "internal": "94cd333ef1a2438cb3e2b256c2002326"
+  },
+  "facilities": [
+    {
+      "code": 1,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Single bed 90-130 width"
+      }
+    },
+    {
+      "code": 1,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Single bed 90-130 width"
+      }
+    },
+    {
+      "code": 1,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Gay-friendly"
+      }
+    },
+    {
+      "code": 1,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Barcelo - We care about you"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 100,
+      "facilityTypologyCode": 14,
+      "description": {
+        "content": "1"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "hotel"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "American Express"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "City centre"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Bathroom"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 23,
+      "description": {
+        "content": "Air conditioning in public areas"
+      }
+    },
+    {
+      "code": 10,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "RIU - Covid-19 Health Protocol"
+      }
+    },
+    {
+      "code": 100,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Suites"
+      }
+    },
+    {
+      "code": 100,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Internet access"
+      }
+    },
+    {
+      "code": 100,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Supermarket"
+      }
+    },
+    {
+      "code": 100,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Set menu dinner"
+      }
+    },
+    {
+      "code": 11,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Private external bathroom"
+      }
+    },
+    {
+      "code": 11,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Fireplace"
+      }
+    },
+    {
+      "code": 11,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Breakfast and dinner"
+      }
+    },
+    {
+      "code": 11,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "NH - Feel safe at NH"
+      }
+    },
+    {
+      "code": 110,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Apartments"
+      }
+    },
+    {
+      "code": 110,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "EuroCard"
+      }
+    },
+    {
+      "code": 110,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Kitchenette"
+      }
+    },
+    {
+      "code": 110,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Shop"
+      }
+    },
+    {
+      "code": 111,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Kitchen utensils, plates & cups"
+      }
+    },
+    {
+      "code": 114,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Snacks"
+      }
+    },
+    {
+      "code": 115,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Studios"
+      }
+    },
+    {
+      "code": 115,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Euro 6000"
+      }
+    },
+    {
+      "code": 115,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Kitchen"
+      }
+    },
+    {
+      "code": 12,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Smoke detector"
+      }
+    },
+    {
+      "code": 12,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Breakfast and lunch"
+      }
+    },
+    {
+      "code": 12,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Louvre - Charte of Commitment"
+      }
+    },
+    {
+      "code": 120,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Bungalows"
+      }
+    },
+    {
+      "code": 120,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Minibar"
+      }
+    },
+    {
+      "code": 120,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Hairdressing salon"
+      }
+    },
+    {
+      "code": 123,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Villas"
+      }
+    },
+    {
+      "code": 124,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Disability-friendly rooms"
+      }
+    },
+    {
+      "code": 125,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Entertainment Area"
+      }
+    },
+    {
+      "code": 125,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Garden"
+      }
+    },
+    {
+      "code": 126,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Triple rooms"
+      }
+    },
+    {
+      "code": 127,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Quadruple rooms"
+      }
+    },
+    {
+      "code": 128,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Executive rooms"
+      }
+    },
+    {
+      "code": 129,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Superior rooms"
+      }
+    },
+    {
+      "code": 13,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Eurostars- Clean & Safe"
+      }
+    },
+    {
+      "code": 130,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Golf course"
+      }
+    },
+    {
+      "code": 130,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Fridge"
+      }
+    },
+    {
+      "code": 130,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Bar"
+      }
+    },
+    {
+      "code": 130,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Special dietary options"
+      }
+    },
+    {
+      "code": 130,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Flight information required"
+      }
+    },
+    {
+      "code": 131,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Family rooms"
+      }
+    },
+    {
+      "code": 132,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Twin rooms"
+      }
+    },
+    {
+      "code": 135,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Mini fridge"
+      }
+    },
+    {
+      "code": 135,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Terrace"
+      }
+    },
+    {
+      "code": 137,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Cooker"
+      }
+    },
+    {
+      "code": 14,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "MGM - Seven-Points Safety plan"
+      }
+    },
+    {
+      "code": 140,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Microwave"
+      }
+    },
+    {
+      "code": 140,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Pub"
+      }
+    },
+    {
+      "code": 143,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Tea and coffee making facilities "
+      }
+    },
+    {
+      "code": 145,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Bus/Train station"
+      }
+    },
+    {
+      "code": 145,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Washing machine"
+      }
+    },
+    {
+      "code": 147,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Ironing set"
+      }
+    },
+    {
+      "code": 15,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Meliá - Stay Safe with Meliá"
+      }
+    },
+    {
+      "code": 150,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Double bed 131-150 width"
+      }
+    },
+    {
+      "code": 150,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Double bed 131-150 width"
+      }
+    },
+    {
+      "code": 150,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Nightclub"
+      }
+    },
+    {
+      "code": 155,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "King-size bed 150-183 width"
+      }
+    },
+    {
+      "code": 155,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "King-size bed 150-183 width"
+      }
+    },
+    {
+      "code": 16,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Blue Sea - Safety and Hygiene Measures"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "hostel"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Ski slopes"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Carpeted floors"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Theatre / auditorium"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "Early bird breakfast"
+      }
+    },
+    {
+      "code": 160,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Banana boating"
+      }
+    },
+    {
+      "code": 17,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Ascott - Ascott Cares"
+      }
+    },
+    {
+      "code": 170,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 23,
+      "description": {
+        "content": "Centrally regulated air conditioning"
+      }
+    },
+    {
+      "code": 170,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Conference room"
+      }
+    },
+    {
+      "code": 170,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "Late riser breakfast"
+      }
+    },
+    {
+      "code": 170,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Waterskiing"
+      }
+    },
+    {
+      "code": 18,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Scandic -  StaySafe at Scandic"
+      }
+    },
+    {
+      "code": 180,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 24,
+      "description": {
+        "content": "Individually adjustable air conditioning"
+      }
+    },
+    {
+      "code": 180,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Casino"
+      }
+    },
+    {
+      "code": 180,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Hot breakfast"
+      }
+    },
+    {
+      "code": 180,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Jet ski"
+      }
+    },
+    {
+      "code": 19,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Leondardo - Hotel Stay Guidelines"
+      }
+    },
+    {
+      "code": 190,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Central heating"
+      }
+    },
+    {
+      "code": 190,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Game room"
+      }
+    },
+    {
+      "code": 190,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Motor board ride"
+      }
+    },
+    {
+      "code": 193,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "TV lounge"
+      }
+    },
+    {
+      "code": 195,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Individually adjustable heating "
+      }
+    },
+    {
+      "code": 2,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Naturist"
+      }
+    },
+    {
+      "code": 2,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Accor - ALLSAFE"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Year of construction"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 100,
+      "facilityTypologyCode": 14,
+      "description": {
+        "content": "2"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "EC"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Nearest Bus / Metro Stop"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Shower"
+      }
+    },
+    {
+      "code": 20,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Crystal - Hygienic Concept"
+      }
+    },
+    {
+      "code": 200,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 26,
+      "description": {
+        "content": "Safe"
+      }
+    },
+    {
+      "code": 200,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Restaurant"
+      }
+    },
+    {
+      "code": 200,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Breakfast served to the table"
+      }
+    },
+    {
+      "code": 200,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Diving"
+      }
+    },
+    {
+      "code": 203,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 34,
+      "description": {
+        "content": "Only Adults"
+      }
+    },
+    {
+      "code": 21,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Catalonia - Global Commitment to Safeguard our guests"
+      }
+    },
+    {
+      "code": 210,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 27,
+      "description": {
+        "content": "Key Collection"
+      }
+    },
+    {
+      "code": 210,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Picnic"
+      }
+    },
+    {
+      "code": 210,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Windsurfing"
+      }
+    },
+    {
+      "code": 22,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Ona - Security and Hygiene Protocol"
+      }
+    },
+    {
+      "code": 220,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "lodge"
+      }
+    },
+    {
+      "code": 220,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Living room"
+      }
+    },
+    {
+      "code": 220,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Non-smoking area"
+      }
+    },
+    {
+      "code": 220,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Brunch"
+      }
+    },
+    {
+      "code": 220,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Sailing"
+      }
+    },
+    {
+      "code": 225,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Smoking area"
+      }
+    },
+    {
+      "code": 23,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "H10 - Safety Program by H10"
+      }
+    },
+    {
+      "code": 230,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Balcony"
+      }
+    },
+    {
+      "code": 230,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Highchairs"
+      }
+    },
+    {
+      "code": 230,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Gluten-free meals "
+      }
+    },
+    {
+      "code": 230,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Catamaran sailing"
+      }
+    },
+    {
+      "code": 24,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Iberostar - How we care"
+      }
+    },
+    {
+      "code": 240,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Terrace"
+      }
+    },
+    {
+      "code": 240,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Mobile phone coverage"
+      }
+    },
+    {
+      "code": 240,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "No alcohol is served"
+      }
+    },
+    {
+      "code": 240,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Canoeing"
+      }
+    },
+    {
+      "code": 25,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "aparthotel"
+      }
+    },
+    {
+      "code": 25,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Kempinski - White Glove"
+      }
+    },
+    {
+      "code": 250,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "camping"
+      }
+    },
+    {
+      "code": 250,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "Wheelchair-accessible"
+      }
+    },
+    {
+      "code": 250,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Wired Internet"
+      }
+    },
+    {
+      "code": 250,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Vegetarian meal"
+      }
+    },
+    {
+      "code": 250,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Pedal boating"
+      }
+    },
+    {
+      "code": 251,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Half board without drinks"
+      }
+    },
+    {
+      "code": 252,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Half board with non-alcoholic drinks"
+      }
+    },
+    {
+      "code": 253,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Half board with drinks"
+      }
+    },
+    {
+      "code": 254,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Full board without drinks"
+      }
+    },
+    {
+      "code": 255,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Full board with non-alcoholic drinks"
+      }
+    },
+    {
+      "code": 256,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Full board with drinks"
+      }
+    },
+    {
+      "code": 257,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "All inclusive without drinks"
+      }
+    },
+    {
+      "code": 258,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "All inclusive with non-alcoholic drinks"
+      }
+    },
+    {
+      "code": 259,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "All inclusive with alcoholic drinks own brands"
+      }
+    },
+    {
+      "code": 26,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Red Roof - RediClean"
+      }
+    },
+    {
+      "code": 260,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "botel"
+      }
+    },
+    {
+      "code": 260,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "Disability-friendly bathroom"
+      }
+    },
+    {
+      "code": 260,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 16,
+      "description": {
+        "content": "Check-in hour"
+      }
+    },
+    {
+      "code": 260,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "All inclusive with alcoholic drinks top brands"
+      }
+    },
+    {
+      "code": 260,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Table tennis"
+      }
+    },
+    {
+      "code": 261,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Wi-fi"
+      }
+    },
+    {
+      "code": 261,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Full board"
+      }
+    },
+    {
+      "code": 262,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Wake-up service"
+      }
+    },
+    {
+      "code": 262,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Half Board"
+      }
+    },
+    {
+      "code": 263,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Pillow menu"
+      }
+    },
+    {
+      "code": 263,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "All inclusive"
+      }
+    },
+    {
+      "code": 264,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Cot on demand"
+      }
+    },
+    {
+      "code": 264,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Breakfast a la carte"
+      }
+    },
+    {
+      "code": 265,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Bluetooth speaker"
+      }
+    },
+    {
+      "code": 265,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 24,
+      "description": {
+        "content": "Gala dinner"
+      }
+    },
+    {
+      "code": 266,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Turndown service"
+      }
+    },
+    {
+      "code": 268,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "220V power supply"
+      }
+    },
+    {
+      "code": 269,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Hydro-massage bath"
+      }
+    },
+    {
+      "code": 27,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Red Lion - Safe Stay"
+      }
+    },
+    {
+      "code": 270,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "cruise"
+      }
+    },
+    {
+      "code": 270,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "CD player "
+      }
+    },
+    {
+      "code": 270,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Room service"
+      }
+    },
+    {
+      "code": 270,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Squash"
+      }
+    },
+    {
+      "code": 271,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "DVD player"
+      }
+    },
+    {
+      "code": 272,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Pay movies"
+      }
+    },
+    {
+      "code": 273,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Alarm clock"
+      }
+    },
+    {
+      "code": 274,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Video games console"
+      }
+    },
+    {
+      "code": 275,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 19,
+      "description": {
+        "content": "Extra beds on demand"
+      }
+    },
+    {
+      "code": 276,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Toiletries"
+      }
+    },
+    {
+      "code": 277,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Background music"
+      }
+    },
+    {
+      "code": 279,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Desk"
+      }
+    },
+    {
+      "code": 28,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Best Hotels - Blue Health"
+      }
+    },
+    {
+      "code": 280,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Bathrobes"
+      }
+    },
+    {
+      "code": 280,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Laundry service"
+      }
+    },
+    {
+      "code": 280,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Aerobics"
+      }
+    },
+    {
+      "code": 281,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Slippers"
+      }
+    },
+    {
+      "code": 282,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Make-up mirror"
+      }
+    },
+    {
+      "code": 283,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Trouser press"
+      }
+    },
+    {
+      "code": 284,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Sofa bed"
+      }
+    },
+    {
+      "code": 284,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Sofa bed"
+      }
+    },
+    {
+      "code": 285,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Welcome pack"
+      }
+    },
+    {
+      "code": 285,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Launderette"
+      }
+    },
+    {
+      "code": 286,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Fan"
+      }
+    },
+    {
+      "code": 287,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "Smoking rooms"
+      }
+    },
+    {
+      "code": 288,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Satellite TV "
+      }
+    },
+    {
+      "code": 289,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Cable TV"
+      }
+    },
+    {
+      "code": 29,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Four Seasons - Lead With Care"
+      }
+    },
+    {
+      "code": 290,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Dishwasher"
+      }
+    },
+    {
+      "code": 290,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Medical service"
+      }
+    },
+    {
+      "code": 292,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Plug adaptor"
+      }
+    },
+    {
+      "code": 293,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Towel menu"
+      }
+    },
+    {
+      "code": 294,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Queen-size bed 150-154 width"
+      }
+    },
+    {
+      "code": 294,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Queen-size bed 150-154 width"
+      }
+    },
+    {
+      "code": 295,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Room size (sqm)"
+      }
+    },
+    {
+      "code": 295,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "Wheelchair-accessible"
+      }
+    },
+    {
+      "code": 295,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Fitness"
+      }
+    },
+    {
+      "code": 296,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Fireplace"
+      }
+    },
+    {
+      "code": 297,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Smoke detector"
+      }
+    },
+    {
+      "code": 298,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Number of bedrooms"
+      }
+    },
+    {
+      "code": 299,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Shared bathroom"
+      }
+    },
+    {
+      "code": 3,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 23,
+      "description": {
+        "content": "No hen/stag or any other parties allowed"
+      }
+    },
+    {
+      "code": 3,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Hilton - CleanStay"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Year of most recent renovation"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 100,
+      "facilityTypologyCode": 14,
+      "description": {
+        "content": "3"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "apartment"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "JCB"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Bathtub"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "24-hour reception"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "Breakfast buffet"
+      }
+    },
+    {
+      "code": 30,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Blue Diamond Resorts - Enhanced Health, Safety & Cleanliness Protocols"
+      }
+    },
+    {
+      "code": 300,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "vacation condo or apartment"
+      }
+    },
+    {
+      "code": 300,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Housekeeping"
+      }
+    },
+    {
+      "code": 300,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Bicycle storage"
+      }
+    },
+    {
+      "code": 300,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Archery"
+      }
+    },
+    {
+      "code": 301,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Oxygen enrichment"
+      }
+    },
+    {
+      "code": 302,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 33,
+      "description": {
+        "content": "Children share the bed with parents"
+      }
+    },
+    {
+      "code": 303,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Soundproof room"
+      }
+    },
+    {
+      "code": 304,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Telephone in the bathroom"
+      }
+    },
+    {
+      "code": 305,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Hot tub"
+      }
+    },
+    {
+      "code": 306,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Outdoor swimming pool"
+      }
+    },
+    {
+      "code": 307,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Sauna"
+      }
+    },
+    {
+      "code": 308,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Fitness room"
+      }
+    },
+    {
+      "code": 309,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Billiards"
+      }
+    },
+    {
+      "code": 31,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Valamar - V-Health & Safety"
+      }
+    },
+    {
+      "code": 310,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "vacation home or villa"
+      }
+    },
+    {
+      "code": 310,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Turkish steam bath"
+      }
+    },
+    {
+      "code": 310,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Bicycle hire service"
+      }
+    },
+    {
+      "code": 310,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Horse riding"
+      }
+    },
+    {
+      "code": 311,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Table tennis"
+      }
+    },
+    {
+      "code": 312,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Solarium"
+      }
+    },
+    {
+      "code": 313,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Indoor swimming pool"
+      }
+    },
+    {
+      "code": 314,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Garden"
+      }
+    },
+    {
+      "code": 315,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Game room"
+      }
+    },
+    {
+      "code": 316,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Darts"
+      }
+    },
+    {
+      "code": 317,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Children playground"
+      }
+    },
+    {
+      "code": 318,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Toaster"
+      }
+    },
+    {
+      "code": 319,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Oven"
+      }
+    },
+    {
+      "code": 320,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "vacation townhouse"
+      }
+    },
+    {
+      "code": 320,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Dining Area"
+      }
+    },
+    {
+      "code": 320,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Car park"
+      }
+    },
+    {
+      "code": 320,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Cycling / mountain biking"
+      }
+    },
+    {
+      "code": 321,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Clothes Dryer"
+      }
+    },
+    {
+      "code": 322,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "BBQ Facilities"
+      }
+    },
+    {
+      "code": 323,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Ski to Door Acces"
+      }
+    },
+    {
+      "code": 324,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Grill/BBQ"
+      }
+    },
+    {
+      "code": 325,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Ski Storage"
+      }
+    },
+    {
+      "code": 325,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Handball"
+      }
+    },
+    {
+      "code": 326,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Private Pool"
+      }
+    },
+    {
+      "code": 327,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Towels and bed linen at surcharge"
+      }
+    },
+    {
+      "code": 328,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Private Beach Area"
+      }
+    },
+    {
+      "code": 329,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Library"
+      }
+    },
+    {
+      "code": 330,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "vacation resort"
+      }
+    },
+    {
+      "code": 330,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Electric Kettle"
+      }
+    },
+    {
+      "code": 330,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Garage"
+      }
+    },
+    {
+      "code": 330,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Basketball"
+      }
+    },
+    {
+      "code": 331,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Bikes Available"
+      }
+    },
+    {
+      "code": 332,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Without windows"
+      }
+    },
+    {
+      "code": 335,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Volleyball"
+      }
+    },
+    {
+      "code": 340,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "riad"
+      }
+    },
+    {
+      "code": 340,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Kids’ club"
+      }
+    },
+    {
+      "code": 340,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Beach volleyball"
+      }
+    },
+    {
+      "code": 35,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "Continental breakfast"
+      }
+    },
+    {
+      "code": 350,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "motel"
+      }
+    },
+    {
+      "code": 350,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Children playground"
+      }
+    },
+    {
+      "code": 350,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Billiards"
+      }
+    },
+    {
+      "code": 360,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "bed and breakfast"
+      }
+    },
+    {
+      "code": 360,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Indoor freshwater pool"
+      }
+    },
+    {
+      "code": 360,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Bocce"
+      }
+    },
+    {
+      "code": 361,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Indoor saltwater pool"
+      }
+    },
+    {
+      "code": 362,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Indoor heated pool"
+      }
+    },
+    {
+      "code": 363,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Outdoor freshwater pool"
+      }
+    },
+    {
+      "code": 364,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Outdoor saltwater pool"
+      }
+    },
+    {
+      "code": 365,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Outdoor heated pool"
+      }
+    },
+    {
+      "code": 370,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "boutique hotel"
+      }
+    },
+    {
+      "code": 370,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Bowling alley"
+      }
+    },
+    {
+      "code": 380,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "luxurious historic hotel"
+      }
+    },
+    {
+      "code": 380,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Mini golf"
+      }
+    },
+    {
+      "code": 385,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 29,
+      "description": {
+        "content": "Children’s swimming area"
+      }
+    },
+    {
+      "code": 390,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "pousada"
+      }
+    },
+    {
+      "code": 390,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 16,
+      "description": {
+        "content": "Check-out hour"
+      }
+    },
+    {
+      "code": 390,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Golf"
+      }
+    },
+    {
+      "code": 395,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Sun loungers"
+      }
+    },
+    {
+      "code": 4,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "IHG - Clean Promise"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Annexe (s)"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 100,
+      "facilityTypologyCode": 14,
+      "description": {
+        "content": "4"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Diners Club"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Beach"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Hairdryer"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Hotel safe"
+      }
+    },
+    {
+      "code": 40,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 31,
+      "description": {
+        "content": "Breakfast"
+      }
+    },
+    {
+      "code": 400,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "residence"
+      }
+    },
+    {
+      "code": 400,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Parasols"
+      }
+    },
+    {
+      "code": 401,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 30,
+      "description": {
+        "content": "Entertainment programme for adults"
+      }
+    },
+    {
+      "code": 405,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 30,
+      "description": {
+        "content": "Entertainment programme for children"
+      }
+    },
+    {
+      "code": 410,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "rural hotel"
+      }
+    },
+    {
+      "code": 410,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Hot tub"
+      }
+    },
+    {
+      "code": 410,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Surfing"
+      }
+    },
+    {
+      "code": 420,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "boat"
+      }
+    },
+    {
+      "code": 420,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Sauna"
+      }
+    },
+    {
+      "code": 425,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Solarium "
+      }
+    },
+    {
+      "code": 430,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Sun terrace"
+      }
+    },
+    {
+      "code": 430,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Tennis"
+      }
+    },
+    {
+      "code": 440,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Steam bath"
+      }
+    },
+    {
+      "code": 440,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Paddle tennis"
+      }
+    },
+    {
+      "code": 450,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Massage"
+      }
+    },
+    {
+      "code": 450,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Badminton"
+      }
+    },
+    {
+      "code": 460,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Spa treatments"
+      }
+    },
+    {
+      "code": 460,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Darts"
+      }
+    },
+    {
+      "code": 470,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Gym"
+      }
+    },
+    {
+      "code": 470,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Putting green"
+      }
+    },
+    {
+      "code": 475,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Day-care centre"
+      }
+    },
+    {
+      "code": 480,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Snowboarding"
+      }
+    },
+    {
+      "code": 485,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 28,
+      "description": {
+        "content": "Babysitting service"
+      }
+    },
+    {
+      "code": 490,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Car hire"
+      }
+    },
+    {
+      "code": 490,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Skiing"
+      }
+    },
+    {
+      "code": 495,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 5,
+      "description": {
+        "content": "Transfer service"
+      }
+    },
+    {
+      "code": 5,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Wyndham - Count on us"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Number of floors (main building)"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 100,
+      "facilityTypologyCode": 14,
+      "description": {
+        "content": "5"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "guest house"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "MasterCard"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Direct dial telephone"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Currency exchange facilities"
+      }
+    },
+    {
+      "code": 50,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Buffet lunch"
+      }
+    },
+    {
+      "code": 500,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Secure parking"
+      }
+    },
+    {
+      "code": 500,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Tobogganing"
+      }
+    },
+    {
+      "code": 505,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Multilingual staff"
+      }
+    },
+    {
+      "code": 510,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Ski pass"
+      }
+    },
+    {
+      "code": 515,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Newspapers"
+      }
+    },
+    {
+      "code": 520,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "24-hour security"
+      }
+    },
+    {
+      "code": 520,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Golf practice facility"
+      }
+    },
+    {
+      "code": 525,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Bellboy service"
+      }
+    },
+    {
+      "code": 530,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Safari"
+      }
+    },
+    {
+      "code": 535,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Small pets allowed (under 5 kg)"
+      }
+    },
+    {
+      "code": 540,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Large pets allowed (over 5 kg)"
+      }
+    },
+    {
+      "code": 545,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Golf desk"
+      }
+    },
+    {
+      "code": 55,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "TV"
+      }
+    },
+    {
+      "code": 550,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 22,
+      "description": {
+        "content": "Wi-fi"
+      }
+    },
+    {
+      "code": 551,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 37,
+      "description": {
+        "content": "Charges for late arrival"
+      }
+    },
+    {
+      "code": 552,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Early Check-in"
+      }
+    },
+    {
+      "code": 554,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Early departure"
+      }
+    },
+    {
+      "code": 555,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Poolside snack bar"
+      }
+    },
+    {
+      "code": 556,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Local and international calls"
+      }
+    },
+    {
+      "code": 557,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Identification card at arrival"
+      }
+    },
+    {
+      "code": 558,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Marriage certificate required for a couple to share room"
+      }
+    },
+    {
+      "code": 559,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Luggage room"
+      }
+    },
+    {
+      "code": 56,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "Connecting rooms"
+      }
+    },
+    {
+      "code": 560,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Valet parking"
+      }
+    },
+    {
+      "code": 560,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Banquet hall"
+      }
+    },
+    {
+      "code": 561,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 37,
+      "description": {
+        "content": "Deposit on arrival"
+      }
+    },
+    {
+      "code": 562,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 5,
+      "description": {
+        "content": "Airport Shuttle"
+      }
+    },
+    {
+      "code": 562,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Non-smoking establishment"
+      }
+    },
+    {
+      "code": 563,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 21,
+      "description": {
+        "content": "Children get free accommodation, meals payable on the spot"
+      }
+    },
+    {
+      "code": 564,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Late Check-out"
+      }
+    },
+    {
+      "code": 564,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Minimum check-in age"
+      }
+    },
+    {
+      "code": 565,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Toaster"
+      }
+    },
+    {
+      "code": 565,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Show cooking"
+      }
+    },
+    {
+      "code": 565,
+      "facilityGroupCode": 85,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Credit card is compulsory as a deposit, no deposit in cash is accepted"
+      }
+    },
+    {
+      "code": 566,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Oven"
+      }
+    },
+    {
+      "code": 567,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Dining area"
+      }
+    },
+    {
+      "code": 568,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Clothes dryer"
+      }
+    },
+    {
+      "code": 569,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "BBQ facilities"
+      }
+    },
+    {
+      "code": 570,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Ski to door acces"
+      }
+    },
+    {
+      "code": 570,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Swim-up bar"
+      }
+    },
+    {
+      "code": 571,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Grill/BBQ"
+      }
+    },
+    {
+      "code": 572,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Ski storage"
+      }
+    },
+    {
+      "code": 573,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Private pool"
+      }
+    },
+    {
+      "code": 574,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Private beach area"
+      }
+    },
+    {
+      "code": 575,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Library"
+      }
+    },
+    {
+      "code": 575,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 23,
+      "description": {
+        "content": "Air conditioning in Restaurant"
+      }
+    },
+    {
+      "code": 575,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Meeting room"
+      }
+    },
+    {
+      "code": 576,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Electric kettle"
+      }
+    },
+    {
+      "code": 577,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 8,
+      "description": {
+        "content": "Bikes available"
+      }
+    },
+    {
+      "code": 578,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Towels and bed linen"
+      }
+    },
+    {
+      "code": 579,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Hotel’s own bike shop/workshop"
+      }
+    },
+    {
+      "code": 580,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Partner’s bike shop/workshop"
+      }
+    },
+    {
+      "code": 580,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Breakfast room"
+      }
+    },
+    {
+      "code": 580,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Projector"
+      }
+    },
+    {
+      "code": 590,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Conference hostess"
+      }
+    },
+    {
+      "code": 595,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Secretarial service"
+      }
+    },
+    {
+      "code": 6,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Best Western - We Care Clean"
+      }
+    },
+    {
+      "code": 60,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Number of floors (annexe)"
+      }
+    },
+    {
+      "code": 60,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "rural house"
+      }
+    },
+    {
+      "code": 60,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Visa"
+      }
+    },
+    {
+      "code": 60,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Cloakroom"
+      }
+    },
+    {
+      "code": 60,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "À la carte lunch"
+      }
+    },
+    {
+      "code": 600,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Photocopier"
+      }
+    },
+    {
+      "code": 605,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Business centre"
+      }
+    },
+    {
+      "code": 610,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Fax"
+      }
+    },
+    {
+      "code": 610,
+      "facilityGroupCode": 73,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "WaterSlides"
+      }
+    },
+    {
+      "code": 615,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Beauty salon"
+      }
+    },
+    {
+      "code": 620,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Printer"
+      }
+    },
+    {
+      "code": 620,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 30,
+      "description": {
+        "content": "Spa centre"
+      }
+    },
+    {
+      "code": 630,
+      "facilityGroupCode": 72,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Audio-visual equipment rental"
+      }
+    },
+    {
+      "code": 630,
+      "facilityGroupCode": 74,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Turkish bath (hamam)"
+      }
+    },
+    {
+      "code": 635,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Globe 21 "
+      }
+    },
+    {
+      "code": 640,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Earth Check"
+      }
+    },
+    {
+      "code": 645,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Travelife"
+      }
+    },
+    {
+      "code": 650,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Star"
+      }
+    },
+    {
+      "code": 655,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Rainforest Alliance"
+      }
+    },
+    {
+      "code": 660,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Biosphere Certification - Responsible Tourism Institute (ITR)"
+      }
+    },
+    {
+      "code": 665,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Global Ecosphere Retreats (GER)"
+      }
+    },
+    {
+      "code": 670,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "GREAT Green Deal Certification"
+      }
+    },
+    {
+      "code": 670,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "EMAS"
+      }
+    },
+    {
+      "code": 675,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Growth 2050"
+      }
+    },
+    {
+      "code": 675,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "EU Ecolabel"
+      }
+    },
+    {
+      "code": 680,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Key – Foundation for Environmental Education (FEE)"
+      }
+    },
+    {
+      "code": 685,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Tourism Active"
+      }
+    },
+    {
+      "code": 685,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "GT-Active"
+      }
+    },
+    {
+      "code": 690,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Hostelling International’s Quality and Sustainability Standard"
+      }
+    },
+    {
+      "code": 695,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "NEPCon Sustainable Tourism Certification for Accommodations"
+      }
+    },
+    {
+      "code": 695,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Austrian Ecolabel (Umweltzeichen für Tourismusbetriebe) "
+      }
+    },
+    {
+      "code": 7,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Choice Hotels - Commitment to Clean"
+      }
+    },
+    {
+      "code": 70,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Total number of rooms"
+      }
+    },
+    {
+      "code": 70,
+      "facilityGroupCode": 20,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "resort"
+      }
+    },
+    {
+      "code": 70,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Harbour"
+      }
+    },
+    {
+      "code": 70,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Lift access"
+      }
+    },
+    {
+      "code": 70,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Set menu lunch"
+      }
+    },
+    {
+      "code": 700,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "European Ecotourism Labeling Standard (EETLS)"
+      }
+    },
+    {
+      "code": 715,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15
+    },
+    {
+      "code": 740,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "ECO Certification Malta "
+      }
+    },
+    {
+      "code": 741,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "TourCert"
+      }
+    },
+    {
+      "code": 750,
+      "facilityGroupCode": 76,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "EcoTourism Ireland"
+      }
+    },
+    {
+      "code": 755,
+      "facilityGroupCode": 77,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "CST – Costa Rica "
+      }
+    },
+    {
+      "code": 760,
+      "facilityGroupCode": 77,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Actively Green – USA"
+      }
+    },
+    {
+      "code": 765,
+      "facilityGroupCode": 77,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Hoteles más verdes – Argentina"
+      }
+    },
+    {
+      "code": 770,
+      "facilityGroupCode": 77,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "SERNATUR Chile"
+      }
+    },
+    {
+      "code": 8,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Hyatt - GBAC STAR Global Care & Cleanliness Commitment"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Single rooms"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Maestro"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 40,
+      "facilityTypologyCode": 18,
+      "description": {
+        "content": "Airport"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Radio"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 71,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Café"
+      }
+    },
+    {
+      "code": 80,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Buffet dinner"
+      }
+    },
+    {
+      "code": 810,
+      "facilityGroupCode": 78,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "EcoCertification (EA) – Australia"
+      }
+    },
+    {
+      "code": 815,
+      "facilityGroupCode": 78,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Asian Ecotourism Standard for Accommodations"
+      }
+    },
+    {
+      "code": 820,
+      "facilityGroupCode": 78,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Ecotourism Australia"
+      }
+    },
+    {
+      "code": 825,
+      "facilityGroupCode": 78,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "TOFTigers Initiative’s Pug mark Eco Certification"
+      }
+    },
+    {
+      "code": 830,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "FTTSA – South Africa "
+      }
+    },
+    {
+      "code": 835,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Ecotourism Kenya"
+      }
+    },
+    {
+      "code": 840,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "ISO  9001 certified hotels and restaurants"
+      }
+    },
+    {
+      "code": 840,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Star Hotel Certificate – Egypt"
+      }
+    },
+    {
+      "code": 845,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "ISO  14001 certified hotels and restaurants"
+      }
+    },
+    {
+      "code": 845,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Mauritian Standard on Sustainable Tourism"
+      }
+    },
+    {
+      "code": 850,
+      "facilityGroupCode": 75,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Green Key Global"
+      }
+    },
+    {
+      "code": 850,
+      "facilityGroupCode": 79,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Seychelles Sustainable Tourism Label (SSTL)"
+      }
+    },
+    {
+      "code": 9,
+      "facilityGroupCode": 91,
+      "facilityTypologyCode": 15,
+      "description": {
+        "content": "Radisson - Radisson Safety Protocol"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Double rooms"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 30,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Visa Electrón"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 60,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Hi-fi"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 70,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "Newspaper stand"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 80,
+      "facilityTypologyCode": 3,
+      "description": {
+        "content": "À la carte dinner"
+      }
+    },
+    {
+      "code": 90,
+      "facilityGroupCode": 90,
+      "facilityTypologyCode": 12,
+      "description": {
+        "content": "Aqua fit"
+      }
+    },
+    {
+      "code": 95,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 2,
+      "description": {
+        "content": "Junior suites"
+      }
+    },
+    {
+      "code": 992,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Rollaways on demand"
+      }
+    },
+    {
+      "code": 992,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Rollaways on demand"
+      }
+    },
+    {
+      "code": 993,
+      "facilityGroupCode": 61,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Bunk beds"
+      }
+    },
+    {
+      "code": 993,
+      "facilityGroupCode": 62,
+      "facilityTypologyCode": 20,
+      "description": {
+        "content": "Bunk beds"
+      }
+    },
+    {
+      "code": 998,
+      "facilityGroupCode": 10,
+      "facilityTypologyCode": 17,
+      "description": {
+        "content": "YES Connecting rooms"
+      }
+    }
+  ]
+}

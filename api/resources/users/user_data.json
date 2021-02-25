@@ -1,0 +1,15 @@
+{
+    
+    "users": [
+        {
+            "password": "simplenight",
+            "is_superuser": true,
+            "username": "aron",
+            "first_name": "",
+            "last_name": "",
+            "email": "aron@simplenight.com",
+            "is_staff": true,
+            "is_active": true
+        }
+    ]
+}

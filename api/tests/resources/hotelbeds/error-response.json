@@ -1,0 +1,15 @@
+{
+  "auditData": {
+    "timestamp": "2020-08-11T09:47:52.837000",
+    "environment": "[awseuwest1, awseuwest1a, ip_10_185_89_9]",
+    "release": "5dc0c9ef574205ae3b505dbaeaa64cc088b2911f",
+    "processTime": "4",
+    "requestHost": "66.201.49.52, 70.132.18.144, 10.185.81.233, 10.185.88.75",
+    "serverId": "ip-10-185-89-9.eu-west-1.compute.internal.node.int-hbg-aws-eu-west-1.discovery#A+"
+  },
+  "hotels": null,
+  "error": {
+    "code": "INVALID_DATA-3597A3D9432740F0A6715D74EBAFD0C7",
+    "message": "Invalid data. The check-in must be in the future."
+  }
+}

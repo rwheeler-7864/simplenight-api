@@ -1,0 +1,26 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <HotelSearchAvailabilityReq TraceId="trace" AuthorizedBy="Travelport" TargetBranch="P3081850"
+                                    xmlns="http://www.travelport.com/schema/hotel_v47_0">
+            <BillingPointOfSaleInfo OriginApplication="uAPI" xmlns="http://www.travelport.com/schema/common_v47_0"/>
+            <HotelSearchLocation>
+                <HotelLocation Location="SFO"/>
+            </HotelSearchLocation>
+            <HotelSearchModifiers NumberOfAdults="1" NumberOfRooms="1" IsRelaxed="true" PreferredCurrency="USD"
+                                  AvailableHotelsOnly="true" NumOfRatePlans="99" ReturnPropertyDescription="true"
+                                  ReturnAmenities="true">
+                <PermittedProviders xmlns="http://www.travelport.com/schema/common_v47_0">
+                    <Provider Code="1V"/>
+                </PermittedProviders>
+            </HotelSearchModifiers>
+            <HotelStay>
+                <CheckinDate>2020-12-15</CheckinDate>
+                <CheckoutDate>2020-12-28</CheckoutDate>
+            </HotelStay>
+        </HotelSearchAvailabilityReq>
+    </soapenv:Body>
+</soapenv:Envelope>
+
+
+

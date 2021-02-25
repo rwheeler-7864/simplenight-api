@@ -1,0 +1,23 @@
+# [START runtime]
+runtime: python
+env: flex
+entrypoint: gunicorn -b :$PORT api.wsgi --timeout 90
+
+beta_settings:
+    cloud_sql_instances: simplenight-api-278418:us-east1:simplenight-api-instance
+
+env_variables:
+  DJANGO_DATABASE: "appengine"
+  DJANGO_SETTINGS_MODULE: "api.environments.appengine"
+  DB_NAME: 'simplenight-api-db'
+  DB_USERNAME: 'simplenight'
+  DB_PASSWORD: 'daux!bauc7nooc7YIP'
+  DB_HOST: '/cloudsql/simplenight-api-278418:us-east1:simplenight-api-instance'
+  REDIS_URL: "redis://10.44.122.51:6379/1"
+
+network:
+  name: default
+
+runtime_config:
+  python_version: 3.7
+# [END runtime]

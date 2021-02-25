@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+REPO_ROOT="$(git rev-parse --show-toplevel)"
+LABEL="local"
+POSITIONAL=()
+
+__usage__="Usage:
+./bin/manage-local
+
+Options:
+-l --label {default,local,gcloud-local,prod-local} Run manage.py commands with a particular env file, or database label
+-h --help This usage message
+"
+
+while [[ $# -gt 0 ]]
+do
+    key="$1"
+
+    case $key in
+        -h|--help)
+            echo "$__usage__"
+            exit 1
+            ;;
+        -l|--label)
+            LABEL="$2"
+            shift  # past flag
+            shift  # past arg
+            ;;
+        *)
+        POSITIONAL+=("$1")
+        shift  # past argument
+        ;;
+esac
+done
+set -- "${POSITIONAL[@]}"
+
+# source $REPO_ROOT/.venv/bin/activate
+
+if [[ -f "$REPO_ROOT/api/environments/${LABEL}.py" ]]; then
+  DJANGO_SETTINGS_MODULE="api.environments.$LABEL" ./manage.py $*
+else
+  DJANGO_DATABASE="$LABEL" ./manage.py $*
+fi

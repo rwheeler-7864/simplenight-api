@@ -1,0 +1,1294 @@
+{
+  "from": 1,
+  "to": 100,
+  "total": 268787,
+  "auditData": {
+    "processTime": "457",
+    "timestamp": "2020-07-20 09:54:41.252",
+    "requestHost": "10.185.89.37",
+    "serverId": "ip-10-185-89-117.eu-west-1.compute.internal.node.int-hbg-aws-eu-west-1.discovery",
+    "environment": "[awseuwest1, awseuwest1a, ip_10_185_89_117]",
+    "release": "f639f4638c132d6d6c3470bfa32330d6870af62a",
+    "internal": "e4644c68ace641af977db8045f5c9554"
+  },
+  "hotels": [
+    {
+      "code": 1,
+      "name": {
+        "content": "Ohtels Villa Dorada"
+      },
+      "description": {
+        "content": "This hotel is located about 150 metres from the fine sandy beach. The lively centre of Cambrils is approximately 10 km away and can be easily reached by the public bus services. There is a stop for public transport right in front of the hotel. The immediate vicinity offers a diverse range of shopping and entertainment facilities including boutiques, restaurants and bars. This hotel comprises a total of 260 rooms spread over 5 floors. Dining options include a caf\u00e9, a bar and an air-conditioned buffet restaurant with highchairs for infants. The tastefully decorated, cosy rooms come with a balcony and satellite TV."
+      },
+      "countryCode": "ES",
+      "stateCode": "43",
+      "destinationCode": "SAL",
+      "zoneCode": 10,
+      "coordinates": {
+        "longitude": 1.152529,
+        "latitude": 41.068407
+      },
+      "categoryCode": "3EST",
+      "categoryGroupCode": "GRUPO3",
+      "chainCode": "OHTEL",
+      "accommodationTypeCode": "HOTEL",
+      "boardCodes": [
+        "BB",
+        "AI",
+        "HB",
+        "FB",
+        "RO"
+      ],
+      "segmentCodes": [
+        37
+      ],
+      "address": {
+        "content": "Carrer Del Vendrell, 11",
+        "street": "Carrer Del Vendrell",
+        "number": "11"
+      },
+      "postalCode": "43840",
+      "city": {
+        "content": "SALOU"
+      },
+      "email": "comercial@ohtels.es",
+      "license": "HT-000473",
+      "phones": [
+        {
+          "phoneNumber": "+34977385511",
+          "phoneType": "PHONEBOOKING"
+        },
+        {
+          "phoneNumber": "+34977385511",
+          "phoneType": "PHONEHOTEL"
+        },
+        {
+          "phoneNumber": "977381754",
+          "phoneType": "PHONEMANAGEMENT"
+        },
+        {
+          "phoneNumber": "+34977384612",
+          "phoneType": "FAXNUMBER"
+        }
+      ],
+      "rooms": [
+        {
+          "roomCode": "ROO.ST",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "ROO",
+          "characteristicCode": "ST"
+        },
+        {
+          "roomCode": "ROO.EY",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "ROO",
+          "characteristicCode": "EY"
+        },
+        {
+          "roomCode": "SGL.ST-2",
+          "minPax": 1,
+          "maxPax": 2,
+          "maxAdults": 1,
+          "maxChildren": 1,
+          "minAdults": 1,
+          "roomType": "SGL",
+          "characteristicCode": "ST-2"
+        },
+        {
+          "roomCode": "ROO.BL",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "ROO",
+          "characteristicCode": "BL"
+        },
+        {
+          "roomCode": "STU.ST-1",
+          "minPax": 1,
+          "maxPax": 5,
+          "maxAdults": 5,
+          "maxChildren": 3,
+          "minAdults": 1,
+          "roomType": "STU",
+          "characteristicCode": "ST-1"
+        },
+        {
+          "roomCode": "QUA.ST-1",
+          "minPax": 1,
+          "maxPax": 6,
+          "maxAdults": 4,
+          "maxChildren": 3,
+          "minAdults": 1,
+          "roomType": "QUA",
+          "characteristicCode": "ST-1",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                },
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "APT.ST",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "APT",
+          "characteristicCode": "ST"
+        },
+        {
+          "roomCode": "ROO.BL-2",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 0,
+          "roomType": "ROO",
+          "characteristicCode": "BL-2"
+        },
+        {
+          "roomCode": "DBT.ST-1",
+          "minPax": 1,
+          "maxPax": 4,
+          "maxAdults": 4,
+          "maxChildren": 2,
+          "minAdults": 1,
+          "roomType": "DBT",
+          "characteristicCode": "ST-1",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                },
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "SGL.BL",
+          "minPax": 1,
+          "maxPax": 2,
+          "maxAdults": 1,
+          "maxChildren": 1,
+          "minAdults": 1,
+          "roomType": "SGL",
+          "characteristicCode": "BL"
+        },
+        {
+          "roomCode": "DBT.C3",
+          "minPax": 1,
+          "maxPax": 4,
+          "maxAdults": 4,
+          "maxChildren": 2,
+          "minAdults": 1,
+          "roomType": "DBT",
+          "characteristicCode": "C3",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                },
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "DBT.ST",
+          "minPax": 1,
+          "maxPax": 2,
+          "maxAdults": 2,
+          "maxChildren": 0,
+          "minAdults": 1,
+          "roomType": "DBT",
+          "characteristicCode": "ST",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "indYesOrNo": false,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                },
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "DBT.ST-2",
+          "minPax": 1,
+          "maxPax": 4,
+          "maxAdults": 4,
+          "maxChildren": 2,
+          "minAdults": 1,
+          "roomType": "DBT",
+          "characteristicCode": "ST-2",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "SGL.ST",
+          "minPax": 1,
+          "maxPax": 2,
+          "maxAdults": 1,
+          "maxChildren": 1,
+          "minAdults": 1,
+          "roomType": "SGL",
+          "characteristicCode": "ST",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "indYesOrNo": false,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                },
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "ROO.BL-1",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "ROO",
+          "characteristicCode": "BL-1"
+        },
+        {
+          "roomCode": "STU.ST",
+          "minPax": 1,
+          "maxPax": 5,
+          "maxAdults": 5,
+          "maxChildren": 3,
+          "minAdults": 1,
+          "roomType": "STU",
+          "characteristicCode": "ST"
+        },
+        {
+          "roomCode": "ROO.ST-1",
+          "minPax": 1,
+          "maxPax": 10,
+          "maxAdults": 10,
+          "maxChildren": 6,
+          "minAdults": 1,
+          "roomType": "ROO",
+          "characteristicCode": "ST-1"
+        },
+        {
+          "roomCode": "QUA.ST",
+          "minPax": 1,
+          "maxPax": 6,
+          "maxAdults": 4,
+          "maxChildren": 3,
+          "minAdults": 1,
+          "roomType": "QUA",
+          "characteristicCode": "ST",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 1,
+                  "facilityGroupCode": 62,
+                  "number": 2
+                },
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "roomCode": "TPL.ST",
+          "minPax": 1,
+          "maxPax": 5,
+          "maxAdults": 3,
+          "maxChildren": 4,
+          "minAdults": 1,
+          "roomType": "TPL",
+          "characteristicCode": "ST"
+        },
+        {
+          "roomCode": "QUA.ST-2",
+          "minPax": 1,
+          "maxPax": 6,
+          "maxAdults": 4,
+          "maxChildren": 3,
+          "minAdults": 1,
+          "roomType": "QUA",
+          "characteristicCode": "ST-2",
+          "roomFacilities": [
+            {
+              "facilityCode": 220,
+              "facilityGroupCode": 60,
+              "number": 0,
+              "indYesOrNo": true,
+              "voucher": false
+            }
+          ],
+          "roomStays": [
+            {
+              "stayType": "BED",
+              "order": "1",
+              "description": "Bed room",
+              "roomStayFacilities": [
+                {
+                  "facilityCode": 150,
+                  "facilityGroupCode": 61,
+                  "number": 2
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "facilities": [
+        {
+          "facilityCode": 70,
+          "facilityGroupCode": 10,
+          "order": 1,
+          "indYesOrNo": false,
+          "number": 260,
+          "voucher": false
+        },
+        {
+          "facilityCode": 50,
+          "facilityGroupCode": 10,
+          "order": 1,
+          "number": 5,
+          "voucher": false
+        },
+        {
+          "facilityCode": 90,
+          "facilityGroupCode": 10,
+          "order": 1,
+          "number": 250,
+          "voucher": false
+        },
+        {
+          "facilityCode": 95,
+          "facilityGroupCode": 10,
+          "order": 1,
+          "number": 10,
+          "voucher": false
+        },
+        {
+          "facilityCode": 56,
+          "facilityGroupCode": 10,
+          "order": 1,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 10,
+          "facilityGroupCode": 20,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 50,
+          "facilityGroupCode": 30,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 60,
+          "facilityGroupCode": 30,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 10,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 300,
+          "voucher": false
+        },
+        {
+          "facilityCode": 145,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 1000,
+          "voucher": false
+        },
+        {
+          "facilityCode": 20,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 15000,
+          "voucher": false
+        },
+        {
+          "facilityCode": 80,
+          "facilityGroupCode": 40,
+          "order": 2,
+          "distance": 101000,
+          "voucher": false
+        },
+        {
+          "facilityCode": 40,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 150,
+          "voucher": false
+        },
+        {
+          "facilityCode": 130,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 2000,
+          "voucher": false
+        },
+        {
+          "facilityCode": 125,
+          "facilityGroupCode": 40,
+          "order": 1,
+          "distance": 1,
+          "voucher": false
+        },
+        {
+          "facilityCode": 295,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indYesOrNo": true,
+          "number": 12,
+          "voucher": false
+        },
+        {
+          "facilityCode": 298,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indYesOrNo": true,
+          "number": 1,
+          "voucher": false
+        },
+        {
+          "facilityCode": 10,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 260,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indYesOrNo": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 20,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 30,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 261,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 100,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 55,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 170,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 190,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 200,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 230,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 240,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 250,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 287,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 275,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 264,
+          "facilityGroupCode": 60,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 535,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 540,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 295,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 320,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": true
+        },
+        {
+          "facilityCode": 330,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 30,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indYesOrNo": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 260,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "timeFrom": "14:00:00",
+          "timeTo": "00:00:00",
+          "voucher": true
+        },
+        {
+          "facilityCode": 390,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "timeFrom": "07:00:00",
+          "timeTo": "10:00:00",
+          "voucher": false
+        },
+        {
+          "facilityCode": 564,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 240,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 250,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 550,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indFee": false,
+          "indYesOrNo": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 290,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 50,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 70,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 125,
+          "facilityGroupCode": 70,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 80,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 130,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 220,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 230,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 555,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 575,
+          "facilityGroupCode": 71,
+          "order": 1,
+          "indLogic": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 363,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "number": 1,
+          "voucher": false
+        },
+        {
+          "facilityCode": 395,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 400,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 350,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 401,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 405,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 193,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 150,
+          "facilityGroupCode": 73,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 420,
+          "facilityGroupCode": 74,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 30,
+          "facilityGroupCode": 80,
+          "order": 1,
+          "indLogic": true,
+          "voucher": false
+        },
+        {
+          "facilityCode": 50,
+          "facilityGroupCode": 80,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 80,
+          "facilityGroupCode": 80,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 90,
+          "facilityGroupCode": 90,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 260,
+          "facilityGroupCode": 90,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 270,
+          "facilityGroupCode": 90,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        },
+        {
+          "facilityCode": 350,
+          "facilityGroupCode": 90,
+          "order": 1,
+          "indLogic": true,
+          "indFee": false,
+          "voucher": false
+        }
+      ],
+      "terminals": [
+        {
+          "terminalCode": "REU",
+          "distance": 15
+        },
+        {
+          "terminalCode": "BCN",
+          "distance": 110
+        }
+      ],
+      "issues": [
+        {
+          "issueCode": "COVID",
+          "issueType": "FORCEMAJEUR",
+          "dateFrom": "2020-05-15",
+          "dateTo": "2020-12-31",
+          "order": 1,
+          "alternative": false
+        }
+      ],
+      "images": [
+        {
+          "imageTypeCode": "RES",
+          "path": "00/000001/000001a_hb_r_001.jpg",
+          "order": 1,
+          "visualOrder": 3
+        },
+        {
+          "imageTypeCode": "PLA",
+          "path": "00/000001/000001a_hb_s_002.jpg",
+          "order": 2,
+          "visualOrder": 17
+        },
+        {
+          "imageTypeCode": "RES",
+          "path": "00/000001/000001a_hb_r_002.jpg",
+          "order": 2,
+          "visualOrder": 21
+        },
+        {
+          "imageTypeCode": "PLA",
+          "path": "00/000001/000001a_hb_s_001.jpg",
+          "order": 1,
+          "visualOrder": 5
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_005.jpg",
+          "roomCode": "QUA.ST",
+          "roomType": "QUA",
+          "characteristicCode": "ST",
+          "order": 5,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "DEP",
+          "path": "00/000001/000001a_hb_f_002.jpg",
+          "order": 2,
+          "visualOrder": 18
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_007.jpg",
+          "roomCode": "DBT.C3",
+          "roomType": "DBT",
+          "characteristicCode": "C3",
+          "order": 7,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "DEP",
+          "path": "00/000001/000001a_hb_f_003.jpg",
+          "order": 3,
+          "visualOrder": 23
+        },
+        {
+          "imageTypeCode": "DEP",
+          "path": "00/000001/000001a_hb_f_001.jpg",
+          "order": 1,
+          "visualOrder": 14
+        },
+        {
+          "imageTypeCode": "COM",
+          "path": "00/000001/000001a_hb_l_001.jpg",
+          "order": 1,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_015.jpg",
+          "roomCode": "DBT.ST-3",
+          "roomType": "DBT",
+          "characteristicCode": "ST-3",
+          "order": 15,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "PIS",
+          "path": "00/000001/000001a_hb_p_002.jpg",
+          "order": 2,
+          "visualOrder": 19
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_010.jpg",
+          "roomCode": "QUA.ST-1",
+          "roomType": "QUA",
+          "characteristicCode": "ST-1",
+          "order": 10,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "PIS",
+          "path": "00/000001/000001a_hb_p_001.jpg",
+          "order": 1,
+          "visualOrder": 13
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_001.jpg",
+          "roomCode": "SGL.ST",
+          "roomType": "SGL",
+          "characteristicCode": "ST",
+          "order": 1,
+          "visualOrder": 20
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_013.jpg",
+          "roomCode": "DBT.ST-2",
+          "roomType": "DBT",
+          "characteristicCode": "ST-2",
+          "order": 13,
+          "visualOrder": 2
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_014.jpg",
+          "roomCode": "QUA.ST-2",
+          "roomType": "QUA",
+          "characteristicCode": "ST-2",
+          "order": 14,
+          "visualOrder": 100
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_w_002.jpg",
+          "order": 2,
+          "visualOrder": 16
+        },
+        {
+          "imageTypeCode": "GEN",
+          "path": "00/000001/000001a_hb_a_002.jpg",
+          "order": 2,
+          "visualOrder": 4
+        },
+        {
+          "imageTypeCode": "GEN",
+          "path": "00/000001/000001a_hb_a_001.jpg",
+          "order": 1,
+          "visualOrder": 21
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_003.jpg",
+          "roomCode": "DBT.ST",
+          "roomType": "DBT",
+          "characteristicCode": "ST",
+          "order": 3,
+          "visualOrder": 11
+        },
+        {
+          "imageTypeCode": "GEN",
+          "path": "00/000001/000001a_hb_a_004.jpg",
+          "order": 4,
+          "visualOrder": 1
+        },
+        {
+          "imageTypeCode": "GEN",
+          "path": "00/000001/000001a_hb_a_003.jpg",
+          "order": 3,
+          "visualOrder": 24
+        },
+        {
+          "imageTypeCode": "HAB",
+          "path": "00/000001/000001a_hb_ro_002.jpg",
+          "roomCode": "DBT.ST-1",
+          "roomType": "DBT",
+          "characteristicCode": "ST-1",
+          "order": 2,
+          "visualOrder": 10
+        }
+      ],
+      "wildcards": [
+        {
+          "roomType": "DBT.ST-2",
+          "roomCode": "DBT",
+          "characteristicCode": "ST-2",
+          "hotelRoomDescription": {
+            "content": "MONOPARENTAL 1 ADULT 1 CHILD"
+          }
+        },
+        {
+          "roomType": "QUA.ST-2",
+          "roomCode": "QUA",
+          "characteristicCode": "ST-2",
+          "hotelRoomDescription": {
+            "content": "4 ADULTS"
+          }
+        },
+        {
+          "roomType": "DBT.ST-3",
+          "roomCode": "DBT",
+          "characteristicCode": "ST-3",
+          "hotelRoomDescription": {
+            "content": "MONOPARENTAL 1 ADULT 2 CHILDREN"
+          }
+        },
+        {
+          "roomType": "QUA.ST-1",
+          "roomCode": "QUA",
+          "characteristicCode": "ST-1",
+          "hotelRoomDescription": {
+            "content": "3 ADULTS 1 CHILD"
+          }
+        },
+        {
+          "roomType": "SGL.ST",
+          "roomCode": "SGL",
+          "characteristicCode": "ST",
+          "hotelRoomDescription": {
+            "content": "STANDARD"
+          }
+        },
+        {
+          "roomType": "QUA.ST",
+          "roomCode": "QUA",
+          "characteristicCode": "ST",
+          "hotelRoomDescription": {
+            "content": "2 ADULTS 2 CHILDREN"
+          }
+        },
+        {
+          "roomType": "DBL.ST",
+          "roomCode": "DBL",
+          "characteristicCode": "ST",
+          "hotelRoomDescription": {
+            "content": "1 BEDROOM 2AD+1CHD"
+          }
+        }
+      ],
+      "web": "http://www.ohtels.es/",
+      "lastUpdate": "2020-07-13",
+      "S2C": "4*",
+      "ranking": 81
+    }
+  ]
+}

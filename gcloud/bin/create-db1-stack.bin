@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gcloud deployment-manager deployments create deployment-with-templates --template templates/gcloud-postgres-db1.py

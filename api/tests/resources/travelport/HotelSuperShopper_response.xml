@@ -1,0 +1,2059 @@
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP:Body>
+        <hotel:HotelSearchAvailabilityRsp TraceId="trace" TransactionId="9F7F1D760A07426195168EB256E426AA"
+                                          ResponseTime="3745" xmlns:hotel="http://www.travelport.com/schema/hotel_v47_0"
+                                          xmlns:common_v47_0="http://www.travelport.com/schema/common_v47_0">
+            <common_v47_0:NextResultReference ProviderCode="1V">
+                bCXfcAc0c0ZsJd9wBzRzRtuLMkh4kT7fBWQIhK/P8i36yCeJ9BVTwfzPpNB05jf2dFkfbvIAnE0fh4zze7kZyHQWIOMUiJEIXkHYLevG9whXcXhgjfmFAw==
+            </common_v47_0:NextResultReference>
+            <hotel:ReferencePoint State="CA">SAN FRANCISCO INTL ARPT</hotel:ReferencePoint>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="LQ" VendorLocationID="17352"
+                                             Key="WYmbFKBAAA/BID3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="LQ" HotelCode="17352" HotelLocation="SFO"
+                                     Name="LA QUINTA INN STE AIRPORT NORTH" VendorLocationKey="WYmbFKBAAA/BID3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>20 AIRPORT BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6514" longitude="-122.4089"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD160.55" MinAmountRateChanged="false" MaximumAmount="USD285.14"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="MC" VendorLocationID="01079"
+                                             Key="WYmbFKBAAA/BJD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="MC" HotelCode="01079" HotelLocation="SFO"
+                                     Name="SAN FRANCISCO AIRPORT MARRIOTT" VendorLocationKey="WYmbFKBAAA/BJD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Guarantee" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>BURLINGAME CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6026" longitude="-122.3722"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="56" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD129.00" MaximumAmount="USD354.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="CP" VendorLocationID="53063"
+                                             Key="WYmbFKBAAA/BKD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="CP" HotelCode="53063" HotelLocation="SFO"
+                                     Name="CROWNE PLAZA ARPT BURLINGAME" VendorLocationKey="WYmbFKBAAA/BKD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1177 AIRPORT BOULEVA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5918" longitude="-122.3598"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD121.94" MinAmountRateChanged="false" MaximumAmount="USD153.46"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HI" VendorLocationID="62245"
+                                             Key="WYmbFKBAAA/BLD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HI" HotelCode="62245" HotelLocation="SFO"
+                                     Name="HOLIDAY INN EXP AIRPORT NORTH" VendorLocationKey="WYmbFKBAAA/BLD3opCAAAA=="
+                                     ReserveRequirement="Other" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>373 SOUTH AIRPORT BL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6452" longitude="-122.4047"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD75.62" MinAmountRateChanged="false" MaximumAmount="USD105.45"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="BW" VendorLocationID="06257"
+                                             Key="WYmbFKBAAA/BMD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="BW" HotelCode="06257" HotelLocation="SFO"
+                                     Name="BEST WESTERN PLUS EL RANCHO" VendorLocationKey="WYmbFKBAAA/BMD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Guarantee" ParticipationLevel="2"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1100 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6072" longitude="-122.3979"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="SW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD161.49" MinAmountRateChanged="false" MaximumAmount="USD199.99"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="BW" VendorLocationID="11024"
+                                             Key="WYmbFKBAAA/BND3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="BW" HotelCode="11024" HotelLocation="SFO"
+                                     Name="BEST WESTERN PLUS GROSVENOR" VendorLocationKey="WYmbFKBAAA/BND3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>380 S AIRPORT BLVD.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6438" longitude="-122.4042"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="103" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="271" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD103.99" MinAmountRateChanged="false" MaximumAmount="USD189.99"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="SC" VendorLocationID="64698"
+                                             Key="WYmbFKBAAA/BOD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="SC" HotelCode="64698" HotelLocation="OAK" Name="BRIDGEPOINT INN"
+                                     VendorLocationKey="WYmbFKBAAA/BOD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>3255 GENEVA AVE.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.7051" longitude="-122.4079"/>
+                    <common_v47_0:Distance Units="MI" Value="7" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD157.50" MinAmountRateChanged="false" MaximumAmount="USD200.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HY" VendorLocationID="09974"
+                                             Key="WYmbFKBAAA/BPD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HY" HotelCode="09974" HotelLocation="SFO"
+                                     Name="HYATT REGENCY SAN FRANCISCO AIRPORT"
+                                     VendorLocationKey="WYmbFKBAAA/BPD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1333 BAYSHORE HWY</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5942" longitude="-122.3654"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="8" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="15" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="103" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="271" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="84" AmenityType="HA"/>
+                        <hotel:Amenity Code="91" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MinAmountRateChanged="false" MaximumAmount="USD684.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="RF" VendorLocationID="66023"
+                                             Key="WYmbFKBAAA/BQD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="RF" HotelCode="66023" HotelLocation="SFO"
+                                     Name="RED ROOF PLUS SAN FRANCISCO AIRPOR"
+                                     VendorLocationKey="WYmbFKBAAA/BQD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Other" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>777 AIRPORT BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5896" longitude="-122.348"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="60" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="56" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD75.65" MinAmountRateChanged="false" MaximumAmount="USD108.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HI" VendorLocationID="56342"
+                                             Key="WYmbFKBAAA/BRD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HI" HotelCode="56342" HotelLocation="SFO"
+                                     Name="HOLIDAY INN EXP AIRPORT SOUTH" VendorLocationKey="WYmbFKBAAA/BRD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1250 BAYSHORE HWY</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5923" longitude="-122.3628"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD88.31" MinAmountRateChanged="false" MaximumAmount="USD123.62"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HI" VendorLocationID="16818"
+                                             Key="WYmbFKBAAA/BSD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HI" HotelCode="16818" HotelLocation="SFO"
+                                     Name="HOLIDAY INN AIRPORT NORTH" VendorLocationKey="WYmbFKBAAA/BSD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Guarantee" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>275 SOUTH AIRPORT BL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6477" longitude="-122.4054"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="103" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD102.25" MinAmountRateChanged="false" MaximumAmount="USD143.62"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HY" VendorLocationID="66822"
+                                             Key="WYmbFKBAAA/BTD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HY" HotelCode="66822" HotelLocation="SFO"
+                                     Name="HYATT HOUSE BELMONT REDWOOD" VendorLocationKey="WYmbFKBAAA/BTD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Guarantee" ParticipationLevel="2"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>BELMONT CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5323" longitude="-122.2708"/>
+                    <common_v47_0:Distance Units="MI" Value="10" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="60" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="233" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD151.05" MinAmountRateChanged="false" MaximumAmount="USD279.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="CP" VendorLocationID="03401"
+                                             Key="WYmbFKBAAA/BUD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="CP" HotelCode="03401" HotelLocation="SFO"
+                                     Name="CROWNE PLAZA FOSTER CITY" VendorLocationKey="WYmbFKBAAA/BUD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Guarantee" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>FOSTER CITY CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5624" longitude="-122.2775"/>
+                    <common_v47_0:Distance Units="MI" Value="8" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="15" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="106" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="271" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD257.69" MinAmountRateChanged="false" MaximumAmount="USD322.85"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HI" VendorLocationID="21209"
+                                             Key="WYmbFKBAAA/BVD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HI" HotelCode="21209" HotelLocation="SFO"
+                                     Name="HOLIDAY INN HTL STES SAN MATEO" VendorLocationKey="WYmbFKBAAA/BVD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>330 NORTH BAYSHORE B</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5785" longitude="-122.3216"/>
+                    <common_v47_0:Distance Units="MI" Value="5" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="41" AmenityType="RA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="79" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="56" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD145.54" MinAmountRateChanged="false" MaximumAmount="USD201.62"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="LQ" VendorLocationID="27502"
+                                             Key="WYmbFKBAAA/BWD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="LQ" HotelCode="27502" HotelLocation="SFO"
+                                     Name="LA QUINTA INN STE SAN FRAN AP WEST"
+                                     VendorLocationKey="WYmbFKBAAA/BWD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Other" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1390 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6105" longitude="-122.4015"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="SW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="79" AmenityType="HA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD129.00" MinAmountRateChanged="false" MaximumAmount="USD168.54"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="YX" VendorLocationID="E7019"
+                                             Key="WYmbFKBAAA/BXD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="YX" HotelCode="E7019" HotelLocation="SFO" Name="EL CAMINO INN"
+                                     VendorLocationKey="WYmbFKBAAA/BXD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>7525 MISSION STREET</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6874" longitude="-122.4648"/>
+                    <common_v47_0:Distance Units="MI" Value="8" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD110.00" MinAmountRateChanged="false" MaximumAmount="USD140.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HH" VendorLocationID="07606"
+                                             Key="WYmbFKBAAA/BYD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HH" HotelCode="07606" HotelLocation="SFO"
+                                     Name="HILTON SAN FRANCISCO AIRPORT BAYFRO"
+                                     VendorLocationKey="WYmbFKBAAA/BYD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>600 AIRPORT BLVD.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5898" longitude="-122.343"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="16" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="44" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD146.69" MaximumAmount="USD466.69"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="YX" VendorLocationID="13729"
+                                             Key="WYmbFKBAAA/BZD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="YX" HotelCode="13729" HotelLocation="SFO"
+                                     Name="LARKSPUR LANDING SOUTH SFO" VendorLocationKey="WYmbFKBAAA/BZD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>690 GATEWAY BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6584" longitude="-122.3978"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="60" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD109.00" MinAmountRateChanged="false" MaximumAmount="USD159.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HI" VendorLocationID="08113"
+                                             Key="WYmbFKBAAA/BaD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HI" HotelCode="08113" HotelLocation="SFO"
+                                     Name="HOLIDAY INN EXP STES PACIFICA" VendorLocationKey="WYmbFKBAAA/BaD3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>519 NICK GUST WAY</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6088" longitude="-122.4967"/>
+                    <common_v47_0:Distance Units="MI" Value="7" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="41" AmenityType="RA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD163.61" MinAmountRateChanged="false" MaximumAmount="USD183.62"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HX" VendorLocationID="12816"
+                                             Key="WYmbFKBAAA/BbD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HX" HotelCode="12816" HotelLocation="SFO"
+                                     Name="HAMPTON INN SAN FRANCISCO AIRPORT"
+                                     VendorLocationKey="WYmbFKBAAA/BbD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>300 GATEWAY BLVD.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6562" longitude="-122.4006"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD144.00" MaximumAmount="USD184.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="DT" VendorLocationID="19036"
+                                             Key="WYmbFKBAAA/BcD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="DT" HotelCode="19036" HotelLocation="SFO"
+                                     Name="DOUBLETREE BY HILTON SAN FRANCISCO"
+                                     VendorLocationKey="WYmbFKBAAA/BcD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>835 AIRPORT BLVD.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5908" longitude="-122.3508"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="6" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD118.00" MaximumAmount="USD260.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="CI" VendorLocationID="16776"
+                                             Key="WYmbFKBAAA/BdD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="CI" HotelCode="16776" HotelLocation="SFO"
+                                     Name="COMFORT INN AND SUITES SAN FRANCISC"
+                                     VendorLocationKey="WYmbFKBAAA/BdD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>611 SAN BRUNO AVE. E</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.631" longitude="-122.4076"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MinAmountRateChanged="false" MaximumAmount="USD199.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="RA" VendorLocationID="56063"
+                                             Key="WYmbFKBAAA/BeD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="RA" HotelCode="56063" HotelLocation="SFO"
+                                     Name="RAMADA BY WYNDHAM SAN BRUNO SF" VendorLocationKey="WYmbFKBAAA/BeD3opCAAAA=="
+                                     HotelTransportation="9" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>500 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6235" longitude="-122.4124"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD135.15" MinAmountRateChanged="false" MaximumAmount="USD269.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="NZ" VendorLocationID="79449"
+                                             Key="WYmbFKBAAA/BfD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="NZ" HotelCode="79449" HotelLocation="SFO"
+                                     Name="VILLA MONTES HOTEL ASCEND HOTEL COL"
+                                     VendorLocationKey="WYmbFKBAAA/BfD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>SAN FRANCISCO CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6259" longitude="-122.4146"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="79" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD259.95" MinAmountRateChanged="false" MaximumAmount="USD309.95"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HT" VendorLocationID="E9908"
+                                             Key="WYmbFKBAAA/BgD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HT" HotelCode="E9908" HotelLocation="SFO"
+                                     Name="HOME2 SAN FRANCISCO AIRPORT NORTH"
+                                     VendorLocationKey="WYmbFKBAAA/BgD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Other" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>550 GATEWAY BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6571" longitude="-122.3992"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD189.00" MaximumAmount="USD219.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="GD" VendorLocationID="G0874"
+                                             Key="WYmbFKBAAA/BhD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="GD" HotelCode="G0874" HotelLocation="SFO" Name="HOTEL 1550"
+                                     VendorLocationKey="WYmbFKBAAA/BhD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Other" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1550 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6119" longitude="-122.4026"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MinAmountRateChanged="false" MaximumAmount="USD189.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="GD" VendorLocationID="20145"
+                                             Key="WYmbFKBAAA/BiD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="GD" HotelCode="20145" HotelLocation="SFO" Name="THE DYLAN HOTEL AT SFO"
+                                     VendorLocationKey="WYmbFKBAAA/BiD3opCAAAA==" HotelTransportation="31"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>110 SOUTH EL CAMINO</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5976" longitude="-122.3864"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="S"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD199.48" MinAmountRateChanged="false" MaximumAmount="USD999.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="SC" VendorLocationID="07330"
+                                             Key="WYmbFKBAAA/BjD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="SC" HotelCode="07330" HotelLocation="SFO"
+                                     Name="VAGABOND SANFRANCISCO BAYFRONT" VendorLocationKey="WYmbFKBAAA/BjD3opCAAAA=="
+                                     HotelTransportation="26" ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1640 OLD BAYSHORE HW</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6" longitude="-122.3681"/>
+                    <common_v47_0:Distance Units="MI" Value="2" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD138.00" MinAmountRateChanged="false" MaximumAmount="USD168.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="TQ" VendorLocationID="F9696"
+                                             Key="WYmbFKBAAA/BkD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="TQ" HotelCode="F9696" HotelLocation="SFO"
+                                     Name="PACIFICA LIGHTHOUSE HTL TRDMK" VendorLocationKey="WYmbFKBAAA/BkD3opCAAAA=="
+                                     HotelTransportation="26" ReserveRequirement="Other" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>105 ROCKAWAY BEACH A</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6101" longitude="-122.4963"/>
+                    <common_v47_0:Distance Units="MI" Value="7" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD125.16" MinAmountRateChanged="false" MaximumAmount="USD528.94"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="BT" VendorLocationID="69759"
+                                             Key="WYmbFKBAAA/BlD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="BT" HotelCode="69759" HotelLocation="SFO" Name="HOTEL AURA SFO AIRPORT"
+                                     VendorLocationKey="WYmbFKBAAA/BlD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>190 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6175" longitude="-122.4085"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MinAmountRateChanged="false" MaximumAmount="USD179.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="YX" VendorLocationID="B5447"
+                                             Key="WYmbFKBAAA/BmD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="YX" HotelCode="B5447" HotelLocation="SQL" Name="LIA HOTEL"
+                                     VendorLocationKey="WYmbFKBAAA/BmD3opCAAAA==" ReserveRequirement="Guarantee"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>950 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6541" longitude="-122.433"/>
+                    <common_v47_0:Distance Units="MI" Value="4" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD202.99" MinAmountRateChanged="false" MaximumAmount="USD242.99"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="FN" VendorLocationID="40436"
+                                             Key="WYmbFKBAAA/BnD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="FN" HotelCode="40436" HotelLocation="SFO"
+                                     Name="FAIRFIELD INN N STES MARRIOTT" VendorLocationKey="WYmbFKBAAA/BnD3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>250 EL CAMINO REAL</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6005" longitude="-122.3898"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="S"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="79" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="84" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD80.00" MaximumAmount="USD139.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="BV" VendorLocationID="44961"
+                                             Key="WYmbFKBAAA/BoD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="BV" HotelCode="44961" HotelLocation="SFO"
+                                     Name="ABVIS SOUTH SAN FRANCISCO" VendorLocationKey="WYmbFKBAAA/BoD3opCAAAA=="
+                                     HotelTransportation="26" ReserveRequirement="Guarantee" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>701 AIRPORT BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6586" longitude="-122.4062"/>
+                    <common_v47_0:Distance Units="MI" Value="4" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD126.00" MinAmountRateChanged="false" MaximumAmount="USD250.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="RC" VendorLocationID="15314"
+                                             Key="WYmbFKBAAA/BpD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="RC" HotelCode="15314" HotelLocation="SFO"
+                                     Name="RESIDENCE INN SAN MAT MARRIOTT" VendorLocationKey="WYmbFKBAAA/BpD3opCAAAA=="
+                                     HotelTransportation="26" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>SAN MATEO CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.556" longitude="-122.2823"/>
+                    <common_v47_0:Distance Units="MI" Value="8" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="46" AmenityType="RC"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD219.00" MaximumAmount="USD239.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="YZ" VendorLocationID="64526"
+                                             Key="WYmbFKBAAA/BqD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="YZ" HotelCode="64526" HotelLocation="SFO"
+                                     Name="STAYBRIDGE SUITES AIRPORT" VendorLocationKey="WYmbFKBAAA/BqD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1350 HUNTINGON AVENU</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6406" longitude="-122.4193"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="289" AmenityType="HA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="59" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="66" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="116" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD214.85" MinAmountRateChanged="false" MaximumAmount="USD301.15"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="GI" VendorLocationID="25630"
+                                             Key="WYmbFKBAAA/BrD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="GI" HotelCode="25630" HotelLocation="SFO"
+                                     Name="HILTON GARDEN INN SAN FRANCISCO AIR"
+                                     VendorLocationKey="WYmbFKBAAA/BrD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>765 AIRPORT BLVD.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5891" longitude="-122.3495"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="RA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MaximumAmount="USD212.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="WV" VendorLocationID="A6928"
+                                             Key="WYmbFKBAAA/BsD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="WV" HotelCode="A6928" HotelLocation="SFO" Name="PACIFICA BEACH HOTEL"
+                                     VendorLocationKey="WYmbFKBAAA/BsD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>PACIFICA CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5999" longitude="-122.4991"/>
+                    <common_v47_0:Distance Units="MI" Value="7" Direction="W"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="175" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="174" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD219.00" MinAmountRateChanged="true" MaximumAmount="USD269.00"
+                                MaxAmountRateChanged="true"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="AR" VendorLocationID="D9115"
+                                             Key="WYmbFKBAAA/BtD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="AR" HotelCode="D9115" HotelLocation="SFO"
+                                     Name="AC BY MARRIOTT SFO AIRPORT" VendorLocationKey="WYmbFKBAAA/BtD3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1333 VETERANS BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6644" longitude="-122.3957"/>
+                    <common_v47_0:Distance Units="MI" Value="4" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="60" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="84" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD129.00" MaximumAmount="USD469.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="RA" VendorLocationID="37141"
+                                             Key="WYmbFKBAAA/BuD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="RA" HotelCode="37141" HotelLocation="SFO"
+                                     Name="RAMADA LIMITED SAN FRANCISCO A" VendorLocationKey="WYmbFKBAAA/BuD3opCAAAA=="
+                                     HotelTransportation="7" ReserveRequirement="Other" ParticipationLevel="4"
+                                     Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>721 AIRPORT BLVD</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6593" longitude="-122.4059"/>
+                    <common_v47_0:Distance Units="MI" Value="4" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD89.24" MinAmountRateChanged="false" MaximumAmount="USD114.99"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="BW" VendorLocationID="30865"
+                                             Key="WYmbFKBAAA/BvD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="BW" HotelCode="30865" HotelLocation="SFO" Name="BW COYOTE POINT INN"
+                                     VendorLocationKey="WYmbFKBAAA/BvD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Other" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>480 N BAYSHORE BOULE</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5805" longitude="-122.3236"/>
+                    <common_v47_0:Distance Units="MI" Value="5" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="23" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="103" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="79" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD219.00" MinAmountRateChanged="false" MaximumAmount="USD269.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="CY" VendorLocationID="14152"
+                                             Key="WYmbFKBAAA/BwD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="CY" HotelCode="14152" HotelLocation="SFO"
+                                     Name="COURTYARD SAN MATEO MARRIOTT" VendorLocationKey="WYmbFKBAAA/BwD3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>FOSTER CITY CA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.5598" longitude="-122.2734"/>
+                    <common_v47_0:Distance Units="MI" Value="9" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="20" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="38" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="84" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD159.00" MaximumAmount="USD424.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="FP" VendorLocationID="37070"
+                                             Key="WYmbFKBAAA/BxD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="FP" HotelCode="37070" HotelLocation="SFO"
+                                     Name="FOUR POINTS SAN FRAN AIRPORT" VendorLocationKey="WYmbFKBAAA/BxD3opCAAAA=="
+                                     ReserveRequirement="Guarantee" ParticipationLevel="4" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>264 SOUTH AIRPORT BO</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6481" longitude="-122.4053"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="269" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD329.00" MaximumAmount="USD479.00"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="HX" VendorLocationID="52610"
+                                             Key="WYmbFKBAAA/ByD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="HX" HotelCode="52610" HotelLocation="SFO"
+                                     Name="HAMPTON INN ANDAMP  SUITES SAN FRAN"
+                                     VendorLocationKey="WYmbFKBAAA/ByD3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>1755 BAYSHORE HIGHWA</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6019" longitude="-122.3715"/>
+                    <common_v47_0:Distance Units="MI" Value="1" Direction="SE"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="42" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="88" AmenityType="RA"/>
+                        <hotel:Amenity Code="92" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="122" AmenityType="RA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD151.00" MaximumAmount="USD190.54"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="CI" VendorLocationID="18129"
+                                             Key="WYmbFKBAAA/BzD3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="CI" HotelCode="18129" HotelLocation="SFO"
+                                     Name="COMFORT INN AND SUITES SAN FRANCISC"
+                                     VendorLocationKey="WYmbFKBAAA/BzD3opCAAAA==" HotelTransportation="26"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>121 E. GRAND AVE.</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6546" longitude="-122.4049"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="NW"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>2</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="43" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="142" AmenityType="RA"/>
+                        <hotel:Amenity Code="84" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="69" AmenityType="HA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD119.00" MinAmountRateChanged="false" MaximumAmount="USD149.00"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="ES" VendorLocationID="74990"
+                                             Key="WYmbFKBAAA/B0D3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="ES" HotelCode="74990" HotelLocation="SFO"
+                                     Name="EMBASSY SUITES BY HILTON SAN FRANCI"
+                                     VendorLocationKey="WYmbFKBAAA/B0D3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" ParticipationLevel="2" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>250 GATEWAY BOULEVAR</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.6556" longitude="-122.4013"/>
+                    <common_v47_0:Distance Units="MI" Value="3" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>3</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="5" AmenityType="HA"/>
+                        <hotel:Amenity Code="7" AmenityType="RA"/>
+                        <hotel:Amenity Code="51" AmenityType="RA"/>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="913" AmenityType="HA"/>
+                        <hotel:Amenity Code="228" AmenityType="HA"/>
+                        <hotel:Amenity Code="22" AmenityType="HA"/>
+                        <hotel:Amenity Code="33" AmenityType="HA"/>
+                        <hotel:Amenity Code="45" AmenityType="HA"/>
+                        <hotel:Amenity Code="236" AmenityType="HA"/>
+                        <hotel:Amenity Code="47" AmenityType="HA"/>
+                        <hotel:Amenity Code="48" AmenityType="HA"/>
+                        <hotel:Amenity Code="68" AmenityType="RA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="165" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="270" AmenityType="HA"/>
+                        <hotel:Amenity Code="74" AmenityType="RA"/>
+                        <hotel:Amenity Code="68" AmenityType="HA"/>
+                        <hotel:Amenity Code="224" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="71" AmenityType="HA"/>
+                        <hotel:Amenity Code="54" AmenityType="HA"/>
+                        <hotel:Amenity Code="77" AmenityType="HA"/>
+                        <hotel:Amenity Code="78" AmenityType="HA"/>
+                        <hotel:Amenity Code="251" AmenityType="RA"/>
+                        <hotel:Amenity Code="18" AmenityType="RA"/>
+                        <hotel:Amenity Code="85" AmenityType="RA"/>
+                        <hotel:Amenity Code="102" AmenityType="RA"/>
+                        <hotel:Amenity Code="13" AmenityType="RA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD191.69" MaximumAmount="USD276.31"/>
+            </hotel:HotelSearchResult>
+            <hotel:HotelSearchResult>
+                <common_v47_0:VendorLocation ProviderCode="1V" VendorCode="YX" VendorLocationID="60690"
+                                             Key="WYmbFKBAAA/B1D3opCAAAA=="/>
+                <hotel:HotelProperty HotelChain="YX" HotelCode="60690" HotelLocation="SFO" Name="ALPINE INN   SUITES"
+                                     VendorLocationKey="WYmbFKBAAA/B1D3opCAAAA==" HotelTransportation="7"
+                                     ReserveRequirement="Guarantee" Availability="Available">
+                    <hotel:PropertyAddress>
+                        <hotel:Address>560 CARTER STREET</hotel:Address>
+                    </hotel:PropertyAddress>
+                    <common_v47_0:CoordinateLocation latitude="37.71" longitude="-122.42"/>
+                    <common_v47_0:Distance Units="MI" Value="8" Direction="N"/>
+                    <hotel:HotelRating RatingProvider="AAA">
+                        <hotel:Rating>0</hotel:Rating>
+                    </hotel:HotelRating>
+                    <hotel:Amenities>
+                        <hotel:Amenity Code="227" AmenityType="HA"/>
+                        <hotel:Amenity Code="159" AmenityType="HA"/>
+                        <hotel:Amenity Code="58" AmenityType="HA"/>
+                        <hotel:Amenity Code="162" AmenityType="HA"/>
+                        <hotel:Amenity Code="107" AmenityType="RA"/>
+                        <hotel:Amenity Code="76" AmenityType="HA"/>
+                        <hotel:Amenity Code="274" AmenityType="HA"/>
+                        <hotel:Amenity Code="264" AmenityType="HA"/>
+                    </hotel:Amenities>
+                </hotel:HotelProperty>
+                <hotel:RateInfo MinimumAmount="USD103.99" MinAmountRateChanged="false" MaximumAmount="USD123.99"
+                                MaxAmountRateChanged="false"/>
+            </hotel:HotelSearchResult>
+        </hotel:HotelSearchAvailabilityRsp>
+    </SOAP:Body>
+</SOAP:Envelope>
